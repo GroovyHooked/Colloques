@@ -147,6 +147,7 @@ header {
 
 .card-custom-infos {
 	font-size: 0.8rem;
+	pointer-events: auto;
 }
 
 .card-custom-img {
@@ -158,7 +159,8 @@ header {
 
 .card-custom-img-block {
 	position: relative;
-	z-index: 1000;
+	z-index: 900;
+	pointer-events: none;
 }
 
 .card-custom-link {
@@ -182,6 +184,7 @@ header {
 	text-decoration: none;
 	-webkit-transform: translate(0, -50%);
 	transform: translate(0, -50%);
+	pointer-events: auto;
 }
 
 .card-custom-link:last-of-type {
@@ -279,6 +282,7 @@ header {
 	background-size: 40% 3px;
 	background-position: 16%;
 	position: relative;
+	pointer-events: none;
 }
 
 .custom-card-row::before {

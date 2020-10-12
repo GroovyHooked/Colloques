@@ -25,9 +25,9 @@
 						<img class="img-cerisy-footer" src="<?= base_url("/resources/img/img-1.jpg") ?>" alt="logo colloques cerisy">
 					</div>
 					<div class="text-center p-2">
-						<a class="lien p-2" href="<?= base_url("/contact") ?>">Contacts</a>
-						<a class="lien p-2" href="<?= base_url("/mentionslegales") ?>"> Mentions légales</a>
-						<a class="lien p-2" href="https://cerisy-colloques.fr/venir-a-cerisy/" target="_blank"> Venir à Cerisy</a>
+						<a class="lien p-1" href="<?= base_url("/contact") ?>">Contacts</a>
+						<a class="lien p-1" href="<?= base_url("/mentionslegales") ?>"> Mentions légales</a>
+						<a class="lien p-1" href="https://cerisy-colloques.fr/venir-a-cerisy/" target="_blank"> Venir à Cerisy</a>
 					</div>
 					<div class="icon d-flex justify-content-center p-2">
 						<a href="https://www.facebook.com/CerisyColloques/" target="_blank"><i class="fab fa-facebook-f fa-2x iconfb"></i></a>
