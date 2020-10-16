@@ -11,12 +11,8 @@
 /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 
-
--- Listage de la structure de la base pour cerisy
-CREATE DATABASE IF NOT EXISTS `cerisy` /*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `cerisy`;
-
 -- Listage de la structure de la table cerisy. intervenants
+DROP TABLE IF EXISTS `intervenants`;
 CREATE TABLE IF NOT EXISTS `intervenants` (
   `id` char(50) NOT NULL,
   `url_photo` varchar(255) DEFAULT NULL,
@@ -24,7 +20,7 @@ CREATE TABLE IF NOT EXISTS `intervenants` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
--- Listage des données de la table cerisy.intervenants : ~58 rows (environ)
+-- Listage des données de la table cerisy.intervenants : ~56 rows (environ)
 /*!40000 ALTER TABLE `intervenants` DISABLE KEYS */;
 INSERT INTO `intervenants` (`id`, `url_photo`, `biographie`) VALUES
 	('610jeanlouislaville', NULL, 'Jean-Louis Laville, est membre du LISE (laboratoire interdisciplinaire pour la sociologie économique), professeur du Cnam, où il est titulaire de la Chaire  « Économie Solidaire » et enseigne dans le cadre du mastère Sciences du travail et de la société « Ressources humaines et sociologie », et chercheur à l’IFRIS, où il coordonne l’axe « Innovation sociale » du LabEx SITES (Laboratoire d’excellence Sciences, innovation et techniques en société) consacré à l’innovation. Également coordinateur européen du Karl Polanyi Institute of Political Economy, il est membre fondateur et secrétaire général du réseau européen EMES qui organise des activités scientifiques internationales régulières sur l’innovation sociale, et du réseau sud-américain RILESS (Réseau de chercheurs latino-américains sur l’économie sociale et solidaire).'),
@@ -76,9 +72,9 @@ INSERT INTO `intervenants` (`id`, `url_photo`, `biographie`) VALUES
 	('652jeanlouisbancel', NULL, 'Président du Crédit Coopératif et co-fondateur de La Coop des Communs, Jean-Louis Bancel est également président de l\'Alliance coopérative internationale (ACI).\r\n'),
 	('653noemiedegrenier', NULL, 'Diplômée de l\'IEP de Lille et de l\'Université de Louvain-la-Neuve, Noémie de Grenier est co-directrice de Coopaname, une coopérative d’activité et d’emploi francilienne.\r\n'),
 	('654lescapteursdeliens', NULL, 'Une équipe de neuf capteurs et capteuses chargés de cueillir, au fil de leur poussée dans les différents lieux et temps du colloque, les liens de toutes sortes : liens entre les territoires, au présent ou au futur, entre les personnes, liens réels ou virtuels, tenant lieu d’exemples, révélant une difficulté, manifestant un désaccord. Un quartier général avait été établi dans un des lieux de Cerisy, à l’Étable, pour déposer ces liens  à l’aide de post-it. Les capteurs de liens sont décrits avec poésie et fantaisie à la page 176 du livre.\r\n'),
-	('655edithheurgon', NULL, 'Docteur en mathématiques appliquées (Paris VI), Édith Heurgon a été pendant plusieurs années responsable de la mission Prospective de la RATP. Elle est la directrice emblématique du Centre culturel international de Cerisy-la-Salle depuis 2006. Voir le livre page 197 et suivantes.\r\n'),
+	('655edithheurgon', NULL, 'Docteur en mathématiques appliquées (Paris VI), Édith Heurgon a été pendant plusieurs années responsable de la mission Prospective de la RATP, où elle a notamment développé la "prospective du présent". Elle est la directrice emblématique du Centre culturel international de Cerisy-la-Salle depuis 1977. Sa dernière publication: Tous VOLONTAIRES AU MONDE, jardiniers du bien commun. Une prospective du présent à deux voix avec Alain Raymond (Hermann, 2019).  Voir le livre page 197 et suivantes.'),
 	('656lechateaudecerisy', NULL, 'Le château de Cerisy est un intervenant à part entière des colloques qui s\'y déroulent. Le Centre culturel international de Cerisy propose, chaque année, de fin mai à début octobre, dans le cadre accueillant de ce château construit au début du XVIIe siècle, monument historique, des rencontres réunissant artistes, chercheurs, enseignants, étudiants, acteurs économiques et sociaux, mais aussi un vaste public intéressé par les échanges culturels et scientifiques. Tout au long du livre et dans les ressources de cette page vous pouvez découvrir et retrouver les spécificités et apports des différents espaces qui le composent. \r\n'),
-	('657lequipedecerisy', NULL, 'Édith Heurgon assure l\'animation du Centre, avec le concours de ses neveux (Anne Peyrou-Bas, Christian Peyrou et Dominique Peyrou), groupés dans la Société civile du château de Cerisy, et le soutien d\'une équipe efficace et dévouée, dirigée par Philippe Kister.\r\n'),
+	('657lequipedecerisy', NULL, 'Le Centre culturel international de Cerisy est le moyen d’action de l’Association des Amis de Pontigny-Cerisy, reconnue d’utilité publique (pp. 197-198), présidé actuellement par Jean-Baptiste de Foucauld. Il est co-dirigé par Edith Heurgon et son neveu Dominique Peyrou avec le concours d\'Anne Peyrou-Bas, Christian Peyrou et Dominique Peyrou, groupés dans la Société civile du château de Cerisy, et le soutien d\'une équipe efficace et dévouée, dirigée par Philippe Kister avec notamment Michael Morel et Jean-Christophe Tournière. En 2021, au départ à la retraite de Philippe Kister, Arnaud Chauvel assure les fonctions de chef d’établissement. Pour participer aux colloques de Cerisy, il convient d’adhérer à l’Association.'),
 	('658-participants-non-intervenants', NULL, 'Les colloques de Cerisy n\'existeraient pas sans leurs participants et la sagacité de leurs interventions, remarques et questions qui alimentent les débats en sortant parfois les intervenants de leur zone de confort !\r\n'),
 	('65barbarabinbarrois', NULL, 'Barbara Blin-Barrois a animé la genèse de la Scic ôkhra qui porte le pôle territorial de coopération économique Matières et Couleurs du Luberon-Provence et qui a créé le Conservatoire des ocres et de la couleur, implanté en région Provence-Alpes-Côte d’Azur. Cette dynamique débute en 1994 lorsque les deux fondateurs, dont Barbara Blin-Barrois, décident d’ancrer leur méthodologie de redynamisation économique des savoirs techniques – méthodologie inspirée de celle des économusées du Québec [entreprises artisanales œuvrant dans le secteur des métiers d\'art ou de l\'agroalimentaire] – à Roussillon, au pays des ocres. '),
 	('66fatimamostafaoui', NULL, 'Fatima Mostefaoui agit pour que les habitants des Flamants à Marseille soient écoutés et deviennent acteurs du devenir de leur quartier. Elle a notamment occupé récemment le devant de la scène, propulsée porte-parole d’un collectif de femmes des cités de Marseille réclamant qu’une partie des biens saisis au crime organisé (des fraudes fiscales des entreprises aux malversations des cols blancs, en passant par ce qui se passe dans les cités) soit réaffectée à des projets d’économie solidaire pour les quartiers en déshérence.'),
@@ -88,6 +84,7 @@ INSERT INTO `intervenants` (`id`, `url_photo`, `biographie`) VALUES
 /*!40000 ALTER TABLE `intervenants` ENABLE KEYS */;
 
 -- Listage de la structure de la table cerisy. timeline
+DROP TABLE IF EXISTS `timeline`;
 CREATE TABLE IF NOT EXISTS `timeline` (
   `id` varchar(128) NOT NULL,
   `nom` varchar(255) DEFAULT NULL,
@@ -120,7 +117,7 @@ INSERT INTO `timeline` (`id`, `nom`, `date`, `url`, `edition`, `order`, `showint
 	('lessuitesducolloque', 'les suites du colloque', 'Après le colloque', 'https://cloud.scic-tetris.org/s/GB7S1F9AseG45kk', '2019', 34, 1),
 	('makingoffducolloqueintroduction', 'Making off du colloque', 'Avant le colloque', 'https://cloud.scic-tetris.org/s/PIa2StPjHXmjmRB', '2019', 1, 1),
 	('pleniere1democratieetsolidarite', 'Plénière 1 - Démocratie et solidarité', 'Samedi 13 Juillet', 'https://cloud.scic-tetris.org/s/ktIqwns5pFcVOcg', '2019', 5, 1),
-	('pleniere2faireatterirlescommunsnumeriques', 'Plénière 2 - Faire attérir les communs numériques ', 'Dimanche 14 Juillet', 'https://cloud.scic-tetris.org/s/bBLB8bzIBHEmcM5', '2019', 9, 1),
+	('pleniere2faireatterirlescommunsnumeriques', 'Plénière 2 - Faire atterrir les communs numériques ', 'Dimanche 14 Juillet', 'https://cloud.scic-tetris.org/s/bBLB8bzIBHEmcM5', '2019', 9, 1),
 	('pleniere3letempsdesmesorepubliquesintercooperatives', 'Plénière 3 - Le temps des méso-républiques inter-coopératives', 'Lundi 15 Juillet', 'https://cloud.scic-tetris.org/s/EiyPUqyW2569Nux', '2019', 10, 1),
 	('pleniere4economiesymbiotiqueecologieetcommun', 'Plénière 4 - Economie symbiotique, écologie et commun', 'Mercredi 17 Juillet', 'https://cloud.scic-tetris.org/s/CXz9XxkWUPshyOa', '2019', 22, 1),
 	('rapportsdetonnements', 'Rapports d\'étonnements', 'Vendredi 19 Juillet', 'https://cloud.scic-tetris.org/s/ZLMHtngrHCDk2s3', '2019', 31, 1),

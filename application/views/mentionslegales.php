@@ -4,13 +4,12 @@
             <h1>Mentions légales</h1>
             <img src="<?= base_url("/resources/img/mentions-legales.JPG") ?>" />
             <h2>Édition</h2>
-            <h3>Collectif composé de Editions de l'Atelier - Le Centre Culturel de Cerisy - La Chaire ESS de l'Université Gustave Eiffel - La Chaire ESS du CNAM</h3>
+            <h3>Collectif composé de Editions de l'Atelier - La Chaire ESS de l'Université Gustave Eiffel - La Chaire ESS du CNAM</h3>
             <p>
-                2, Le Château<br>
-                50210 Cerisy-la-salle (France)<br>
-                Tél : (+ 33) 2 33 46 91 66<br>
-                SIRET : 784 671 315 00025<br><br>
-                <strong>Directeur de la publication : </strong>Jean-Baptiste de Foucauld, président de l'Association des Amis de Pontigny-Cerisy
+				LES ÉDITIONS DE L’ATELIER<br>
+				51-55 rue Hoche <br>
+				94200 IVRY-SUR-SEINE<br>
+				Tél. + 33 (0)1 45 15 20 20<br>
             </p>
 
 			<h2>Réalisation technique</h2>
