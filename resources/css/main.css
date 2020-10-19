@@ -381,13 +381,13 @@ header {
 
 .accueil::after {
 	content: "";
-	background: center / cover no-repeat url(../img/TerritoiresSolidiares2019.jpg);
+	background: repeat url(../img/TerritoiresSolidiares2019.jpg);
 	opacity: 0.2;
 	top: 0;
 	left: 0;
 	bottom: 0;
 	right: 0;
-	position: absolute;
+	position: fixed;
 	z-index: -5;
 }
 
@@ -461,3 +461,5 @@ header {
 		z-index: -1;
 	}
 }
+
+

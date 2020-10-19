@@ -120,6 +120,10 @@ header {
 	height: 74px;
 }
 
+footer {
+	background-color: #fff ;
+}
+
 
 
 @media screen and (max-width: 576px){
@@ -152,11 +156,12 @@ header {
    /* ==========
     FOOTER
   ============= */
+
  .img-cerisy-footer{
    display: block;
    /*width: 130px;*/
-	 max-width: 50%;
-	 height: 50px;
+	/* max-width: 50%;
+	 height: 50px;*/
  }
 
  .logo-footer {
@@ -168,3 +173,4 @@ header {
 }
 
 }
+

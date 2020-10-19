@@ -80,7 +80,7 @@ class Maincontroller extends CI_Controller
 		$this->datas["titre"] = "Thématiques abordées" ;
 
 		$thematiques = $this->db_json->getThematiques() ;
-
+		array_multisort(array_keys($thematiques), SORT_NATURAL | SORT_FLAG_CASE, $thematiques);
 		$this->datas["thematiques"] = $thematiques ;
 		$this->load->view('templates/header', $this->datas);
 		$this->load->view('thematiques', $this->datas);
