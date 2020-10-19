@@ -115,6 +115,7 @@ header {
   display: block;
   max-width: 130px;
 	height: unset;
+	height: 33px;
 }
 .logo-footer {
 	height: 74px;
@@ -165,11 +166,11 @@ footer {
  }
 
  .logo-footer {
-     height: 59px;
+     height: 56px;
  }
 
 .logo-footer {
-	height: 3em;
+	height: 4em;
 }
 
 }
