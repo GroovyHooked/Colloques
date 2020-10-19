@@ -10,13 +10,13 @@ header {
 }
 
 .btn-achat{
-    border-color: black;
+    /*border-color: black;*/
     width: 133px;
     height: 37px;
 }
-.lien-edition, .lien-edition:visited, .lien-edition:active {
+.lien-edition:hover, .lien-edition:visited, .lien-edition:active {
     text-decoration: none;
-    color: black;
+    color: #ffffff;
 }
 
 .title-search {

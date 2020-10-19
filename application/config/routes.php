@@ -60,6 +60,8 @@ $route['translate_uri_dashes'] = FALSE;
 // routes vers des pages statiques (sans paramètres dans la requete)
 $route['index'] = 'maincontroller/index'; // deux moyens d'accéder à l'index
 $route['home'] = 'maincontroller/index';
+$route['timeline'] = 'maincontroller/timeline';
+$route['thematiques'] = 'maincontroller/thematiques';
 $route['mentionslegales'] = 'maincontroller/mentionslegales';
 $route['contact'] = 'maincontroller/contact';
 

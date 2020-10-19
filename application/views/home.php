@@ -1,39 +1,39 @@
-	<div class="container text-center">
-<?php
-foreach ($timelines as $date_array) {
-    $edition = $date_array[0]["edition"];
-    $date = $date_array[0]["date"];
-    ?>
 
-	<div class="custom-edition my-5">
-		<div class="row custom-edition-row">
-			<div class="col-12">
-				<div class="custom-date text-center">
-					<p><?=$edition?></p>
-					<h3 class="title"><?=$date?></h3>
-				</div>
+<div class="container pt-5 accueil">
+
+	<!--  couverture + résumé  -->
+	<div class="container accueil__haut mb-lg-5 ">
+		<div class="row">
+			<div class="col-12 col-lg-6 offset-lg-1 text-center">
+				<img src="<?= base_url("/resources/img/couverture_territoires_solidaires.png") ?>" alt="Couverture du livre" class=" mb-3 border border-dark couverture">
+			</div>
+
+			<div class="col-12 col-lg-5 text-center align-self-center d-lg-flex flex-column  align-items-lg-center">
+				<button type="button " class="btn bouton__livre btn-success order-lg-2"><a class="lien-edition"  href="http://www.editionsatelier.com/index.php?page=shop.product_details&flypage=bookshop-flypage.tpl&product_id=816&category_id=47&manufacturer_id=1&option=com_virtuemart&Itemid=1" target="_blank">Acheter sur Les Éditions de l'Atelier</a></button>
+				<p class="p-3 descriptif__livre order-lg-1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis cum accusantium voluptatum labore? Eaque tempora impedit, omnis, blanditiis sint delectus maiores laborum, consectetur similique nihil repellendus rerum animi tempore vitae
+					sint delectus maiores laborum, consectetur similique nihil repellendus rerum animi tempore vita. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis cum accusantium voluptatum labore? Eaque tempora impedit, omnis, blanditiis sint delectus maiores laborum, consectetur similique nihil repellendus rerum animi tempore vitae
+					sint delectus maiores laborum, consectetur similique nihil repellendus rerum animi tempore vita. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis cum accusantium voluptatum labore? Eaque tempora impedit, omnis, blanditiis sint delectus maiores laborum, consectetur similique nihil repellendus rerum animi tempore vitae
+					sint delectus maiores laborum, consectetur similique nihil repellendus rerum animi tempore vita.</p>
+
+					<div class="col-12 order-lg-4 mt-3" >
+						<a href="<?= base_url("/thematique/01-elements-de-mode-demploi") ?>"><button type="button" class="btn btn-secondary w-lg-50 w-100 mb-3 py-2">Modes d'emploi des conférences</button></a>
+					</div>
+					<div class="col-12 order-lg-5">
+						<a href="<?= base_url("/timeline") ?>"><button type="button " class="btn btn-secondary w-lg-50 w-100 mb-3 py-2">Déroulé de l'événement</button></a>
+					</div>
+					<div class="col-12 order-lg-6">
+						<a href="<?= base_url("/thematiques") ?>"><button type="button " class="btn btn-secondary w-lg-50 w-100 mb-3 py-2">Thématiques abordées</button></a>
+					</div>
+
+
+
 			</div>
 		</div>
-		<?php foreach ($date_array as $conference) {?>
-		<div class="row justify-content-center custom-card-row">
-			<div class="col-12 col-md-6 col-lg-4 col-xl-3">
-				<?php
-$datas = array();
-        $datas["timeline_id"] = $conference["id"];
-        $datas["timeline_name"] = $conference["nom"];
-        $datas["thematiques"] = array();
-        if (isset($db->getThematiquesByTimeline()[$conference["id"]])) {
-            $datas["thematiques"] = $db->getThematiquesByTimeline()[$conference["id"]];
-        }
-
-        $this->load->view('templates/card-timeline', $datas);?>
 	</div>
+
+
+	<!-- Liens mode d'emploi / Timeline / Thématique  -->
+
+
 </div>
-    <?php }?>
-	</div>
-<?php
-}
-?>
-	</div>
-
 

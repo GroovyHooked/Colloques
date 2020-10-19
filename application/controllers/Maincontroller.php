@@ -55,12 +55,35 @@ class Maincontroller extends CI_Controller
 		$this->datas["meta_infos"]["titre"] = "Accueil" ;
 		$this->datas["titre"] = "Accueil" ;
 
+		$this->load->view('templates/header', $this->datas);
+		$this->load->view('home', $this->datas);
+		$this->load->view('templates/footer', $this->datas);
+	}
+
+	public function timeline()
+	{
+		$this->datas["meta_infos"]["titre"] = "Déroulé chronologique de l'événement" ;
+		$this->datas["titre"] = "Déroulé de l'événement" ;
+
 		$timeline_db = new TimelineDB() ;
 		$conferences = $timeline_db->get_all_timelines_by_date() ;
 
 		$this->datas["timelines"] = $conferences ;
 		$this->load->view('templates/header', $this->datas);
-		$this->load->view('home', $this->datas);
+		$this->load->view('timeline', $this->datas);
+		$this->load->view('templates/footer', $this->datas);
+	}
+
+	public function thematiques()
+	{
+		$this->datas["meta_infos"]["titre"] = "Découvrez l'événement par les thématiques" ;
+		$this->datas["titre"] = "Thématiques abordées" ;
+
+		$thematiques = $this->db_json->getThematiques() ;
+
+		$this->datas["thematiques"] = $thematiques ;
+		$this->load->view('templates/header', $this->datas);
+		$this->load->view('thematiques', $this->datas);
 		$this->load->view('templates/footer', $this->datas);
 	}
 

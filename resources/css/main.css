@@ -373,3 +373,92 @@ header {
 	width: 100%;
 	background: center / cover no-repeat;
 }
+
+
+.accueil {
+	/*height: 100vh;*/
+}
+
+.accueil::after {
+	content: "";
+	margin-top: 100px;
+	background: center url(resources/img/TerritoiresSolidiares2019.jpg);
+	opacity: 0.2;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	position: absolute;
+	z-index: -5;
+}
+
+.descriptif__livre:before {
+	content: '';
+	position: absolute;
+	width: 100%;
+	height: 75%;
+	top: 55px;
+	left: 0;
+	border-radius: 15px;
+	background-color: rgba(255, 255, 255, 0.7);
+	z-index: -1;
+}
+
+.couverture {
+	width: calc(40% + 15vw);
+}
+
+.bouton__livre {
+	width: 60%;
+}
+
+@media (min-width: 576px) {
+	.descriptif__livre:before {
+		content: '';
+		position: absolute;
+		width: 100%;
+		height: 75%;
+		top: 30px;
+		left: 0px;
+		border-radius: 15px;
+		background-color: rgba(255, 255, 255, 0.7);
+		z-index: -1;
+	}
+}
+
+@media (min-width: 768px) {
+	.descriptif__livre:before {
+		content: '';
+		position: absolute;
+		width: 90%;
+		height: 75%;
+		top: 30px;
+		left: 40px;
+		border-radius: 15px;
+		background-color: rgba(255, 255, 255, 0.7);
+		z-index: -1;
+	}
+}
+
+@media (min-width: 992px) {
+	.accueil {
+		/*height: 100vh;*/
+	}
+	.couverture {
+		width: calc(55% + 10vw);
+	}
+	.accueil__bas {
+		margin-top: calc(15% - 5vw);
+	}
+	.descriptif__livre:before {
+		content: '';
+		position: absolute;
+		width: 100%;
+		height: 70%;
+		top: 5px;
+		left: 0;
+		border-radius: 15px;
+		background-color: rgba(255, 255, 255, 0.7);
+		z-index: -1;
+	}
+}
