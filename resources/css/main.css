@@ -382,7 +382,7 @@ header {
 .accueil::after {
 	content: "";
 	margin-top: 100px;
-	background: center url(resources/img/TerritoiresSolidiares2019.jpg);
+	background: center url(../img/TerritoiresSolidiares2019.jpg);
 	opacity: 0.2;
 	top: 0;
 	left: 0;
