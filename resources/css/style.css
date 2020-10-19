@@ -58,6 +58,9 @@ header {
     border-bottom: 2px solid rgb(233, 233, 233);
 }
 
+.navbar {
+	background-color: #fff;
+}
 
 .iconfb {
     width: 40px;
