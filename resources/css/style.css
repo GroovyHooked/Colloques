@@ -9,6 +9,16 @@ header {
     right: 37px;
 }
 
+.btn-achat{
+    border-color: black;
+    width: 133px;
+    height: 37px;
+}
+.lien-edition, .lien-edition:visited, .lien-edition:active {
+    text-decoration: none;
+    color: black;
+}
+
 .title-search {
     position: absolute;
     font-size: 10px;
@@ -35,6 +45,7 @@ header {
 
 .lien {
     color: black;
+    text-decoration: none;
 }     
 
 .lien:hover {
@@ -44,7 +55,7 @@ header {
 }
 
 .res-sociaux {
-    border-bottom: 2px solid rgb(233, 233, 233);;
+    border-bottom: 2px solid rgb(233, 233, 233);
 }
 
 
@@ -106,6 +117,8 @@ header {
 	height: 74px;
 }
 
+
+
 @media screen and (max-width: 576px){
   /* ==========
     HEADER
@@ -121,17 +134,18 @@ header {
   .btn-search::before{
     content: "";
     position: absolute;
-    width: 50px;
-    height: 45px;
+    width: 46px;
+    height: 37px;
     border: 1px solid black;
     border-radius: 5px;
-    top: -4px;
-    left: -6px;
+    top: 0px;
+    left: -3px;
   }
   /*Pour une meilleur symétrie, déplace la loupe à droite en petite résolution*/
-  button.btn-search{
-    right: 25px;
+  .btn-search{
+    right: 0px;
   }
+
    /* ==========
     FOOTER
   ============= */
