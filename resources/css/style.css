@@ -14,7 +14,7 @@ header {
     width: 133px;
     height: 37px;
 }
-.lien-edition:hover, .lien-edition:visited, .lien-edition:active {
+.lien-edition, .lien-edition:hover, .lien-edition:visited, .lien-edition:active {
     text-decoration: none;
     color: #ffffff;
 }
