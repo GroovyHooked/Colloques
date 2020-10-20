@@ -62,6 +62,7 @@ $route['index'] = 'maincontroller/index'; // deux moyens d'accéder à l'index
 $route['home'] = 'maincontroller/index';
 $route['timeline'] = 'maincontroller/timeline';
 $route['thematiques'] = 'maincontroller/thematiques';
+$route['intervenants'] = 'maincontroller/intervenants';
 $route['mentionslegales'] = 'maincontroller/mentionslegales';
 $route['contact'] = 'maincontroller/contact';
 

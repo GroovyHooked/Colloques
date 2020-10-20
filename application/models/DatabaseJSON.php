@@ -168,17 +168,17 @@ class DatabaseJSON extends CI_Model
 				if ($item["name"] == "thematique")
 				{
 					foreach ($item["type"]["values"] as $thematique) {
-						$titre = $thematique["label"] ;
-						$titre = preg_replace('#[0-9]*\.[0-9]*#', '', $titre) ;
 						$id = remove_accents($thematique["value"]) ;
-						$this->thematiques[$id] = ucfirst(trim($titre)) ;
-
+						$titre = $thematique["label"] ;
 						// si la thématique commence par "6." alors c'est un contributeur
 						if (strpos($titre, "6.") !== false)
 						{
 							$titre = preg_replace('#[0-9]*\.[0-9]*#', '', $titre) ;
 							$this->participants[$id] = trim($titre) ;
 						}
+						$titre = preg_replace('#[0-9]*\.[0-9]*#', '', $titre) ;
+
+						$this->thematiques[$id] = ucfirst(trim($titre)) ;
 					}
 				}
 				else if ($item["name"] == "timeline")

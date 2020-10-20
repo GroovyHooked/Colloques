@@ -33,7 +33,7 @@
 						<a href="https://www.facebook.com/CerisyColloques/" target="_blank"><i class="fab fa-facebook-f fa-2x iconfb"></i></a>
 						<a href="https://www.youtube.com/channel/UC95djz-GZnQX2RDktUKz6BQ" target="_blank"><i class="fa fa-play fa-lg iconyt"></i></a>
 						<a href="https://www.linkedin.com/company/colloques-cerisy/" target="_blank"><i class="fab fa-linkedin-in fa-lg iconlk"></i></a>
-						<a href="https://www.unicaen.fr/recherche/mrsh/forge" target="_blank"><img class="imgforge" src="<?= base_url("/resources/img/ForgeNumerique.jpg") ?>" alt=""></a>
+						<a href="http://www.unicaen.fr/recherche/mrsh/forge" target="_blank"><img class="imgforge" src="<?= base_url("/resources/img/ForgeNumerique.jpg") ?>" alt=""></a>
 					</div>
 				</div>
 			</div>

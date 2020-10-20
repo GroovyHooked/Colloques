@@ -87,6 +87,19 @@ class Maincontroller extends CI_Controller
 		$this->load->view('templates/footer', $this->datas);
 	}
 
+	public function intervenants()
+	{
+		$this->datas["meta_infos"]["titre"] = "Découvrez les intervenants de l'événement" ;
+		$this->datas["titre"] = "Présentation des intervenants" ;
+
+		$participants = $this->db_json->getParticipants() ;
+		array_multisort(array_keys($participants), SORT_NATURAL | SORT_FLAG_CASE, $participants);
+		$this->datas["intervenants"] = $participants ;
+		$this->load->view('templates/header', $this->datas);
+		$this->load->view('intervenants', $this->datas);
+		$this->load->view('templates/footer', $this->datas);
+	}
+
 	public function page()
 	{
 
