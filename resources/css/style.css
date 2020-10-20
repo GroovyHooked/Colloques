@@ -26,10 +26,14 @@ header {
     margin-left: 12px;
 }
 
-.img-cerisy {
+/* .img-cerisy {
     width: 130px;
+} */
+.icon-house {
+    position: relative;
+    top: 0px;
+    left: -5px;
 }
-
 .partenaire {
     border-top: 1px solid rgb(233, 233, 233);
     border-bottom: 1px solid rgb(231, 231, 231);
