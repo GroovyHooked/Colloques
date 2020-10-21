@@ -157,6 +157,12 @@ header {
 	background: center center/cover;
 }
 
+.card-custom-img-intervenant {
+	width: 68%;
+	margin: 1em auto;
+	border-radius: 50%;
+}
+
 .card-custom-img-block {
 	position: relative;
 	z-index: 900;
@@ -280,7 +286,7 @@ header {
 		from(#008800),
 		to(#008800)
 	);
-	background-size: 3px;
+	background-size: 3px 100%;
 	background-repeat: no-repeat;
 	background-position: center;
 }
