@@ -387,6 +387,11 @@ header {
 	justify-content: center;
 }
 
+
+.texte__cache{
+	display: none;
+}
+
 /*----- Image ressource ------*/
 .image-ressource {
 	min-height: 600px;
