@@ -14,13 +14,14 @@
 						<div class="col-12 order-lg-4 mt-3" >
 							<button type="button " class="w-100 btn bouton__livre btn-success order-lg-2"><a class="lien-edition"  href="http://www.editionsatelier.com/index.php?page=shop.product_details&flypage=bookshop-flypage.tpl&product_id=816&category_id=47&manufacturer_id=1&option=com_virtuemart&Itemid=1" target="_blank">Acheter sur le site des Éditions de l'Atelier</a></button>
 						</div>-->
-						<div class="col-12 p-3 descriptif__livre order-lg-1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis cum accusantium voluptatum labore? Eaque tempora impedit, omnis, blanditiis sint delectus maiores laborum, consectetur similique nihil repellendus rerum animi tempore vitae
-						sint delectus maiores laborum, consectetur similique nihil repellendus rerum animi tempore vita. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis cum accusantium voluptatum labore? Eaque tempora impedit, omnis, blanditiis sint delectus maiores laborum, consectetur similique nihil repellendus rerum animi tempore vitae
-						sint delectus maiores laborum, consectetur similique nihil repellendus rerum animi tempore vita. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis cum accusantium voluptatum labore? Eaque tempora impedit, omnis, blanditiis sint delectus maiores laborum, consectetur similique nihil repellendus rerum animi tempore vitae
-						sint delectus maiores laborum, consectetur similique nihil repellendus rerum animi tempore vita.</div>
+						<div class="col-12 p-3 descriptif__livre order-lg-1">
+
+							Texte à remplacer
+
+						</div>
 
 						<div class="col-12 order-lg-4 mt-3" >
-							<a href="<?= base_url("/thematique/01-elements-de-mode-demploi") ?>"><button type="button" class="btn btn-primary w-lg-50 w-100 mb-3 py-2">Modes d'emploi du colloque</button></a>
+							<a href="<?= base_url("/thematique/01-elements-de-mode-demploi") ?>"><button type="button" class="btn btn-primary w-lg-50 w-100 mb-3 py-2">Modes d'emploi du colloque et du site compagnon</button></a>
 						</div>
 						<div class="col-12 order-lg-5 mt-3">
 							<a href="<?= base_url("/timeline") ?>"><button type="button " class="btn btn-primary w-lg-50 w-100 mb-3 py-2">Déroulé de l'événement</button></a>
