@@ -392,6 +392,10 @@ header {
 	display: none;
 }
 
+.redMarge {
+	margin-left: 0;
+}
+
 /*----- Image ressource ------*/
 .image-ressource {
 	min-height: 600px;
