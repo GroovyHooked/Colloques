@@ -6,9 +6,7 @@
 			<div class="row">
 				<div class="col-12 col-lg-6 offset-lg-1 text-center redMarge">
 					<img src="<?= base_url("/resources/img/couverture_territoires_solidaires.png") ?>" alt="Couverture du livre" class=" mb-3 border border-dark couverture">
-					<div class="col-12 text-center">
-						<button type="button" class="btn btn-success" class="savoirPlus">En savoir plus</button>
-					</div>
+
 				</div>
 
 				<div class="col-12 col-lg-5 text-center align-self-center d-lg-flex flex-column  align-items-lg-center">
@@ -56,6 +54,10 @@
 
 						</div>
 
+						<div class="col-12 order-lg-4 mt-3">
+							<button type="button" class="btn btn-success w-lg-50 w-100 mb-3 py-2" class="savoirPlus">En savoir plus</button>
+						</div>
+
 						<div class="col-12 order-lg-4 mt-3" >
 							<a href="<?= base_url("/thematique/01-elements-de-mode-demploi") ?>"><button type="button" class="btn btn-primary w-lg-50 w-100 mb-3 py-2">Modes d'emploi du colloque et du site compagnon</button></a>
 						</div>
@@ -80,8 +82,8 @@
 	<script>
 		$(document).ready(function() {
 			$("button, .descriptif__livre").click(function() {
-				$("span").toggleClass("texte__cache");
-
+				//$("span").toggleClass("texte__cache");
+				$("span.texte__cache").fadeToggle(1500);
 
 			})
 		})
