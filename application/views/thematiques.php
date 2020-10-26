@@ -39,7 +39,7 @@ function startsWith ($string, $startString)
 					</button>
 				</h5>
 			</div>
-			<div id="collapse3" class="collapse" aria-labelledby="heading3">
+			<div id="collapse3" class="collapse" aria-labelledby="heading3" data-parent="#accordion">
 				<div class="card-body">
 						<?php
 
