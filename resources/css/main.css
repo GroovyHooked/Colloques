@@ -420,6 +420,9 @@ header {
 	z-index: -5;
 }
 
+.descriptif__livre p {
+	margin-bottom: 0.1rem;
+}
 .descriptif__livre:before {
 	content: '';
 	position: absolute;
