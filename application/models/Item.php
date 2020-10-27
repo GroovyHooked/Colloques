@@ -28,6 +28,7 @@ class Item extends CI_Model
 	private $representation ; //servira pour les recherches
 	private $date ; // date de la conférence de laquelle est issue la ressource
 	private $edition ; // == année du colloque
+	private $is_prioritaire ;
 
 	/********************************************
 	 * Item constructor.
@@ -41,6 +42,7 @@ class Item extends CI_Model
 		parent::__construct();
 		if (isset($item) && isset($thematiques) && isset($timeline))
 		{
+			$this->is_prioritaire = false ;
 			$this->id = remove_accents($item["_id"]) ;
 			$this->type = $item["type"] ;
 			$this->name = $item["name"] ;
@@ -54,6 +56,20 @@ class Item extends CI_Model
 			$this->url = $item["url"] ;
 			$this->thematiques = array() ;
 			$this->participants = array() ;
+
+			if ( ! function_exists('startsWith')) {
+				function startsWith($string, $startString)
+				{
+					$len = strlen($startString);
+					return (substr($string, 0, $len) === $startString);
+				}
+			}
+
+			if (startsWith($this->getName(), "*"))
+			{
+				$this->is_prioritaire = true ;
+				$this->name = str_replace("*", "", $this->name);
+			}
 			$this->representation = $this->type." ".$this->name." ".$this->description." ".$this->timeline ; // on ajoute les infos importantes à la représentation de la ressource
 
 			// on parcourt les thématiques de la ressources
@@ -155,9 +171,27 @@ class Item extends CI_Model
 
 
 
+
+
 	/********************************************************************
 	 * GETTERS AND SETTERS - ces méthodes sont générées automatiquement
 	 ********************************************************************/
+
+	/**
+	 * @return bool
+	 */
+	public function isPrioritaire(): bool
+	{
+		return $this->is_prioritaire;
+	}
+
+	/**
+	 * @param bool $is_prioritaire
+	 */
+	public function setIsPrioritaire(bool $is_prioritaire): void
+	{
+		$this->is_prioritaire = $is_prioritaire;
+	}
 
 	/**
 	 * @return string

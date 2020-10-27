@@ -260,6 +260,23 @@ class DatabaseJSON extends CI_Model
 				}
 			}
 
+			function cmp($a, $b) {
+				if ($a->isPrioritaire()) { return -1 ;}
+				else if ($b->isPrioritaire()) { return 1 ;}
+				else return 0 ;
+			}
+
+			usort($this->ressources_son, "cmp");
+			usort($this->ressources_image, "cmp");
+			usort($this->ressources_lien, "cmp");
+			usort($this->ressources_pdf, "cmp");
+			usort($this->ressources_video, "cmp");
+			usort($this->ressources_texte, "cmp");
+			usort($this->ressources_son, "cmp");
+			usort($this->ressources_son, "cmp");
+			usort($this->ressources_son, "cmp");
+			usort($this->ressources_son, "cmp");
+			usort($this->ressources_son, "cmp");
 
 		}
 

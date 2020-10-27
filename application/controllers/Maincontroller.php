@@ -213,6 +213,8 @@ class Maincontroller extends CI_Controller
 		$this->datas["thematique"] = $this->db_json->getThematique($thematique_id) ;
 		$this->datas["titre"] = "Thématique ".$this->datas["thematique"] ;
 		$this->datas["ressources"] = $this->db_json->getRessourcesByThematique($thematique_id) ;
+
+		usort($this->datas["ressources"], "cmp");
 		$this->datas["meta_infos"]["titre"] = $this->datas["titre"] ;
 
 		// appel aux vues en leur transmettant les données préparées
@@ -259,6 +261,7 @@ class Maincontroller extends CI_Controller
 	{
 		// préparation des données
 		$this->datas["ressources"] = $this->db_json->getRessourcesByTimeline($timeline_id) ;
+		usort($this->datas["ressources"], "cmp");
 		$this->datas["name"] = $this->db_json->getTimeline($timeline_id) ;
 		$this->datas["type_ressource"] = "son" ;
 		$this->datas["titre"] = $this->db_json->getTimeline($timeline_id) ;
@@ -288,6 +291,7 @@ class Maincontroller extends CI_Controller
 		// préparation des données
 		$this->datas["id"] = $intervenant_id ;
 		$this->datas["ressources"] = $this->db_json->getRessourcesByThematique($intervenant_id) ;
+		usort($this->datas["ressources"], "cmp");
 		$this->datas["name"] = $this->db_json->getThematique($intervenant_id) ;
 		$this->datas["type_ressource"] = "" ;
 		$this->datas["titre"] = $this->datas["name"] ;
@@ -319,6 +323,7 @@ class Maincontroller extends CI_Controller
 		$this->datas["meta_infos"]["titre"] = $this->datas["titre"] ;
 		$this->datas["icon"] = "fas fa-search" ;
 		$this->datas["ressources"] = $this->db_json->search($keywords) ; // on effectue la recherche sur la DB et on transmet le résultat à la vue
+		usort($this->datas["ressources"], "cmp");
 
 		// appel aux vues en leur transmettant les données préparées
 		$this->load->view('templates/header', $this->datas);

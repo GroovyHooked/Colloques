@@ -103,7 +103,10 @@
 				<div class="col-12">
 					<h1 class="title h3 mt-4 mb-0 custom-title">Ressources liées</h1>
 					<div class="row">
-						<?php foreach ($db->getRessourcesByTimeline($ressource->getTimelineId()) as $item) { ?>
+						<?php
+						$ressources = $db->getRessourcesByTimeline($ressource->getTimelineId()) ;
+						usort($ressources, "cmp");
+						foreach ($ressources as $item) { ?>
 							<div class="col-12 col-md-6 col-xl-4">
 								<?php
 								$datas = array();
