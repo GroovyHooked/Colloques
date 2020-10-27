@@ -1,3 +1,162 @@
+[
+	{
+		"_id" : "n8obbp0zh",
+		"schema" : {
+			"attributes" : [
+				{
+					"isName" : false,
+					"isMandatory" : false,
+					"system" : false,
+					"hidden" : false,
+					"type" : {
+						"tag" : "enum",
+						"values" : [
+							{
+								"value" : "introduction",
+								"label" : "Introduction",
+								"icon" : null,
+								"color" : null,
+								"saved" : true
+							},
+							{
+								"value" : "tr1-ressources-des-territoires-a-reveler",
+								"label" : "TR1 - Ressources des territoires à révéler",
+								"icon" : null,
+								"color" : null,
+								"saved" : true
+							},
+							{
+								"value" : "tr2-territoires-solidaires-et-emploi",
+								"label" : "TR2 - Territoires solidaires et emploi",
+								"saved" : true
+							}
+						]
+					},
+					"name" : "tag-timeline",
+					"uid" : "bRFKERdRO",
+					"label" : "tag-timeline"
+				},
+				{
+					"isName" : false,
+					"isMandatory" : false,
+					"system" : false,
+					"hidden" : false,
+					"type" : {
+						"tag" : "boolean"
+					},
+					"name" : "differentes-echelles-daction-et-tr",
+					"uid" : "aKedXblKW",
+					"label" : "différentes échelles d'action et translocalisme"
+				},
+				{
+					"isName" : false,
+					"isMandatory" : false,
+					"system" : false,
+					"hidden" : false,
+					"type" : {
+						"tag" : "boolean"
+					},
+					"name" : "solidarites-et-acces-aux-ressources",
+					"uid" : "bvVxVQ5--",
+					"label" : "solidarités et accès aux ressources"
+				},
+				{
+					"isName" : false,
+					"isMandatory" : false,
+					"system" : false,
+					"hidden" : false,
+					"type" : {
+						"tag" : "boolean"
+					},
+					"name" : "territoire-et-communaute",
+					"uid" : "rZzHV93h7",
+					"label" : "territoire et communauté"
+				},
+				{
+					"isName" : true,
+					"isMandatory" : true,
+					"system" : false,
+					"hidden" : false,
+					"name" : "name",
+					"label" : "Nom",
+					"type" : {
+						"tag" : "text",
+						"rich" : false
+					}
+				},
+				{
+					"isName" : false,
+					"isMandatory" : false,
+					"system" : false,
+					"hidden" : false,
+					"name" : "description",
+					"label" : "Description",
+					"type" : {
+						"tag" : "text",
+						"rich" : true
+					}
+				},
+				{
+					"isName" : false,
+					"isMandatory" : true,
+					"system" : false,
+					"hidden" : false,
+					"type" : {
+						"tag" : "enum",
+						"values" : [
+							{
+								"value" : "texte",
+								"label" : "texte",
+								"icon" : null,
+								"color" : null,
+								"saved" : true
+							},
+							{
+								"value" : "image",
+								"label" : "image",
+								"icon" : null,
+								"color" : null,
+								"saved" : true
+							},
+							{
+								"value" : "video",
+								"label" : "video",
+								"saved" : true
+							},
+							{
+								"value" : "son",
+								"label" : "son",
+								"saved" : true
+							}
+						]
+					},
+					"name" : "type",
+					"uid" : "Q7s7CCoto",
+					"label" : "type"
+				},
+				{
+					"isName" : false,
+					"isMandatory" : false,
+					"system" : false,
+					"hidden" : false,
+					"type" : {
+						"tag" : "text",
+						"rich" : false
+					},
+					"name" : "url",
+					"uid" : "gwDclbSnE",
+					"label" : "URL"
+				}
+			]
+		},
+		"name" : "ressources",
+		"label" : "ressources",
+		"accessRights" : "wiki",
+		"description" : "Liste des ressources taguées pour le site compagnon.",
+		"admins" : [
+			"YsLaskaEZ"
+		]
+	},
 	{
 		"_id" : "6bWntY1Jk",
 		"schema" : {
@@ -993,4 +1152,55 @@
 			"YsLaskaEZ"
 		]
 	},
-
+	{
+		"_id" : "x4GNy646S",
+		"schema" : {
+			"attributes" : [
+				{
+					"isName" : true,
+					"isMandatory" : true,
+					"system" : false,
+					"hidden" : false,
+					"name" : "name",
+					"label" : "Nom",
+					"type" : {
+						"tag" : "text",
+						"rich" : false
+					}
+				},
+				{
+					"isName" : false,
+					"isMandatory" : false,
+					"system" : false,
+					"hidden" : false,
+					"name" : "description",
+					"label" : "Description",
+					"type" : {
+						"tag" : "text",
+						"rich" : true
+					}
+				},
+				{
+					"isName" : false,
+					"isMandatory" : false,
+					"system" : false,
+					"hidden" : false,
+					"type" : {
+						"tag" : "number"
+					},
+					"name" : "score",
+					"uid" : "uYcAugJpR",
+					"new" : true,
+					"label" : "score"
+				}
+			]
+		},
+		"name" : "dfgtdfg",
+		"label" : "dfgtdfg",
+		"accessRights" : "wiki",
+		"description" : "",
+		"admins" : [
+			"YsLaskaEZ"
+		]
+	}
+]

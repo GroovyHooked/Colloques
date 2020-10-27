@@ -20,4 +20,5 @@ $( document ).ready(function() {
 		$( "#mobile-search-bar" ).animate({ 'marginTop': flip ? '3.2em' : "0", opacity: 0.5 }, 500);
 		flip = ! flip ;
 	});
+	$('[data-toggle="tooltip"]').tooltip() ;
 });

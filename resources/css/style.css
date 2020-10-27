@@ -130,6 +130,9 @@ footer {
 }
 
 
+.legende {
+	font-size: 0.8rem !important;
+}
 
 @media screen and (max-width: 576px){
   /* ==========

@@ -218,6 +218,7 @@ class Maincontroller extends CI_Controller
 		// appel aux vues en leur transmettant les données préparées
 		$this->load->view('templates/header', $this->datas);
 		$this->load->view('templates/thematique_searchbar');
+		$this->load->view('templates/navbar-ressources', $this->datas);
 		$this->load->view('thematique', $this->datas);
 		$this->load->view('templates/footer', $this->datas);
 	}
@@ -248,6 +249,7 @@ class Maincontroller extends CI_Controller
 
 		// appel aux vues en leur transmettant les données préparées
 		$this->load->view('templates/header', $this->datas);
+		$this->load->view('templates/navbar-ressources', $this->datas);
 		$this->load->view('ressource', $this->datas);
 		$this->load->view('templates/footer', $this->datas);
 	}
@@ -274,6 +276,7 @@ class Maincontroller extends CI_Controller
 
 		// appel aux vues en leur transmettant les données préparées
 		$this->load->view('templates/header', $this->datas);
+		$this->load->view('templates/navbar-ressources', $this->datas);
 		$this->load->view('conference', $this->datas);
 		$this->load->view('templates/footer', $this->datas);
 	}
@@ -295,6 +298,7 @@ class Maincontroller extends CI_Controller
 
 		// appel aux vues en leur transmettant les données préparées
 		$this->load->view('templates/header', $this->datas);
+		$this->load->view('templates/navbar-ressources', $this->datas);
 		$this->load->view('intervenant', $this->datas);
 		$this->load->view('templates/footer', $this->datas);
 	}
@@ -318,6 +322,7 @@ class Maincontroller extends CI_Controller
 
 		// appel aux vues en leur transmettant les données préparées
 		$this->load->view('templates/header', $this->datas);
+		$this->load->view('templates/navbar-ressources', $this->datas);
 		$this->load->view('thematique', $this->datas);
 		$this->load->view('templates/footer', $this->datas);
 	}

@@ -160,33 +160,33 @@ class DatabaseJSON extends CI_Model
 			 * ANALYSE DU SCHEMA DE LA BASE DE DONNEES
 			 ************************************************************/
 			$json_schema = file_get_contents($json_schema_filename);
-			$json_schema = rtrim (trim($json_schema), ","); // on modifie le json généré en enelevant le ',' final pour le rendre compatible
+			//$json_schema = rtrim (trim($json_schema), ","); // on modifie le json généré en enelevant le ',' final pour le rendre compatible
 			$array_schema = Json::decode($json_schema, TRUE);
 			//var_dump($array_schema);
 
-			foreach ($array_schema["schema"]["attributes"] as $item) {
-				if ($item["name"] == "thematique")
-				{
-					foreach ($item["type"]["values"] as $thematique) {
-						$id = remove_accents($thematique["value"]) ;
-						$titre = $thematique["label"] ;
-						// si la thématique commence par "6." alors c'est un contributeur
-						if (strpos($titre, "6.") !== false)
-						{
-							$titre = preg_replace('#[0-9]*\.[0-9]*#', '', $titre) ;
-							$this->participants[$id] = trim($titre) ;
-						}
-						$titre = preg_replace('#[0-9]*\.[0-9]*#', '', $titre) ;
+			foreach ($array_schema as $schema) {
 
-						$this->thematiques[$id] = ucfirst(trim($titre)) ;
-					}
-				}
-				else if ($item["name"] == "timeline")
-				{
-					foreach ($item["type"]["values"] as $timeline) {
-						$titre = $timeline["label"] ;
-						$id = remove_accents($timeline["value"]) ;
-						$this->timeline[$id] = $titre ;
+
+				foreach ($schema["schema"]["attributes"] as $item) {
+					if ($item["name"] == "thematique") {
+						foreach ($item["type"]["values"] as $thematique) {
+							$id = remove_accents($thematique["value"]);
+							$titre = $thematique["label"];
+							// si la thématique commence par "6." alors c'est un contributeur
+							if (strpos($titre, "6.") !== false) {
+								$titre = preg_replace('#[0-9]*\.[0-9]*#', '', $titre);
+								$this->participants[$id] = trim($titre);
+							}
+							$titre = preg_replace('#[0-9]*\.[0-9]*#', '', $titre);
+
+							$this->thematiques[$id] = ucfirst(trim($titre));
+						}
+					} else if ($item["name"] == "timeline") {
+						foreach ($item["type"]["values"] as $timeline) {
+							$titre = $timeline["label"];
+							$id = remove_accents($timeline["value"]);
+							$this->timeline[$id] = $titre;
+						}
 					}
 				}
 			}

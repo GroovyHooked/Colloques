@@ -37,7 +37,7 @@
 	},
 	{
 		"_id" : "sjeNTuSKg",
-		"name" : "Introduction à 3 voix - Geneviève Fontaine",
+		"name" : "Introduction à trois voix - Geneviève Fontaine",
 		"description" : "<p>Introduction à trois voix : les communs par Geneviève Fontaine</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/TbbSZ0czEoVs42y",
@@ -50,7 +50,7 @@
 		"_user" : null,
 		"_pos" : 1598253667869,
 		"_creationTime" : ISODate("2020-08-24T07:21:07.869Z"),
-		"_updateTime" : ISODate("2020-09-06T13:50:25.914Z")
+		"_updateTime" : ISODate("2020-10-07T11:59:59.820Z")
 	},
 	{
 		"_id" : "U3owRHvVa",
@@ -71,7 +71,7 @@
 	},
 	{
 		"_id" : "d-KDhT_7T",
-		"name" : "Introduction à troix voix : Hervé Defalvard",
+		"name" : "Introduction à troix voix - Hervé Defalvard",
 		"description" : "<p>Introduction à trois voix : l'horizon du translocalisme par Hervé Defalvard</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/c7M75s5O3KpxFcA",
@@ -84,7 +84,7 @@
 		"_user" : null,
 		"_pos" : 1598254370333,
 		"_creationTime" : ISODate("2020-08-24T07:32:50.333Z"),
-		"_updateTime" : ISODate("2020-09-06T13:49:52.346Z")
+		"_updateTime" : ISODate("2020-10-07T12:00:34.699Z")
 	},
 	{
 		"_id" : "9ZD7nKxdP",
@@ -125,7 +125,7 @@
 	{
 		"_id" : "U11oXIm8q",
 		"name" : "TR1 - Ôkhra - question 1 - le territoire",
-		"description" : "<p>TR1 - Ôkra (Barbara Blin Barrois) - question 1 : place du territoire dans l'initiative</p>",
+		"description" : "<p>TR1 - Ôkhra (Barbara Blin-Barrois) - question 1 : place du territoire dans l'initiative</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/Mh8JNGcxXXMEasM",
 		"thematique" : [
@@ -136,7 +136,8 @@
 		"timeline" : "tr1ressourcesdesterritoiresareveler",
 		"_user" : null,
 		"_pos" : 1598263970622,
-		"_creationTime" : ISODate("2020-08-24T10:12:50.622Z")
+		"_creationTime" : ISODate("2020-08-24T10:12:50.622Z"),
+		"_updateTime" : ISODate("2020-10-07T11:45:27.986Z")
 	},
 	{
 		"_id" : "gdaqeejTu",
@@ -192,7 +193,7 @@
 	{
 		"_id" : "c4g_CNR1U",
 		"name" : "TR1 - TETRIS - Question 2 : formes de solidarités et ressources",
-		"description" : "<p>TR1 - TETRIS (Philippe Chemla) - Question 2 : formes de solidarités produites par l'initiatives </p>",
+		"description" : "<p>TR1 - TETRIS (Philippe Chemla) - Question 2 : formes de solidarités produites par l'initiative</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/jj92kGhWuCV1ZxP",
 		"thematique" : [
@@ -203,7 +204,8 @@
 		"timeline" : "tr1ressourcesdesterritoiresareveler",
 		"_user" : null,
 		"_pos" : 1598270004689,
-		"_creationTime" : ISODate("2020-08-24T11:53:24.689Z")
+		"_creationTime" : ISODate("2020-08-24T11:53:24.689Z"),
+		"_updateTime" : ISODate("2020-10-07T11:45:56.157Z")
 	},
 	{
 		"_id" : "MdEPLY-cE",
@@ -273,7 +275,7 @@
 	{
 		"_id" : "uPuwk7324",
 		"name" : "La Translocale",
-		"description" : "<p>La translocale - chanson écrite collectivement : Que notre intuition de départ, celle que les communs portaient un horizon translocal sur les territoires, devienne une chanson sur l’air de l’international, fut sans doute l’une des manières où, dans son invention collective, elle a été le mieux partager.</p>",
+		"description" : "<p>La Translocale - chanson écrite collectivement. Que notre intuition de départ, celle que les communs portaient un horizon translocal sur les territoires, devienne une chanson sur l’air de \"l’Internationale\", fut sans doute l’une des manières où, dans son invention collective, elle a été le mieux partagée</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/NalawcQ8L1BU20k",
 		"thematique" : [
@@ -284,7 +286,7 @@
 		"_user" : null,
 		"_pos" : 1598272770755,
 		"_creationTime" : ISODate("2020-08-24T12:39:30.755Z"),
-		"_updateTime" : ISODate("2020-09-08T07:21:52.272Z")
+		"_updateTime" : ISODate("2020-10-07T11:46:44.243Z")
 	},
 	{
 		"_id" : "99kn3RswT",
@@ -350,7 +352,7 @@
 	{
 		"_id" : "lWkYGWAYJ",
 		"name" : "Post-it - savoirs (1)",
-		"description" : "<p>Post-it proposés pendant le colloque et relatifs aux savoirs (1)</p>",
+		"description" : "<p>Post-it proposés pendant le colloque relatifs aux savoirs (1)</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/Ld2fiXHBNBm53Ug",
 		"thematique" : [
@@ -360,12 +362,12 @@
 		"_user" : null,
 		"_pos" : 1598278045526,
 		"_creationTime" : ISODate("2020-08-24T14:07:25.526Z"),
-		"_updateTime" : ISODate("2020-08-24T14:13:43.258Z")
+		"_updateTime" : ISODate("2020-10-07T11:49:00.585Z")
 	},
 	{
 		"_id" : "1CJyi8odo",
 		"name" : "Post-it - savoirs (2)",
-		"description" : "<p>post-it proposés pendant le colloque et relatifs aux savoirs (2)</p>",
+		"description" : "<p>Post-it proposés pendant le colloque relatifs aux savoirs (2)</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/JR1gCDCYrAH7wYu",
 		"thematique" : [
@@ -375,12 +377,12 @@
 		"_user" : null,
 		"_pos" : 1598278091728,
 		"_creationTime" : ISODate("2020-08-24T14:08:11.728Z"),
-		"_updateTime" : ISODate("2020-08-24T14:13:54.136Z")
+		"_updateTime" : ISODate("2020-10-07T11:48:45.957Z")
 	},
 	{
 		"_id" : "rpRjS1V7e",
 		"name" : "Post-it - savoirs (3)",
-		"description" : "<p>Post-it proposés pendant le colloque et relatifs aux savoirs (3)</p>",
+		"description" : "<p>Post-it proposés pendant le colloque relatifs aux savoirs (3)</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/4RCzyFBSmur8Rq1",
 		"thematique" : [
@@ -391,7 +393,7 @@
 		"_user" : null,
 		"_pos" : 1598278231438,
 		"_creationTime" : ISODate("2020-08-24T14:10:31.438Z"),
-		"_updateTime" : ISODate("2020-08-27T14:34:27.286Z")
+		"_updateTime" : ISODate("2020-10-07T11:48:22.948Z")
 	},
 	{
 		"_id" : "AXZVL2vpd",
@@ -411,7 +413,7 @@
 	{
 		"_id" : "tsGmIzmam",
 		"name" : "Post-it - temps (2)",
-		"description" : "<p>Post-it proposés pendant le colloque relatifs au temps et aux temporalités</p>",
+		"description" : "<p>Post-it proposés pendant le colloque relatifs au temps et aux temporalités (2)</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/lCfr00jPxqYo68Z",
 		"thematique" : [
@@ -420,7 +422,8 @@
 		"timeline" : "lesautresmomentsinformels",
 		"_user" : null,
 		"_pos" : 1598278587967,
-		"_creationTime" : ISODate("2020-08-24T14:16:27.967Z")
+		"_creationTime" : ISODate("2020-08-24T14:16:27.967Z"),
+		"_updateTime" : ISODate("2020-10-07T11:49:21.947Z")
 	},
 	{
 		"_id" : "EclciByLR",
@@ -775,7 +778,7 @@
 	{
 		"_id" : "1uaBlNDeo",
 		"name" : "Rapport d'étonnement - Geogiu Ciascai",
-		"description" : "<p>Rapport d'étonnement - Geogiu Ciascai</p>",
+		"description" : "<p>Rapport d'étonnement de Gheorghe Ciascai</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/RMOSMuKdlFLssEg",
 		"thematique" : [
@@ -785,7 +788,8 @@
 		"timeline" : "rapportsdetonnements",
 		"_user" : null,
 		"_pos" : 1598533970798,
-		"_creationTime" : ISODate("2020-08-27T13:12:50.798Z")
+		"_creationTime" : ISODate("2020-08-27T13:12:50.798Z"),
+		"_updateTime" : ISODate("2020-10-07T11:52:02.664Z")
 	},
 	{
 		"_id" : "QEsddEiKh",
@@ -840,7 +844,7 @@
 	{
 		"_id" : "NFjYfQZJD",
 		"name" : "Rapport d'étonnement - Sylvain Allemand",
-		"description" : "<p>Rapport d'étonnement - Sylvain Allemand</p>",
+		"description" : "<p>Rapport d'étonnement de Sylvain Allemand</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/CCWaOT2uSDJlZsA",
 		"thematique" : [
@@ -852,7 +856,7 @@
 		"_user" : null,
 		"_pos" : 1598534460730,
 		"_creationTime" : ISODate("2020-08-27T13:21:00.730Z"),
-		"_updateTime" : ISODate("2020-09-01T12:36:35.430Z")
+		"_updateTime" : ISODate("2020-10-07T11:52:22.948Z")
 	},
 	{
 		"_id" : "1nM82AfBE",
@@ -889,7 +893,7 @@
 	{
 		"_id" : "H62rm6l_N",
 		"name" : "Rapport d'étonnement - Nicole Alix",
-		"description" : "<p>Rapport d'étonnement - Nicole Alix</p>",
+		"description" : "<p>Rapport d'étonnement de Nicole Alix</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/KMJ59Z9tWEJsmbw",
 		"thematique" : [
@@ -901,7 +905,8 @@
 		"timeline" : "rapportsdetonnements",
 		"_user" : null,
 		"_pos" : 1598535031718,
-		"_creationTime" : ISODate("2020-08-27T13:30:31.718Z")
+		"_creationTime" : ISODate("2020-08-27T13:30:31.718Z"),
+		"_updateTime" : ISODate("2020-10-07T11:52:39.894Z")
 	},
 	{
 		"_id" : "BAYvxoTvg",
@@ -924,7 +929,7 @@
 	{
 		"_id" : "PQYLyTN-l",
 		"name" : "Rapport d'étonnement - François-Xavier Viallon",
-		"description" : "<p>Rapport d'étonnement - François-Xavier Viallon</p>",
+		"description" : "<p>Rapport d'étonnement de François-Xavier Viallon</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/TUYqwr6C6wnpBJ2",
 		"thematique" : [
@@ -934,7 +939,8 @@
 		"timeline" : "rapportsdetonnements",
 		"_user" : null,
 		"_pos" : 1598535270860,
-		"_creationTime" : ISODate("2020-08-27T13:34:30.860Z")
+		"_creationTime" : ISODate("2020-08-27T13:34:30.860Z"),
+		"_updateTime" : ISODate("2020-10-07T11:53:11.820Z")
 	},
 	{
 		"_id" : "KXCFwJkka",
@@ -1091,8 +1097,8 @@
 	},
 	{
 		"_id" : "Fz5acMx_L",
-		"name" : "Rapport d'étonnement - Barbara Blin Barrois",
-		"description" : "<p>Rapport d'étonnement de Barbara Blin Barrois</p>",
+		"name" : "Rapport d'étonnement - Barbara Blin-Barrois",
+		"description" : "<p>Rapport d'étonnement de Barbara Blin-Barrois</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/AyyOPDGWZoro6pB",
 		"thematique" : [
@@ -1105,12 +1111,13 @@
 		"timeline" : "rapportsdetonnements",
 		"_user" : null,
 		"_pos" : 1598537813068,
-		"_creationTime" : ISODate("2020-08-27T14:16:53.068Z")
+		"_creationTime" : ISODate("2020-08-27T14:16:53.068Z"),
+		"_updateTime" : ISODate("2020-10-07T11:54:07.320Z")
 	},
 	{
 		"_id" : "VwxIt3IHj",
 		"name" : "Table d'enjeux et de controverses - Mastodontes et communs",
-		"description" : "<p>Retranscription des échanges qui se sont déroulés en extérieur sur le thème \"Mastodontes et communs\". Ce thème a émergé des échanges des premiers jours du colloque comme un sujet comportant des enjeux et des controverses. </p>",
+		"description" : "<p>Retranscription des échanges qui se sont déroulés en extérieur sur le thème \"Mastodontes et communs\". Ce thème a émergé des échanges des premiers jours du colloque comme un sujet comportant des enjeux et des controverses.</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/uOAoqNT3BzyZYwf",
 		"thematique" : [
@@ -1122,7 +1129,8 @@
 		"timeline" : "enjeuxetcontroverses1",
 		"_user" : null,
 		"_pos" : 1598538490324,
-		"_creationTime" : ISODate("2020-08-27T14:28:10.324Z")
+		"_creationTime" : ISODate("2020-08-27T14:28:10.324Z"),
+		"_updateTime" : ISODate("2020-10-07T11:54:31.174Z")
 	},
 	{
 		"_id" : "GVV5GB0Cg",
@@ -1194,7 +1202,7 @@
 		"name" : "Abrégé et mode d'emploi du colloque",
 		"description" : "<p>Abégé de présentation du colloque et mode d'emploi décrivant les différents temps (tables rondes, conférences plénières...), distribué à tous les participants lors de leur arrivée. Voir livre page 98.</p>",
 		"type" : "pdf",
-		"url" : "https://cerisy.scic-tetris.org/db/ressources-colloque-cerisy",
+		"url" : "https://cloud.scic-tetris.org/s/TlzoeRNvQPOLL69",
 		"thematique" : [
 			"11livreintro",
 			"01-elements-de-mode-demploi"
@@ -1203,7 +1211,7 @@
 		"_user" : null,
 		"_pos" : 1598945331838,
 		"_creationTime" : ISODate("2020-09-01T07:28:51.838Z"),
-		"_updateTime" : ISODate("2020-09-06T12:53:23.851Z")
+		"_updateTime" : ISODate("2020-10-06T16:51:10.383Z")
 	},
 	{
 		"_id" : "pWlV3QnU7",
@@ -4038,7 +4046,7 @@
 		"name" : "Texte introduction de la conférence de Lionel Maurel",
 		"description" : "<p>Texte introduction de la conférence de Lionel Maurel : Faire atterrir les Communs numériques. Des utopies métaphysiques aux nouveaux territoires de l'hétérotopie</p>",
 		"type" : "pdf",
-		"url" : "Texte introductif à l'intervention de Joseph Haeringer",
+		"url" : "https://cloud.scic-tetris.org/s/JuLocdpELwxldlH",
 		"thematique" : [
 			"17livretextescl",
 			"31approchesdescommuns",
@@ -4050,7 +4058,8 @@
 		"timeline" : "pleniere2faireatterirlescommunsnumeriques",
 		"_user" : null,
 		"_pos" : 1600351199133,
-		"_creationTime" : ISODate("2020-09-17T13:59:59.133Z")
+		"_creationTime" : ISODate("2020-09-17T13:59:59.133Z"),
+		"_updateTime" : ISODate("2020-10-06T16:53:43.828Z")
 	},
 	{
 		"_id" : "AhvC6--oP",
@@ -4786,5 +4795,1907 @@
 		"_user" : null,
 		"_pos" : 1601489953303,
 		"_creationTime" : ISODate("2020-09-30T18:19:13.303Z")
+	},
+	{
+		"_id" : "8kVK9p6QH",
+		"name" : "Introduction de la table-ronde n°2 par Elisabetta Buccolo ",
+		"description" : "<p>Introduction de la table-ronde n°2 - Territoires solidaires et emploi - par Elisabetta Buccolo</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/3WKAvU8V2bkrzIR",
+		"thematique" : [
+			"21territoiresdecouverte",
+			"62elisabettabuccolo"
+		],
+		"timeline" : "tr2territoiressolidairesetemploi",
+		"_user" : null,
+		"_pos" : 1601557081888,
+		"_creationTime" : ISODate("2020-10-01T12:58:01.888Z"),
+		"_updateTime" : ISODate("2020-10-12T17:58:04.927Z")
+	},
+	{
+		"_id" : "teI57VAeY",
+		"name" : "TR2 - réponse de Rachid Cherfaoui à la première question",
+		"description" : "<p>Réponse de Rachid Cherfaoui - Maison d’Économie Solidaire - à la question sur le territoire lors de la table-ronde n°2 - Territoires solidaires et emploi</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/9vpDwfpn4ZRyLgK",
+		"thematique" : [
+			"22territoiresquestion1",
+			"43vecteurcooperation",
+			"67rachidcherfaoui"
+		],
+		"timeline" : "tr2territoiressolidairesetemploi",
+		"_user" : null,
+		"_pos" : 1601557782394,
+		"_creationTime" : ISODate("2020-10-01T13:09:42.394Z"),
+		"_updateTime" : ISODate("2020-10-01T13:14:49.844Z")
+	},
+	{
+		"_id" : "MimeZd2WM",
+		"name" : "TR2 - Réponse de Daniel Le Guillou à la question 1",
+		"description" : "<p>Réponse de Daniel Le Guillou - Territoire Zéro Chômeur de Longue Durée - à la question sur le territoire lors de la table-ronde n°2 - Territoires solidaires et emploi</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/ZyWCewAbmSBSXik",
+		"thematique" : [
+			"22territoiresquestion1",
+			"69danielleguillou",
+			"59-matrice-espaces"
+		],
+		"timeline" : "tr2territoiressolidairesetemploi",
+		"_user" : null,
+		"_pos" : 1601558012150,
+		"_creationTime" : ISODate("2020-10-01T13:13:32.150Z")
+	},
+	{
+		"_id" : "BjAKAVSSp",
+		"name" : "TR2 - Réponse de Claude Sicart à la question 1",
+		"description" : "<p>Réponse de Claude Sicart - Le PoleS - à la question sur le territoire lors de la table-ronde n°2 - Territoires solidaires et emploi</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/imp0F47ZiJupQ4J",
+		"thematique" : [
+			"23territoiresquestion2",
+			"41vecteurdemocratie",
+			"68claudesicart"
+		],
+		"timeline" : "tr2territoiressolidairesetemploi",
+		"_user" : null,
+		"_pos" : 1601558333284,
+		"_creationTime" : ISODate("2020-10-01T13:18:53.284Z"),
+		"_updateTime" : ISODate("2020-10-01T13:22:07.804Z")
+	},
+	{
+		"_id" : "7yHddyJyj",
+		"name" : "TR2 - Claude Sicart - complément à la question 1",
+		"description" : "<p>Complément de réponse de Claude Sicart - Le PoleS - à la question sur le territoire lors de la table-ronde n°2 - Territoires solidaires et emploi - le rôle de la conflictualité</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/HfLNjJVC1kfK0pm",
+		"thematique" : [
+			"22territoiresquestion1",
+			"41vecteurdemocratie",
+			"55matriceinstitutions",
+			"68claudesicart"
+		],
+		"timeline" : "tr2territoiressolidairesetemploi",
+		"_user" : null,
+		"_pos" : 1601558806161,
+		"_creationTime" : ISODate("2020-10-01T13:26:46.161Z")
+	},
+	{
+		"_id" : "4TPFAh1iJ",
+		"name" : "TR2 - Passage de la question 1 à la question 2 - Elisabetta Buccolo",
+		"description" : "<p>Table-ronde n°2 - Passage du résumé des réponses apportées par les intervenants à la première question (sur le territoire), à la formulation de la question 2 portant sur les formes de solidarité - par Elisabetta Buccolo</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/Ned06nkDjOAMe73",
+		"thematique" : [
+			"22territoiresquestion1"
+		],
+		"timeline" : "tr2territoiressolidairesetemploi",
+		"_user" : null,
+		"_pos" : 1601559067858,
+		"_creationTime" : ISODate("2020-10-01T13:31:07.858Z")
+	},
+	{
+		"_id" : "Uo0KBJBBn",
+		"name" : "TR2 - Réponse de Rachid Cherfaoui aux questions 2 et 3",
+		"description" : "<p>Réponse de Rachid Cherfaoui - Maison d’Économie Solidaire - à la question sur les formes de solidarités et les ressources mises en commun et à celle sur les liens entre territoires - lors de la table-ronde n°2 - Territoires solidaires et emploi</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/fQQ4Dr5Yek9wncz",
+		"thematique" : [
+			"23territoiresquestion2",
+			"32approchesdelasolidarite",
+			"67rachidcherfaoui",
+			"56matricealterites",
+			"24territoiresquestion3"
+		],
+		"timeline" : "tr2territoiressolidairesetemploi",
+		"_user" : null,
+		"_pos" : 1601559799043,
+		"_creationTime" : ISODate("2020-10-01T13:43:19.043Z"),
+		"_updateTime" : ISODate("2020-10-01T17:12:54.867Z")
+	},
+	{
+		"_id" : "j-Yyo8eDN",
+		"name" : "TR2 - Réponse de Daniel Le Guillou aux questions 2 et 3",
+		"description" : "<p>Réponse de Daniel Le Guillou - Territoire Zéro Chômeur de Longue Durée - à la question sur les formes de solidarités et les ressources mises en commun et à celle sur les liens entre territoires - lors de la table-ronde n°2 - Territoires solidaires et emploi</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/OVdZl5SL22bmlo7",
+		"thematique" : [
+			"23territoiresquestion2",
+			"32approchesdelasolidarite",
+			"41vecteurdemocratie",
+			"69danielleguillou",
+			"24territoiresquestion3"
+		],
+		"timeline" : "tr2territoiressolidairesetemploi",
+		"_user" : null,
+		"_pos" : 1601570057282,
+		"_creationTime" : ISODate("2020-10-01T16:34:17.282Z"),
+		"_updateTime" : ISODate("2020-10-01T17:13:26.180Z")
+	},
+	{
+		"_id" : "HpAirmWBA",
+		"name" : "TR 2 - Réponse de Claude Sicart aux questions 2 et 3",
+		"description" : "<p>Réponse de Claude Sicart - Le PoleS - à la question sur les formes de solidarités et les ressources mises en commun et à celle sur les liens entre territoires - lors de la table-ronde n°2 - Territoires solidaires et emploi</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/n9CrBSSUmnUdpyt",
+		"thematique" : [
+			"23territoiresquestion2",
+			"32approchesdelasolidarite",
+			"41vecteurdemocratie",
+			"44vecteurnumerique",
+			"33translocalisme",
+			"68claudesicart",
+			"24territoiresquestion3"
+		],
+		"timeline" : "tr2territoiressolidairesetemploi",
+		"_user" : null,
+		"_pos" : 1601571779540,
+		"_creationTime" : ISODate("2020-10-01T17:02:59.540Z"),
+		"_updateTime" : ISODate("2020-10-01T17:13:57.173Z")
+	},
+	{
+		"_id" : "J8dU3hUxs",
+		"name" : "TR2 - question d'Hervé Defalvard",
+		"description" : "<p>TR2 - discussions et échanges - apport d'Hervé Defalvard sur les formes de solidarités</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/5RlI5s1f5L7HJK0",
+		"thematique" : [
+			"32approchesdelasolidarite",
+			"61hervedefalvard"
+		],
+		"timeline" : "tr2territoiressolidairesetemploi",
+		"_user" : null,
+		"_pos" : 1601572236378,
+		"_creationTime" : ISODate("2020-10-01T17:10:36.378Z")
+	},
+	{
+		"_id" : "VkypsRE3C",
+		"name" : "TR2 - échanges et discussions dans la salle",
+		"description" : "<p>TR2 - échanges et discussions dans la salle</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/i2bnLiXRYVD3LuD",
+		"thematique" : [
+			"31approchesdescommuns",
+			"658-participants-non-intervenants"
+		],
+		"timeline" : "tr2territoiressolidairesetemploi",
+		"_user" : null,
+		"_pos" : 1601572671436,
+		"_creationTime" : ISODate("2020-10-01T17:17:51.436Z")
+	},
+	{
+		"_id" : "fd_xw7yVS",
+		"name" : "TR2 - réponse des intervenants aux questions",
+		"description" : "<p>TR2 - réponse des intervenants aux questions</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/U8kTRPJk6dZbdG5",
+		"thematique" : [
+			"21territoiresdecouverte",
+			"67rachidcherfaoui",
+			"69danielleguillou"
+		],
+		"timeline" : "tr2territoiressolidairesetemploi",
+		"_user" : null,
+		"_pos" : 1601573071297,
+		"_creationTime" : ISODate("2020-10-01T17:24:31.297Z")
+	},
+	{
+		"_id" : "Vk9pBnvRb",
+		"name" : "TR 2 - Réponse des intervenants et discussion",
+		"description" : "<p>TR 2 - Réponse des intervenants et discussion avec la salle suivie de la conclusion d'Elisabetta Buccolo - Début de la controverse sur la grande entreprise</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/Dp6if4hRppvLwxn",
+		"thematique" : [
+			"44vecteurnumerique",
+			"21territoiresdecouverte",
+			"68claudesicart",
+			"67rachidcherfaoui",
+			"58matriceoutilsdegestion",
+			"55matriceinstitutions"
+		],
+		"timeline" : "tr2territoiressolidairesetemploi",
+		"_user" : null,
+		"_pos" : 1601573586666,
+		"_creationTime" : ISODate("2020-10-01T17:33:06.666Z")
+	},
+	{
+		"_id" : "jp5by4_sG",
+		"name" : "PL 1 - Introduction d'Elisabetta Buccolo à la conférence de Jean-Louis Laville",
+		"description" : "<p>PL 1 - Introduction d'Elisabetta Buccolo à la conférence de Jean-Louis Laville</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/ccxu9GupIZJS3FQ",
+		"thematique" : [
+			"41vecteurdemocratie",
+			"62elisabettabuccolo"
+		],
+		"timeline" : "pleniere1democratieetsolidarite",
+		"_user" : null,
+		"_pos" : 1601577064541,
+		"_creationTime" : ISODate("2020-10-01T18:31:04.541Z")
+	},
+	{
+		"_id" : "EVXCxFbaf",
+		"name" : "PL 1 - Intervention de Jean-Louis Laville",
+		"description" : "<p>PL 1 - Enregistrement de l'intervention de Jean-Louis Laville</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/N0kH9RMAfWYNM1B",
+		"thematique" : [
+			"17livretextescl",
+			"32approchesdelasolidarite",
+			"41vecteurdemocratie",
+			"53matricesavoirs",
+			"54matricevaleurs",
+			"610jeanlouislaville"
+		],
+		"timeline" : "pleniere1democratieetsolidarite",
+		"_user" : null,
+		"_pos" : 1601577302548,
+		"_creationTime" : ISODate("2020-10-01T18:35:02.548Z")
+	},
+	{
+		"_id" : "nBJTCgR26",
+		"name" : "PL 1 - Discussions et échanges ",
+		"description" : "<p>Conférence Plénière n°1 - Echanges et discussions avec Jean-Louis Laville</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/nwvNiJ9itrexZ1g",
+		"thematique" : [
+			"41vecteurdemocratie",
+			"55matriceinstitutions",
+			"610jeanlouislaville",
+			"658-participants-non-intervenants"
+		],
+		"timeline" : "pleniere1democratieetsolidarite",
+		"_user" : null,
+		"_pos" : 1601577839941,
+		"_creationTime" : ISODate("2020-10-01T18:43:59.941Z")
+	},
+	{
+		"_id" : "4S68x0PGE",
+		"name" : "DP1 - Introduction d'Hervé Defalvard",
+		"description" : "<p>DP1 - Hervé Defalvard présente le principe des débats publics et introduit les propos de Philippe Eynaud</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/pKcfIlch6uNL4Cu",
+		"thematique" : [
+			"32approchesdelasolidarite"
+		],
+		"timeline" : "dp1formesdesolidariteetcommun",
+		"_user" : null,
+		"_pos" : 1601747427489,
+		"_creationTime" : ISODate("2020-10-03T17:50:27.489Z")
+	},
+	{
+		"_id" : "Rdb1CcOtz",
+		"name" : "DP1 - Intervention de Philippe Eynaud",
+		"description" : "<p>DP1 - Intervention de Philippe Eynaud lors du débat public \"Formes de solidarités et commun\"</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/ZZw8BPh9O1y5O7S",
+		"thematique" : [
+			"13livrechapitre1",
+			"32approchesdelasolidarite",
+			"52matricevaleur",
+			"58matriceoutilsdegestion",
+			"611philippeeynaud"
+		],
+		"timeline" : "dp1formesdesolidariteetcommun",
+		"_user" : null,
+		"_pos" : 1601747673271,
+		"_creationTime" : ISODate("2020-10-03T17:54:33.271Z")
+	},
+	{
+		"_id" : "AMS3D6f10",
+		"name" : "DP1 - Introduction aux propos de Stéphane Veyer ",
+		"description" : "<p>DP1 - Introduction aux propos de Stéphane Veyer par Hervé Defalvard</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/mHa6VN6oWtqVLkY",
+		"thematique" : [
+			"43vecteurcooperation"
+		],
+		"timeline" : "dp1formesdesolidariteetcommun",
+		"_user" : null,
+		"_pos" : 1601747791203,
+		"_creationTime" : ISODate("2020-10-03T17:56:31.203Z")
+	},
+	{
+		"_id" : "sHFyMOdFQ",
+		"name" : "DP1 - Intervention de Stéphane Veyer",
+		"description" : "<p>DP1 - Intervention de Stéphane Veyer lors du débat public \"Formes de solidarité et communs\"</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/VnJXVYXrE8gcR1s",
+		"thematique" : [
+			"15livrechapitre3",
+			"32approchesdelasolidarite",
+			"43vecteurcooperation",
+			"58matriceoutilsdegestion",
+			"612stephaneveyer"
+		],
+		"timeline" : "dp1formesdesolidariteetcommun",
+		"_user" : null,
+		"_pos" : 1601747914329,
+		"_creationTime" : ISODate("2020-10-03T17:58:34.329Z")
+	},
+	{
+		"_id" : "gW2NpgguW",
+		"name" : "DP1 - Discussions dans la salle",
+		"description" : "<p>DP1 - Discussions dans la salle lors du débat public sur \"Formes de solidarité et commun\"</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/MV8RjIaBJzMxv5A",
+		"thematique" : [
+			"31approchesdescommuns",
+			"32approchesdelasolidarite",
+			"43vecteurcooperation",
+			"611philippeeynaud",
+			"612stephaneveyer",
+			"627silkehelfrich",
+			"639melainecervera",
+			"67rachidcherfaoui",
+			"658-participants-non-intervenants",
+			"58matriceoutilsdegestion",
+			"52matricevaleur",
+			"62elisabettabuccolo",
+			"641denisdupre"
+		],
+		"timeline" : "dp1formesdesolidariteetcommun",
+		"_user" : null,
+		"_pos" : 1601750107251,
+		"_creationTime" : ISODate("2020-10-03T18:35:07.251Z")
+	},
+	{
+		"_id" : "frpc63O0O",
+		"name" : "PL2 - Introduction à la conférence de Lionel Maurel par Geneviève Fontaine",
+		"description" : "<p>PL2 - Introduction à la conférence de Lionel Maurel par Geneviève Fontaine</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/zsFiLlGzXgj7BVd",
+		"thematique" : [
+			"63genevievefontaine",
+			"44vecteurnumerique"
+		],
+		"timeline" : "pleniere2faireatterirlescommunsnumeriques",
+		"_user" : null,
+		"_pos" : 1601832747389,
+		"_creationTime" : ISODate("2020-10-04T17:32:27.389Z")
+	},
+	{
+		"_id" : "zRoKTAuZF",
+		"name" : "PL2 - Intervention de Lionel Maurel",
+		"description" : "<p>Faire atterrir les communs numériques - Intervention de Lionel Maurel</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/UJYEiC89Z76ci3r",
+		"thematique" : [
+			"13livrechapitre1",
+			"14livrechapitre2",
+			"18livreconclusion",
+			"31approchesdescommuns",
+			"44vecteurnumerique",
+			"51matricetemps",
+			"53matricesavoirs",
+			"54matricevaleurs",
+			"618lionelmaurel",
+			"59-matrice-espaces"
+		],
+		"timeline" : "pleniere2faireatterirlescommunsnumeriques",
+		"_user" : null,
+		"_pos" : 1601832952629,
+		"_creationTime" : ISODate("2020-10-04T17:35:52.629Z")
+	},
+	{
+		"_id" : "EGZP4LV7k",
+		"name" : "PL2 - Discussions et échanges suite à l'intervention de Lionel Maurel",
+		"description" : "<p>PL2 - Discussions et échanges suite à l'intervention de Lionel Maurel</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/XHGf76wxTCBlztU",
+		"thematique" : [
+			"44vecteurnumerique",
+			"31approchesdescommuns",
+			"618lionelmaurel",
+			"627silkehelfrich",
+			"652jeanlouisbancel",
+			"42vecteurecologie",
+			"635arnaudassie",
+			"57matricesensible",
+			"55matriceinstitutions",
+			"56matricealterites",
+			"63genevievefontaine",
+			"658-participants-non-intervenants"
+		],
+		"timeline" : "pleniere2faireatterirlescommunsnumeriques",
+		"_user" : null,
+		"_pos" : 1601835280922,
+		"_creationTime" : ISODate("2020-10-04T18:14:40.922Z")
+	},
+	{
+		"_id" : "0aGlS1dvY",
+		"name" : "TR 4 - Introduction par Elisabetta Buccolo",
+		"description" : "<p>TR 4 - Introduction par Elisabetta Buccolo à la table ronde sur les systèmes alimentaires solidaires territorialisés</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/tCIJGgrKz2YSw2p",
+		"thematique" : [
+			"21territoiresdecouverte",
+			"62elisabettabuccolo"
+		],
+		"timeline" : "tr4systemesalimentairessolidairesterritorialises",
+		"_user" : null,
+		"_pos" : 1601880727987,
+		"_creationTime" : ISODate("2020-10-05T06:52:07.987Z")
+	},
+	{
+		"_id" : "puGPMrv1j",
+		"name" : "TR 4 - Réponse de Gheorghe Ciascai à la question 1",
+		"description" : "<p>TR 4 - Réponse de Gheorghe Ciascai (Coopérative agricole Carrefour Varasti) à la question 1 portant sur le territoire de l'initiative lors de la table-ronde sur les systèmes alimentaires solidaires territorialisés</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/KNILOd2F9CJciAR",
+		"thematique" : [
+			"15livrechapitre3",
+			"21territoiresdecouverte",
+			"22territoiresquestion1",
+			"43vecteurcooperation",
+			"613gheorgheciascai",
+			"59-matrice-espaces"
+		],
+		"timeline" : "tr4systemesalimentairessolidairesterritorialises",
+		"_user" : null,
+		"_pos" : 1601881091695,
+		"_creationTime" : ISODate("2020-10-05T06:58:11.695Z"),
+		"_updateTime" : ISODate("2020-10-12T15:30:32.584Z")
+	},
+	{
+		"_id" : "aCuSLhLuZ",
+		"name" : "TR 4 - Réponse à la question 1 par Giuseppe Li Rosi",
+		"description" : "<p>TR 4 - Réponse de Giuseppe Li Rosi (collectif Simenza - Sicile) à la question 1 portant sur le territoire de l'initiative lors de la table-ronde sur les systèmes alimentaires solidaires territorialisés</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/0BRPXom8sNzPzNY",
+		"thematique" : [
+			"14livrechapitre2",
+			"21territoiresdecouverte",
+			"22territoiresquestion1",
+			"53matricesavoirs",
+			"614giuseppelirosi",
+			"59-matrice-espaces"
+		],
+		"timeline" : "tr4systemesalimentairessolidairesterritorialises",
+		"_user" : null,
+		"_pos" : 1601881397468,
+		"_creationTime" : ISODate("2020-10-05T07:03:17.468Z"),
+		"_updateTime" : ISODate("2020-10-12T15:27:45.727Z")
+	},
+	{
+		"_id" : "On4s-1dJX",
+		"name" : "TR 4 - Réponse à la question 1 par Marc Lourdaux",
+		"description" : "<p>TR 4 - Réponse de Marc Lourdaux (Echanges paysans Hautes-Alpes) à la question 1 portant sur le territoire de l'initiative lors de la table-ronde sur les systèmes alimentaires solidaires territorialisés</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/rBp2nwjdHZQnBtH",
+		"thematique" : [
+			"17livretextescl",
+			"21territoiresdecouverte",
+			"22territoiresquestion1",
+			"43vecteurcooperation",
+			"52matricevaleur",
+			"615marclourdaux",
+			"59-matrice-espaces"
+		],
+		"timeline" : "tr4systemesalimentairessolidairesterritorialises",
+		"_user" : null,
+		"_pos" : 1601881567315,
+		"_creationTime" : ISODate("2020-10-05T07:06:07.315Z"),
+		"_updateTime" : ISODate("2020-10-12T15:29:22.265Z")
+	},
+	{
+		"_id" : "fMtXUefhi",
+		"name" : "TR 4 - Présentation de la deuxième question par Elisabetta Buccolo",
+		"description" : "<p>TR 4 - Présentation de la deuxième question par Elisabetta Buccolo</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/NXq2NqKupz3UfqU",
+		"thematique" : [
+			"23territoiresquestion2"
+		],
+		"timeline" : "tr4systemesalimentairessolidairesterritorialises",
+		"_user" : null,
+		"_pos" : 1601905984097,
+		"_creationTime" : ISODate("2020-10-05T13:53:04.097Z")
+	},
+	{
+		"_id" : "qV6_QffJZ",
+		"name" : "TR 4 - Réponse de Gheorghe Ciascai à la question 2",
+		"description" : "<p>TR 4 - Réponse de Gheorghe Ciascai (Coopérative agricole Carrefour Varasti) à la question 2 portant sur les formes de solidarité et les ressources mises en commun portées par l'initiative lors de la table-ronde sur les systèmes alimentaires solidaires territorialisés</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/fEtb8TFIX32emUb",
+		"thematique" : [
+			"15livrechapitre3",
+			"23territoiresquestion2",
+			"43vecteurcooperation",
+			"613gheorgheciascai"
+		],
+		"timeline" : "tr4systemesalimentairessolidairesterritorialises",
+		"_user" : null,
+		"_pos" : 1601906283832,
+		"_creationTime" : ISODate("2020-10-05T13:58:03.832Z"),
+		"_updateTime" : ISODate("2020-10-12T15:30:19.013Z")
+	},
+	{
+		"_id" : "D2tM93G2r",
+		"name" : "TR 4 - Réponse de Marc Lourdaux à la question 2  (partie 1)",
+		"description" : "<p>TR 4 - Réponse de Marc Lourdaux (Echanges paysans Hautes-Alpes) à la question 2 portant sur les formes de solidarité et les ressources mises en commun portées par l'initiative lors de la table-ronde sur les systèmes alimentaires solidaires territorialisés (partie 1)</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/IdRaVKUxj7WdABs",
+		"thematique" : [
+			"17livretextescl",
+			"23territoiresquestion2",
+			"32approchesdelasolidarite",
+			"58matriceoutilsdegestion",
+			"615marclourdaux"
+		],
+		"timeline" : "tr4systemesalimentairessolidairesterritorialises",
+		"_user" : null,
+		"_pos" : 1601906439561,
+		"_creationTime" : ISODate("2020-10-05T14:00:39.561Z"),
+		"_updateTime" : ISODate("2020-10-12T15:29:04.315Z")
+	},
+	{
+		"_id" : "sDuXi9xEp",
+		"name" : "TR 4 - Réponse de Giuseppe Li Rosi à la question 2",
+		"description" : "<p>TR 4 - Réponse de Giuseppe Li Rosi (collectif Simenza - Sicile) à la question 2 portant sur les formes de solidarité et les ressources mises en commun portées par l'initiative lors de la table-ronde sur les systèmes alimentaires solidaires territorialisés</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/rzqqkVzeV44Ii90",
+		"thematique" : [
+			"14livrechapitre2",
+			"23territoiresquestion2",
+			"42vecteurecologie",
+			"57matricesensible",
+			"614giuseppelirosi"
+		],
+		"timeline" : "tr4systemesalimentairessolidairesterritorialises",
+		"_user" : null,
+		"_pos" : 1601921398703,
+		"_creationTime" : ISODate("2020-10-05T18:09:58.703Z"),
+		"_updateTime" : ISODate("2020-10-12T15:27:29.166Z")
+	},
+	{
+		"_id" : "bW3NiKGfs",
+		"name" : "TR 4 - Réponse de Marc Lourdaux à la question 2 (partie 2)",
+		"description" : "<p>TR 4 - Réponse de Marc Lourdaux (Echanges paysans Hautes-Alpes) à la question 2 portant sur les formes de solidarité et les ressources mises en commun portées par l'initiative lors de la table-ronde sur les systèmes alimentaires solidaires territorialisés (partie 2)</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/OGmqT260eoMkiN8",
+		"thematique" : [
+			"17livretextescl",
+			"23territoiresquestion2",
+			"32approchesdelasolidarite",
+			"615marclourdaux"
+		],
+		"timeline" : "tr4systemesalimentairessolidairesterritorialises",
+		"_user" : null,
+		"_pos" : 1601921649917,
+		"_creationTime" : ISODate("2020-10-05T18:14:09.917Z"),
+		"_updateTime" : ISODate("2020-10-12T15:28:48.549Z")
+	},
+	{
+		"_id" : "tyT3yYD_i",
+		"name" : "TR 4 - Introduction de la troisième question par Elisabetta Buccolo",
+		"description" : "<p>TR 4 - Introduction de la troisième question par Elisabetta Buccolo</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/zIdLeMrB11ZtK9Q",
+		"thematique" : [
+			"24territoiresquestion3"
+		],
+		"timeline" : "tr4systemesalimentairessolidairesterritorialises",
+		"_user" : null,
+		"_pos" : 1601921749305,
+		"_creationTime" : ISODate("2020-10-05T18:15:49.305Z")
+	},
+	{
+		"_id" : "ZzabUQjGt",
+		"name" : "TR 4 - Réponse de Gheorghe Ciascai à la question 3",
+		"description" : "<p>TR 4 - Réponse de Gheorghe Ciascai (Coopérative agricole Carrefour Varasti) à la question 3 portant sur les liens entre les territoires lors de la table-ronde sur les systèmes alimentaires solidaires territorialisés</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/Ddifemh7gE6JRs4",
+		"thematique" : [
+			"15livrechapitre3",
+			"24territoiresquestion3",
+			"33translocalisme",
+			"613gheorgheciascai"
+		],
+		"timeline" : "tr4systemesalimentairessolidairesterritorialises",
+		"_user" : null,
+		"_pos" : 1601921902854,
+		"_creationTime" : ISODate("2020-10-05T18:18:22.854Z"),
+		"_updateTime" : ISODate("2020-10-12T15:30:01.021Z")
+	},
+	{
+		"_id" : "up50Vfhsb",
+		"name" : "TR 4 - Réponse de Marc Lourdaux à la question 3",
+		"description" : "<p>TR 4 - Réponse de Marc Lourdaux (Echanges paysans Hautes-Alpes) à la question 3 portant sur les liens entre les territoires lors de la table-ronde sur les systèmes alimentaires solidaires territorialisés</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/h6E5Uv8r0Gsudos",
+		"thematique" : [
+			"17livretextescl",
+			"24territoiresquestion3",
+			"33translocalisme",
+			"615marclourdaux"
+		],
+		"timeline" : "tr4systemesalimentairessolidairesterritorialises",
+		"_user" : null,
+		"_pos" : 1601922016467,
+		"_creationTime" : ISODate("2020-10-05T18:20:16.467Z"),
+		"_updateTime" : ISODate("2020-10-12T15:28:27.078Z")
+	},
+	{
+		"_id" : "RLTvZeRxH",
+		"name" : "TR 4 - Réponse de Giuseppe Li Rosi à la question 3",
+		"description" : "<p>TR 4 - Réponse de Giuseppe Li Rosi (collectif Simenza - Sicile) à la question 3 portant sur les liens entre les territoires lors de la table-ronde sur les systèmes alimentaires solidaires territorialisés</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/H4tLRpbNy62v984",
+		"thematique" : [
+			"14livrechapitre2",
+			"17livretextescl",
+			"24territoiresquestion3",
+			"57matricesensible",
+			"614giuseppelirosi"
+		],
+		"timeline" : "tr4systemesalimentairessolidairesterritorialises",
+		"_user" : null,
+		"_pos" : 1601922147686,
+		"_creationTime" : ISODate("2020-10-05T18:22:27.686Z"),
+		"_updateTime" : ISODate("2020-10-12T15:27:13.595Z")
+	},
+	{
+		"_id" : "w29QLhaT-",
+		"name" : "TR 4 - Discussions et échanges lors de la table-ronde 4",
+		"description" : "<p>TR 4 - Discussions et échanges lors de la table-ronde sur les systèmes alimentaires solidaires territorialisés </p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/juAU0DCDHWWIQTw",
+		"thematique" : [
+			"53matricesavoirs",
+			"612stephaneveyer",
+			"33translocalisme",
+			"61hervedefalvard",
+			"654lescapteursdeliens",
+			"44vecteurnumerique",
+			"618lionelmaurel",
+			"52matricevaleur"
+		],
+		"timeline" : "tr4systemesalimentairessolidairesterritorialises",
+		"_user" : null,
+		"_pos" : 1601922947185,
+		"_creationTime" : ISODate("2020-10-05T18:35:47.185Z")
+	},
+	{
+		"_id" : "ysCvm-P8P",
+		"name" : "Ecoute intégrale du débat public n°1",
+		"description" : "<p>Ecoute intégrale du débat public n°1 sur les formes de solidarité et commun</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/BzihIcCU7Mvku8I",
+		"thematique" : [
+			"13livrechapitre1",
+			"15livrechapitre3",
+			"32approchesdelasolidarite",
+			"43vecteurcooperation",
+			"58matriceoutilsdegestion",
+			"611philippeeynaud",
+			"612stephaneveyer",
+			"02-ecoute-integrale"
+		],
+		"timeline" : "dp1formesdesolidariteetcommun",
+		"_user" : null,
+		"_pos" : 1601926229011,
+		"_creationTime" : ISODate("2020-10-05T19:30:29.011Z")
+	},
+	{
+		"_id" : "a_IGIeRVm",
+		"name" : "DP 2 - Introduction du débat public n°2 par Geneviève Fontaine",
+		"description" : "<p>DP 2 - Introduction du débat public n°2 - Regards croisés Nord-Sud, une épistémologie commune ? - par Geneviève Fontaine</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/vUabJSmRJm2dYkN",
+		"thematique" : [
+			"53matricesavoirs",
+			"63genevievefontaine"
+		],
+		"timeline" : "dp2regardscroisesnordsuduneepistemologiecommune",
+		"_user" : null,
+		"_pos" : 1601926410114,
+		"_creationTime" : ISODate("2020-10-05T19:33:30.114Z")
+	},
+	{
+		"_id" : "mKkPoC70B",
+		"name" : "DP n°2 - Intervention de Stéphanie Leyronas",
+		"description" : "<p>DP n°2 - Intervention de Stéphanie Leyronas lors du débat public n°2 - Regards croisés Nord-Sud, une épistémologie commune ? </p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/rwMZHOWxm8WTmCy",
+		"thematique" : [
+			"13livrechapitre1",
+			"31approchesdescommuns",
+			"51matricetemps",
+			"55matriceinstitutions",
+			"617stephanieleyronas",
+			"59-matrice-espaces"
+		],
+		"timeline" : "dp2regardscroisesnordsuduneepistemologiecommune",
+		"_user" : null,
+		"_pos" : 1601926624082,
+		"_creationTime" : ISODate("2020-10-05T19:37:04.082Z")
+	},
+	{
+		"_id" : "0254_fbeO",
+		"name" : "DP n°2 - Intervention de Pedro Hespanha",
+		"description" : "<p>DP n°2 - Intervention de Pedro Hespanha lors du débat public n°2 - Regards croisés Nord-Sud, une épistémologie commune ?</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/5qCImVbzDG7G4n9",
+		"thematique" : [
+			"13livrechapitre1",
+			"14livrechapitre2",
+			"41vecteurdemocratie",
+			"53matricesavoirs",
+			"54matricevaleurs",
+			"616pedrohespanha"
+		],
+		"timeline" : "dp2regardscroisesnordsuduneepistemologiecommune",
+		"_user" : null,
+		"_pos" : 1601926767993,
+		"_creationTime" : ISODate("2020-10-05T19:39:27.993Z")
+	},
+	{
+		"_id" : "-yqn8hnpb",
+		"name" : "DP 2 - Intervention d'Edith Heurgon",
+		"description" : "<p>Intervention d'Edith Heurgon présentant l'expérience de prospective du présent menée avec France Volontaire : \"Tous volontaires au monde : jardiniers du bien commun\".</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/KFOLaNW9ItGFoTd",
+		"thematique" : [
+			"31approchesdescommuns",
+			"32approchesdelasolidarite",
+			"33translocalisme",
+			"51matricetemps",
+			"54matricevaleurs",
+			"53matricesavoirs",
+			"655edithheurgon"
+		],
+		"timeline" : "dp2regardscroisesnordsuduneepistemologiecommune",
+		"_user" : null,
+		"_pos" : 1601927040409,
+		"_creationTime" : ISODate("2020-10-05T19:44:00.409Z")
+	},
+	{
+		"_id" : "sTspKkXhI",
+		"name" : "DP 2 - Discussions et échanges lors du débat public n°2",
+		"description" : "<p>DP 2 -  Discussions et échanges du débat public n°2 - Regards croisés Nord-Sud, une épistémologie commune ?</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/nLnmKvsyuMLSjS6",
+		"thematique" : [
+			"31approchesdescommuns",
+			"42vecteurecologie",
+			"55matriceinstitutions",
+			"658-participants-non-intervenants",
+			"53matricesavoirs",
+			"54matricevaleurs",
+			"56matricealterites"
+		],
+		"timeline" : "dp2regardscroisesnordsuduneepistemologiecommune",
+		"_user" : null,
+		"_pos" : 1601928231529,
+		"_creationTime" : ISODate("2020-10-05T20:03:51.529Z")
+	},
+	{
+		"_id" : "pb2Cjfwpi",
+		"name" : "PL 3 - Introduction à la conférence de Jean-François Draperi par Elisabetta Buccolo",
+		"description" : "<p>PL 3 - Introduction à la conférence de Jean-François Draperi sur le temps des méso-républiques inter-coopératives, par Elisabetta Buccolo</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/E1TMUI9f2SIQCzu",
+		"thematique" : [
+			"17livretextescl",
+			"32approchesdelasolidarite",
+			"43vecteurcooperation",
+			"62elisabettabuccolo"
+		],
+		"timeline" : "pleniere3letempsdesmesorepubliquesintercooperatives",
+		"_user" : null,
+		"_pos" : 1601970691425,
+		"_creationTime" : ISODate("2020-10-06T07:51:31.425Z")
+	},
+	{
+		"_id" : "fdA6e0Aba",
+		"name" : "PL 3 - Conférence de Jean-François Draperi",
+		"description" : "<p>PL 3 - Conférence de Jean-François Draperi sur le temps des méso-républiques inter-coopératives</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/GzD5GYK0Pmx1u2O",
+		"thematique" : [
+			"17livretextescl",
+			"32approchesdelasolidarite",
+			"43vecteurcooperation",
+			"33translocalisme",
+			"619jeanfrancoisdraperi"
+		],
+		"timeline" : "pleniere3letempsdesmesorepubliquesintercooperatives",
+		"_user" : null,
+		"_pos" : 1601970869934,
+		"_creationTime" : ISODate("2020-10-06T07:54:29.934Z")
+	},
+	{
+		"_id" : "jUOSH_GcD",
+		"name" : "PL 3 - Discussions et échanges ",
+		"description" : null,
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/krpa34OBNHqH0y0",
+		"thematique" : [
+			"33translocalisme",
+			"52matricevaleur",
+			"652jeanlouisbancel",
+			"619jeanfrancoisdraperi",
+			"627silkehelfrich",
+			"61hervedefalvard",
+			"53matricesavoirs"
+		],
+		"timeline" : "pleniere3letempsdesmesorepubliquesintercooperatives",
+		"_user" : null,
+		"_pos" : 1601971736191,
+		"_creationTime" : ISODate("2020-10-06T08:08:56.191Z")
+	},
+	{
+		"_id" : "Zv5qEemJq",
+		"name" : "TR 5 - Introduction par Elisabetta Buccolo",
+		"description" : "<p>TR 5 - Introduction par Elisabetta Buccolo de la table-ronde sur Culture et commun dans les territoires</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/0vgBFPbGset6p7i",
+		"thematique" : [
+			"21territoiresdecouverte",
+			"62elisabettabuccolo"
+		],
+		"timeline" : "tr5cultureetcommundanslesterritoires",
+		"_user" : null,
+		"_pos" : 1601979437906,
+		"_creationTime" : ISODate("2020-10-06T10:17:17.906Z"),
+		"_updateTime" : ISODate("2020-10-07T11:39:47.691Z")
+	},
+	{
+		"_id" : "tZyYlwZN8",
+		"name" : "TR 5 - Réponse de Cécile Offroy à la question 1",
+		"description" : "<p>TR 5 - Réponse de Cécile Offroy à la question 1 portant sur le territoire de l'initiative (les lieux intermédiaires) lors de de la table-ronde sur Culture et commun dans les territoires</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/K9VD2owvka74tv2",
+		"thematique" : [
+			"14livrechapitre2",
+			"22territoiresquestion1",
+			"21territoiresdecouverte",
+			"41vecteurdemocratie",
+			"56matricealterites",
+			"621cecileoffroy"
+		],
+		"timeline" : "tr5cultureetcommundanslesterritoires",
+		"_user" : null,
+		"_pos" : 1601979758267,
+		"_creationTime" : ISODate("2020-10-06T10:22:38.267Z"),
+		"_updateTime" : ISODate("2020-10-07T11:39:37.038Z")
+	},
+	{
+		"_id" : "YsCkxAYFW",
+		"name" : "TR 5 - Réponse de Laura Aufrère à la question 1",
+		"description" : "<p>TR 5 - Réponse de Laura Aufrère à la question 1 portant sur le territoire de l'initiative (les lieux intermédiaires) lors de de la table-ronde sur Culture et commun dans les territoires</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/ieHn6g7kGYR91sG",
+		"thematique" : [
+			"21territoiresdecouverte",
+			"22territoiresquestion1",
+			"41vecteurdemocratie",
+			"56matricealterites",
+			"59-matrice-espaces",
+			"620lauraaufrere",
+			"55matriceinstitutions"
+		],
+		"timeline" : "tr5cultureetcommundanslesterritoires",
+		"_user" : null,
+		"_pos" : 1601986339096,
+		"_creationTime" : ISODate("2020-10-06T12:12:19.096Z"),
+		"_updateTime" : ISODate("2020-10-07T11:39:27.036Z")
+	},
+	{
+		"_id" : "okj8LHZ9x",
+		"name" : "TR 5 - Réponse à la question 1 par Raphael Lhomme",
+		"description" : "<p>TR 5 - Réponse de Cécile Offroy à la question 1 portant sur le territoire de l'initiative Opale lors de de la table-ronde sur Culture et commun dans les territoires</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/WUc9TDrGmx34Uqw",
+		"thematique" : [
+			"14livrechapitre2",
+			"41vecteurdemocratie",
+			"21territoiresdecouverte",
+			"22territoiresquestion1",
+			"622raphaëllhomme",
+			"54matricevaleurs",
+			"44vecteurnumerique"
+		],
+		"timeline" : "tr5cultureetcommundanslesterritoires",
+		"_user" : null,
+		"_pos" : 1601986787614,
+		"_creationTime" : ISODate("2020-10-06T12:19:47.614Z"),
+		"_updateTime" : ISODate("2020-10-12T15:33:04.327Z")
+	},
+	{
+		"_id" : "79APgtqLK",
+		"name" : "TR 5 - Introduction de la question 2 par Elisabetta Buccolo",
+		"description" : "<p>TR 5 - Introduction à la question 2 par Elisabetta Buccolo lors de la table-ronde sur Culture et commun dans les territoires</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/6C2bpALvBdsl1YV",
+		"thematique" : [
+			"23territoiresquestion2"
+		],
+		"timeline" : "tr5cultureetcommundanslesterritoires",
+		"_user" : null,
+		"_pos" : 1601986932467,
+		"_creationTime" : ISODate("2020-10-06T12:22:12.467Z"),
+		"_updateTime" : ISODate("2020-10-07T11:37:48.590Z")
+	},
+	{
+		"_id" : "eF1I5m31v",
+		"name" : "TR 5 - Réponse à la question 2 par Raphaël Lhomme",
+		"description" : "<p>TR 5 - Réponse de Raphaël Lhomme (Revue Profession spectacle) à la question 2 portant sur les formes de solidarité et les ressources mises en commun portées par l'initiative lors de de la table-ronde sur Culture et commun dans les territoires</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/BNhDH26m1EPXFSe",
+		"thematique" : [
+			"22territoiresquestion1",
+			"44vecteurnumerique",
+			"622raphaëllhomme",
+			"56matricealterites"
+		],
+		"timeline" : "tr5cultureetcommundanslesterritoires",
+		"_user" : null,
+		"_pos" : 1601987845231,
+		"_creationTime" : ISODate("2020-10-06T12:37:25.231Z"),
+		"_updateTime" : ISODate("2020-10-12T15:32:33.322Z")
+	},
+	{
+		"_id" : "ugkDO79mC",
+		"name" : "TR 5 - Réponse de Cécile Ofroy à la question 2",
+		"description" : "<p>TR 5 - Réponse de Cécile Ofroy (Opale) à la question 2 portant sur les formes de solidarité et les ressources mises en commun portées par l'initiative lors de de la table-ronde sur Culture et commun dans les territoires</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/3EAwGQ6GI1pf24V",
+		"thematique" : [
+			"23territoiresquestion2",
+			"31approchesdescommuns",
+			"621cecileoffroy",
+			"43vecteurcooperation",
+			"44vecteurnumerique",
+			"53matricesavoirs"
+		],
+		"timeline" : "tr5cultureetcommundanslesterritoires",
+		"_user" : null,
+		"_pos" : 1601988226424,
+		"_creationTime" : ISODate("2020-10-06T12:43:46.424Z"),
+		"_updateTime" : ISODate("2020-10-12T15:32:22.914Z")
+	},
+	{
+		"_id" : "smRn6MstE",
+		"name" : "TR 5 - Réponse de Laura Aufrère à la question 2",
+		"description" : "<p>TR 5 - Réponse de Laura Aufrère à la question 2 portant sur les formes de solidarité et les ressources mises en commun portées par l'initiative lors de de la table-ronde sur Culture et commun dans les territoires</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/Vzwe0LsdG1ddQ08",
+		"thematique" : [
+			"22territoiresquestion1",
+			"31approchesdescommuns",
+			"52matricevaleur",
+			"620lauraaufrere",
+			"44vecteurnumerique"
+		],
+		"timeline" : "tr5cultureetcommundanslesterritoires",
+		"_user" : null,
+		"_pos" : 1601988584567,
+		"_creationTime" : ISODate("2020-10-06T12:49:44.567Z"),
+		"_updateTime" : ISODate("2020-10-07T11:36:21.518Z")
+	},
+	{
+		"_id" : "zsIK6ZbYX",
+		"name" : "TR 5 - Introduction par Elisabetta Buccolo de la question 3",
+		"description" : "<p>TR 5 - Introduction par Elisabetta Buccolo de la question 3 lors de la table-ronde sur Culture et commun dans les territoires</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/r8cSeGBVJQcqHyY",
+		"thematique" : [
+			"24territoiresquestion3"
+		],
+		"timeline" : "tr5cultureetcommundanslesterritoires",
+		"_user" : null,
+		"_pos" : 1601988734803,
+		"_creationTime" : ISODate("2020-10-06T12:52:14.803Z"),
+		"_updateTime" : ISODate("2020-10-07T11:36:10.213Z")
+	},
+	{
+		"_id" : "1_KtuOYnG",
+		"name" : "TR 5 - Réponse de Raphaël Lhomme à la question 3",
+		"description" : "<p>TR 5 - Réponse de Raphaël Lhomme (Revue Profession spectacle) à la question 3 portant sur les liens entre les territoires et les initiatives lors de de la table-ronde sur Culture et commun dans les territoires</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/x519IweaByGaw9U",
+		"thematique" : [
+			"24territoiresquestion3",
+			"43vecteurcooperation",
+			"622raphaëllhomme"
+		],
+		"timeline" : "tr5cultureetcommundanslesterritoires",
+		"_user" : null,
+		"_pos" : 1601988970182,
+		"_creationTime" : ISODate("2020-10-06T12:56:10.182Z"),
+		"_updateTime" : ISODate("2020-10-12T15:32:04.003Z")
+	},
+	{
+		"_id" : "nFYbKNnqd",
+		"name" : "TR 5 - Réponse de Laura Aufrère à la question 3 ",
+		"description" : "<p>TR 5 - Réponse de Laura Aufrère à la question 3 portant sur les liens entre les territoires et les initiatives lors de de la table-ronde sur Culture et commun dans les territoires</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/Ut9U6Cn0jKYgGfx",
+		"thematique" : [
+			"24territoiresquestion3",
+			"33translocalisme",
+			"31approchesdescommuns",
+			"620lauraaufrere"
+		],
+		"timeline" : "tr5cultureetcommundanslesterritoires",
+		"_user" : null,
+		"_pos" : 1602005610195,
+		"_creationTime" : ISODate("2020-10-06T17:33:30.195Z"),
+		"_updateTime" : ISODate("2020-10-07T11:35:42.871Z")
+	},
+	{
+		"_id" : "UydkvNbvF",
+		"name" : "TR 5 - Réponse de Cécile Offroy à la question 3",
+		"description" : "<p>TR 5 - Réponse de Cécile Offroy (Opale) à la question 3 portant sur les liens entre les territoires et les initiatives lors de de la table-ronde sur Culture et commun dans les territoires</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/JqMAMwi5vyzNgjW",
+		"thematique" : [
+			"24territoiresquestion3",
+			"33translocalisme",
+			"59-matrice-espaces",
+			"621cecileoffroy"
+		],
+		"timeline" : "tr5cultureetcommundanslesterritoires",
+		"_user" : null,
+		"_pos" : 1602005741755,
+		"_creationTime" : ISODate("2020-10-06T17:35:41.755Z"),
+		"_updateTime" : ISODate("2020-10-12T15:31:22.302Z")
+	},
+	{
+		"_id" : "7l1gs8I6_",
+		"name" : "TR 5 - Échanges et discussions",
+		"description" : "<p>TR 5 - Échanges et discussions lors de la table-ronde sur Culture et commun dans les territoires</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/l6THSyqgHEotxOa",
+		"thematique" : [
+			"21territoiresdecouverte",
+			"31approchesdescommuns",
+			"54matricevaleurs",
+			"618lionelmaurel",
+			"63genevievefontaine",
+			"65barbarabinbarrois",
+			"658-participants-non-intervenants",
+			"52matricevaleur"
+		],
+		"timeline" : "tr5cultureetcommundanslesterritoires",
+		"_user" : null,
+		"_pos" : 1602007360133,
+		"_creationTime" : ISODate("2020-10-06T18:02:40.133Z"),
+		"_updateTime" : ISODate("2020-10-07T11:35:10.135Z")
+	},
+	{
+		"_id" : "QtSl71ATO",
+		"name" : "DP 3 - Introduction du troisième débat public par Elisabetta Buccolo",
+		"description" : "<p>DP 3 - Introduction par Elisabetta Buccolo du débat public sur Valeurs et communs pour les territoires</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/iaFLDWY251yVdgq",
+		"thematique" : [
+			"54matricevaleurs",
+			"62elisabettabuccolo"
+		],
+		"timeline" : "dp3valeursetcommunspourlesterritoires",
+		"_user" : null,
+		"_pos" : 1602053038878,
+		"_creationTime" : ISODate("2020-10-07T06:43:58.878Z"),
+		"_updateTime" : ISODate("2020-10-07T11:38:38.187Z")
+	},
+	{
+		"_id" : "64Oz266nG",
+		"name" : "DP 3 - Intervention de Nicolas Chochoy",
+		"description" : "<p>DP 3 - Intervention de Nicolas Chochoy lors du débat public sur Valeurs et communs pour les territoires</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/lT0LkFkEyxL8GpR",
+		"thematique" : [
+			"13livrechapitre1",
+			"51matricetemps",
+			"52matricevaleur",
+			"54matricevaleurs",
+			"626nicolaschochoy",
+			"656lechâteaudecerisy"
+		],
+		"timeline" : "dp3valeursetcommunspourlesterritoires",
+		"_user" : null,
+		"_pos" : 1602053193438,
+		"_creationTime" : ISODate("2020-10-07T06:46:33.438Z"),
+		"_updateTime" : ISODate("2020-10-07T06:50:56.324Z")
+	},
+	{
+		"_id" : "kPepZWf-R",
+		"name" : "DP 3 - Intervention d'Hervé Defalvard",
+		"description" : "<p>DP 3 - Intervention d'Hervé Defalvard lors du débat public sur Valeurs et communs pour les territoires</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/5FYKa9d41Zk7SZj",
+		"thematique" : [
+			"13livrechapitre1",
+			"31approchesdescommuns",
+			"54matricevaleurs",
+			"61hervedefalvard"
+		],
+		"timeline" : "dp3valeursetcommunspourlesterritoires",
+		"_user" : null,
+		"_pos" : 1602053330133,
+		"_creationTime" : ISODate("2020-10-07T06:48:50.133Z")
+	},
+	{
+		"_id" : "prxXLe-_Z",
+		"name" : "DP 3 - Discussions et échanges lors du débat-public n°3",
+		"description" : "<p>DP 3 - Discussions et échanges lors du débat-public sur Valeurs et communs pour les territoires</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/2NO1BwH0sjAA5Pa",
+		"thematique" : [
+			"31approchesdescommuns",
+			"52matricevaleur",
+			"58matriceoutilsdegestion",
+			"643nicolealix",
+			"635arnaudassie",
+			"658-participants-non-intervenants",
+			"54matricevaleurs",
+			"63genevievefontaine",
+			"619jeanfrancoisdraperi",
+			"51matricetemps",
+			"53matricesavoirs",
+			"618lionelmaurel",
+			"655edithheurgon",
+			"61hervedefalvard",
+			"626nicolaschochoy",
+			"67rachidcherfaoui",
+			"65barbarabinbarrois",
+			"33translocalisme"
+		],
+		"timeline" : "dp3valeursetcommunspourlesterritoires",
+		"_user" : null,
+		"_pos" : 1602061396606,
+		"_creationTime" : ISODate("2020-10-07T09:03:16.606Z"),
+		"_updateTime" : ISODate("2020-10-07T11:34:33.962Z")
+	},
+	{
+		"_id" : "gi1QJPYHN",
+		"name" : "DP 4 - Introduction par Geneviève Fontaine",
+		"description" : "<p>DP 4 - Introduction par Geneviève Fontaine au débat public sur Pouvoirs publics et communs</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/VoSDUjF9VOIfcxp",
+		"thematique" : [
+			"63genevievefontaine"
+		],
+		"timeline" : "dp4pouvoirspublicsetcommun",
+		"_user" : null,
+		"_pos" : 1602062668896,
+		"_creationTime" : ISODate("2020-10-07T09:24:28.896Z"),
+		"_updateTime" : ISODate("2020-10-07T11:34:11.364Z")
+	},
+	{
+		"_id" : "lsRKBdIlT",
+		"name" : "DP 4 - Intervention de François-Xavier Viallon",
+		"description" : "<p>DP 4 - Intervention de François-Xavier Viallon lors du débat public sur Pouvoirs publics et communs - Le cas de la Suisse</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/cuBtEwhLbWeZ5RD",
+		"thematique" : [
+			"31approchesdescommuns",
+			"42vecteurecologie",
+			"55matriceinstitutions",
+			"628francoisxavierviallon",
+			"59-matrice-espaces"
+		],
+		"timeline" : "dp4pouvoirspublicsetcommun",
+		"_user" : null,
+		"_pos" : 1602062802327,
+		"_creationTime" : ISODate("2020-10-07T09:26:42.327Z"),
+		"_updateTime" : ISODate("2020-10-07T09:28:06.513Z")
+	},
+	{
+		"_id" : "dZwLERco5",
+		"name" : "DP 4 - Intervention de Silke Helfrich",
+		"description" : "<p>DP 4 - Intervention de Silke Helfrich lors du débat public sur Pouvoirs publics et communs - Les patterns du commoning et ontologie relationnelle différenciée</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/HUDySmSwif3ToKl",
+		"thematique" : [
+			"13livrechapitre1",
+			"18livreconclusion",
+			"31approchesdescommuns",
+			"54matricevaleurs",
+			"57matricesensible",
+			"58matriceoutilsdegestion",
+			"627silkehelfrich",
+			"42vecteurecologie",
+			"56matricealterites",
+			"52matricevaleur"
+		],
+		"timeline" : "dp4pouvoirspublicsetcommun",
+		"_user" : null,
+		"_pos" : 1602064327500,
+		"_creationTime" : ISODate("2020-10-07T09:52:07.500Z"),
+		"_updateTime" : ISODate("2020-10-07T11:33:42.965Z")
+	},
+	{
+		"_id" : "sZFc5qtb0",
+		"name" : "DP4 - Échanges et discussions",
+		"description" : "<p>DP 4 - Échanges et discussions lors du débat public sur Pouvoirs publics et communs - Ontologie relationnelle différenciée</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/bLoTaeppHBy5U2P",
+		"thematique" : [
+			"43vecteurcooperation",
+			"31approchesdescommuns",
+			"658-participants-non-intervenants",
+			"652jeanlouisbancel",
+			"646benedettacelati",
+			"59-matrice-espaces",
+			"61hervedefalvard",
+			"56matricealterites",
+			"641denisdupre",
+			"618lionelmaurel",
+			"63genevievefontaine",
+			"647maïtejuan",
+			"628francoisxavierviallon",
+			"627silkehelfrich",
+			"55matriceinstitutions"
+		],
+		"timeline" : "dp4pouvoirspublicsetcommun",
+		"_user" : null,
+		"_pos" : 1602066186447,
+		"_creationTime" : ISODate("2020-10-07T10:23:06.447Z"),
+		"_updateTime" : ISODate("2020-10-07T11:59:30.279Z")
+	},
+	{
+		"_id" : "SGrkGBoVk",
+		"name" : "TR 6 - Introduction par Hervé Defalvard",
+		"description" : "<p>TR 6 - Introduction par Hervé Defalvard de la table-ronde \"Grande entreprise et territoire\"</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/HVCsb8tJJ9wvchQ",
+		"thematique" : [
+			"21territoiresdecouverte",
+			"61hervedefalvard"
+		],
+		"timeline" : "tr6grandeentrepriseetterritoire",
+		"_user" : null,
+		"_pos" : 1602412618408,
+		"_creationTime" : ISODate("2020-10-11T10:36:58.408Z")
+	},
+	{
+		"_id" : "KnDyTaFrx",
+		"name" : "TR 6 - Réponse à la question 1 par Eric Lesueur",
+		"description" : "<p>TR 6 - Réponse à la question 1 sur la place du territoire par Eric Lesueur (Véolia) lors de la Table-Ronde sur la grande entreprise et territoire.</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/qA9KZ4EsYrHi6XK",
+		"thematique" : [
+			"15livrechapitre3",
+			"21territoiresdecouverte",
+			"22territoiresquestion1",
+			"42vecteurecologie",
+			"625ericlesueur"
+		],
+		"timeline" : "tr6grandeentrepriseetterritoire",
+		"_user" : null,
+		"_pos" : 1602413497088,
+		"_creationTime" : ISODate("2020-10-11T10:51:37.088Z")
+	},
+	{
+		"_id" : "VWVhQeCPw",
+		"name" : "TR 6 - Réponse à la question 1 par Fabien Jouron (La Poste)",
+		"description" : "<p>TR 6 - Réponse à la question 1 sur la place du territoire par Fabien Jouron (La Poste) lors de la Table-Ronde sur la grande entreprise et territoire.</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/MGROm7gAqmzQl33",
+		"thematique" : [
+			"15livrechapitre3",
+			"21territoiresdecouverte",
+			"22territoiresquestion1",
+			"624fabienjouron",
+			"59-matrice-espaces"
+		],
+		"timeline" : "tr6grandeentrepriseetterritoire",
+		"_user" : null,
+		"_pos" : 1602413739272,
+		"_creationTime" : ISODate("2020-10-11T10:55:39.272Z")
+	},
+	{
+		"_id" : "Ext1z0_l2",
+		"name" : "TR 6 - Réponse à la question 1 par Sylvain Baudet (Caisse des dépôts et Consignations)",
+		"description" : "<p>TR 6 - Réponse à la question sur la place du territoire par Sylvain Baudet (Caisse des dépôts et Consignations) lors de la Table-Ronde sur la grande entreprise et territoire.</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/pJ1yDSmKjinq9e2",
+		"thematique" : [
+			"15livrechapitre3",
+			"21territoiresdecouverte",
+			"22territoiresquestion1",
+			"55matriceinstitutions",
+			"623sylvainbaudet"
+		],
+		"timeline" : "tr6grandeentrepriseetterritoire",
+		"_user" : null,
+		"_pos" : 1602413979720,
+		"_creationTime" : ISODate("2020-10-11T10:59:39.720Z"),
+		"_updateTime" : ISODate("2020-10-11T11:17:19.282Z")
+	},
+	{
+		"_id" : "-9vEiMKc9",
+		"name" : "TR 6 - Réponse à la question 2 par Eric Lesueur (Véolia)",
+		"description" : "<p>TR 6 - Réponse à la question sur les formes de solidarités et les ressources mises en commun par Eric Lesueur (Véolia) lors de la Table-Ronde sur la grande entreprise et territoire.</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/ZnsPFk9bjD4GhEd",
+		"thematique" : [
+			"23territoiresquestion2",
+			"58matriceoutilsdegestion",
+			"625ericlesueur",
+			"32approchesdelasolidarite"
+		],
+		"timeline" : "tr6grandeentrepriseetterritoire",
+		"_user" : null,
+		"_pos" : 1602414226655,
+		"_creationTime" : ISODate("2020-10-11T11:03:46.655Z")
+	},
+	{
+		"_id" : "QUZBDlTH2",
+		"name" : "TR 6 - Réponse à la question 2 par Fabrice Jouron (La Poste)",
+		"description" : "<p>TR 6 - Réponse à la question sur les formes de solidarités et les ressources mises en commun par Fabien Jouron (La Poste) lors de la Table-Ronde sur la grande entreprise et territoire.</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/sPYT6i4df784sXY",
+		"thematique" : [
+			"23territoiresquestion2",
+			"32approchesdelasolidarite",
+			"43vecteurcooperation",
+			"44vecteurnumerique",
+			"624fabienjouron"
+		],
+		"timeline" : "tr6grandeentrepriseetterritoire",
+		"_user" : null,
+		"_pos" : 1602414432621,
+		"_creationTime" : ISODate("2020-10-11T11:07:12.621Z")
+	},
+	{
+		"_id" : "tRBNeGKUU",
+		"name" : "TR 6 - Réponse à la question 2 par Sylain Baudet (Banque des Territoires)",
+		"description" : "<p>TR 6 - Réponse à la question sur les formes de solidarités et les ressources mises en commun par Sylvain Baudet (Banques des Territoires) lors de la Table-Ronde sur la grande entreprise et territoire.</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/HAk5iWYlSeAjhS3",
+		"thematique" : [
+			"23territoiresquestion2",
+			"32approchesdelasolidarite",
+			"55matriceinstitutions",
+			"623sylvainbaudet"
+		],
+		"timeline" : "tr6grandeentrepriseetterritoire",
+		"_user" : null,
+		"_pos" : 1602414604212,
+		"_creationTime" : ISODate("2020-10-11T11:10:04.212Z")
+	},
+	{
+		"_id" : "-L9ShVPT0",
+		"name" : "TR 6 - Réponse à la question 3 par Eric Lesueur (Véolia)",
+		"description" : "<p>TR 6 - Réponse à la question sur les liens translocaux par Eric Lesueur (Véolia) lors de la Table-Ronde sur la grande entreprise et territoire.</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/ufXQ54vaKazKT88",
+		"thematique" : [
+			"24territoiresquestion3",
+			"33translocalisme",
+			"53matricesavoirs",
+			"625ericlesueur"
+		],
+		"timeline" : "tr6grandeentrepriseetterritoire",
+		"_user" : null,
+		"_pos" : 1602414822050,
+		"_creationTime" : ISODate("2020-10-11T11:13:42.050Z")
+	},
+	{
+		"_id" : "pD-6HhW6b",
+		"name" : "TR 6 - Réponse à la question 3 par Fabien Jouron (La Poste)",
+		"description" : "<p>TR 6 - Réponse à la question sur les liens translocaux par Fabien Jouron (La Poste) lors de la Table-Ronde sur la grande entreprise et territoire.</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/NafqNFe06TONjRP",
+		"thematique" : [
+			"24territoiresquestion3",
+			"33translocalisme",
+			"59-matrice-espaces",
+			"624fabienjouron"
+		],
+		"timeline" : "tr6grandeentrepriseetterritoire",
+		"_user" : null,
+		"_pos" : 1602415021784,
+		"_creationTime" : ISODate("2020-10-11T11:17:01.784Z")
+	},
+	{
+		"_id" : "PaQRArjMh",
+		"name" : "TR 6 - Réponse à la question 3 par Sylvain Baudet (CDC)",
+		"description" : "<p>TR 6 - Réponse à la question sur les liens entre territoires par Sylvain Baudet (Caisse des dépôts et Consignations) lors de la Table-Ronde sur la grande entreprise et territoire.</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/TweaIOTnzc7SjyK",
+		"thematique" : [
+			"24territoiresquestion3",
+			"33translocalisme",
+			"55matriceinstitutions",
+			"623sylvainbaudet"
+		],
+		"timeline" : "tr6grandeentrepriseetterritoire",
+		"_user" : null,
+		"_pos" : 1602415201351,
+		"_creationTime" : ISODate("2020-10-11T11:20:01.351Z")
+	},
+	{
+		"_id" : "hGwqvUjlh",
+		"name" : "TR 6 - Discussions et échanges",
+		"description" : "<p>TR 6 - Échanges et discussions lors de la Table-Ronde sur la grande entreprise et territoire.</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/hcdVsO8ZqRnvSlN",
+		"thematique" : [
+			"33translocalisme",
+			"655edithheurgon",
+			"59-matrice-espaces",
+			"643nicolealix",
+			"658-participants-non-intervenants",
+			"55matriceinstitutions",
+			"41vecteurdemocratie",
+			"58matriceoutilsdegestion",
+			"623sylvainbaudet",
+			"624fabienjouron",
+			"625ericlesueur"
+		],
+		"timeline" : "tr6grandeentrepriseetterritoire",
+		"_user" : null,
+		"_pos" : 1602417767189,
+		"_creationTime" : ISODate("2020-10-11T12:02:47.189Z")
+	},
+	{
+		"_id" : "_0DViIF63",
+		"name" : "PL 4 - Introduction par Hervé Defalvard de la conférence d'Isabelle Delannoy",
+		"description" : "<p>PL 4 - Introduction par Hervé Defalvard de la conférence d'Isabelle Delannoy \"Économie symbiotique, écologie et commun\"</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/Dg8P6JXXX8KdQOT",
+		"thematique" : [
+			"42vecteurecologie",
+			"61hervedefalvard",
+			"640isabelledelannoy"
+		],
+		"timeline" : "pleniere4economiesymbiotiqueecologieetcommun",
+		"_user" : null,
+		"_pos" : 1602433950851,
+		"_creationTime" : ISODate("2020-10-11T16:32:30.851Z")
+	},
+	{
+		"_id" : "fPclK3RT1",
+		"name" : "PL 4 - Intervention d'Isabelle Delannoy",
+		"description" : "<p>PL 4 - Intervention d'Isabelle Delannoy \"Economie symbiotique, écologie et commun\"</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/pp7Pd4b7zFfcql1",
+		"thematique" : [
+			"17livretextescl",
+			"42vecteurecologie",
+			"640isabelledelannoy",
+			"43vecteurcooperation",
+			"56matricealterites",
+			"52matricevaleur",
+			"51matricetemps"
+		],
+		"timeline" : "pleniere4economiesymbiotiqueecologieetcommun",
+		"_user" : null,
+		"_pos" : 1602434326920,
+		"_creationTime" : ISODate("2020-10-11T16:38:46.920Z")
+	},
+	{
+		"_id" : "uoFtqAfGJ",
+		"name" : "PL 4 - Discussions et échanges",
+		"description" : "<p>PL 4 - Discussions et échanges après l'intervention d'Isabelle Delannoy - \"Économie symbiotique, écologie et commun\"</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/npcJFd7xZICRIe6",
+		"thematique" : [
+			"17livretextescl",
+			"42vecteurecologie",
+			"658-participants-non-intervenants",
+			"41vecteurdemocratie",
+			"56matricealterites",
+			"57matricesensible",
+			"44vecteurnumerique",
+			"43vecteurcooperation",
+			"63genevievefontaine",
+			"59-matrice-espaces",
+			"640isabelledelannoy"
+		],
+		"timeline" : "pleniere4economiesymbiotiqueecologieetcommun",
+		"_user" : null,
+		"_pos" : 1602436666118,
+		"_creationTime" : ISODate("2020-10-11T17:17:46.118Z")
+	},
+	{
+		"_id" : "XOA9p8f4R",
+		"name" : "TR 7 - Introduction par Elisabetta Buccolo",
+		"description" : "<p>TR 7 - Introduction de la table ronde \"Échelles territoriales de la santé en commun\" par Elisabetta Buccolo</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/2QJwq1OxwWw8k9V",
+		"thematique" : [
+			"21territoiresdecouverte",
+			"62elisabettabuccolo"
+		],
+		"timeline" : "tr7echellesterritorialesdelasanteencommun",
+		"_user" : null,
+		"_pos" : 1602436845838,
+		"_creationTime" : ISODate("2020-10-11T17:20:45.838Z")
+	},
+	{
+		"_id" : "JVdL-PzkO",
+		"name" : "TR 7 - Réponse à la question 1 par Corinne Bébin",
+		"description" : "<p>TR 7 - Réponse à la question sur la place du territoire par Corinne Bébin (Versailles Grand Âge) lors de la table-ronde \"Échelles territoriales de la santé en commun\"</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/dnlt632SlU8rKUp",
+		"thematique" : [
+			"21territoiresdecouverte",
+			"22territoiresquestion1",
+			"59-matrice-espaces",
+			"629corinnebebin"
+		],
+		"timeline" : "tr7echellesterritorialesdelasanteencommun",
+		"_user" : null,
+		"_pos" : 1602437041806,
+		"_creationTime" : ISODate("2020-10-11T17:24:01.806Z")
+	},
+	{
+		"_id" : "RLMfWFMjW",
+		"name" : "TR 7 - Réponse à la question 1 par Olivier Benoit",
+		"description" : "<p>TR 7 - Réponse à la question sur la place du territoire par Olivier Benoit (AIDES) lors de la table ronde \"Échelles territoriales de la santé en commun\"</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/lpHZuSr9kQMYNCq",
+		"thematique" : [
+			"14livrechapitre2",
+			"21territoiresdecouverte",
+			"22territoiresquestion1",
+			"631olivierbenoit",
+			"59-matrice-espaces",
+			"55matriceinstitutions"
+		],
+		"timeline" : "tr7echellesterritorialesdelasanteencommun",
+		"_user" : null,
+		"_pos" : 1602437260849,
+		"_creationTime" : ISODate("2020-10-11T17:27:40.849Z"),
+		"_updateTime" : ISODate("2020-10-11T17:28:26.003Z")
+	},
+	{
+		"_id" : "CSmYFba91",
+		"name" : "TR 7 - Réponse à la question par Eric Bonneau",
+		"description" : "<p>TR 7 - Réponse à la question sur la place du territoire par Eric Bonneau (Ecoreso) lors de la table ronde \"Échelles territoriales de la santé en commun\"</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/K8QTNcs66Z1rCZr",
+		"thematique" : [
+			"630ericbonneau",
+			"21territoiresdecouverte",
+			"22territoiresquestion1",
+			"59-matrice-espaces",
+			"41vecteurdemocratie"
+		],
+		"timeline" : "tr7echellesterritorialesdelasanteencommun",
+		"_user" : null,
+		"_pos" : 1602437466017,
+		"_creationTime" : ISODate("2020-10-11T17:31:06.017Z")
+	},
+	{
+		"_id" : "zgNf9DLD9",
+		"name" : "TR 7 - présentation de la question 2 par Elisabetta",
+		"description" : "<p>TR 7 - présentation de la question sur les formes de solidarités et les ressources mises en commun par Elisabetta lors de la table ronde \"Échelles territoriales de la santé en commun\"</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/PfFCgVxaV8uiQsF",
+		"thematique" : [
+			"23territoiresquestion2"
+		],
+		"timeline" : "tr7echellesterritorialesdelasanteencommun",
+		"_user" : null,
+		"_pos" : 1602437585069,
+		"_creationTime" : ISODate("2020-10-11T17:33:05.069Z")
+	},
+	{
+		"_id" : "eDKREgu-Z",
+		"name" : "TR 7 - Réponse à la question 2 par Olivier Benoit",
+		"description" : "<p>TR 7 - Réponse à la question sur les formes de solidarités et les ressources mises en commun par Olivier Benoit (AIDES) lors de la table ronde \"Échelles territoriales de la santé en commun\"</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/QBgWZNCMkpKUl7n",
+		"thematique" : [
+			"23territoiresquestion2",
+			"32approchesdelasolidarite",
+			"41vecteurdemocratie",
+			"631olivierbenoit",
+			"43vecteurcooperation"
+		],
+		"timeline" : "tr7echellesterritorialesdelasanteencommun",
+		"_user" : null,
+		"_pos" : 1602437814565,
+		"_creationTime" : ISODate("2020-10-11T17:36:54.565Z"),
+		"_updateTime" : ISODate("2020-10-11T17:37:41.595Z")
+	},
+	{
+		"_id" : "Q5WQNCVxE",
+		"name" : "TR 7 - Réponse à la question 2 par Corinne Bébin",
+		"description" : "<p>TR 7 - Réponse à la question sur les formes de solidarités et les ressources mises en commun par Corinne Bébin (Versailles Grand Âge) lors de la table ronde \"Échelles territoriales de la santé en commun\"</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/hOuegXlXgD0CEhW",
+		"thematique" : [
+			"14livrechapitre2",
+			"23territoiresquestion2",
+			"32approchesdelasolidarite",
+			"55matriceinstitutions",
+			"629corinnebebin",
+			"53matricesavoirs",
+			"51matricetemps"
+		],
+		"timeline" : "tr7echellesterritorialesdelasanteencommun",
+		"_user" : null,
+		"_pos" : 1602438292233,
+		"_creationTime" : ISODate("2020-10-11T17:44:52.233Z"),
+		"_updateTime" : ISODate("2020-10-11T17:45:50.297Z")
+	},
+	{
+		"_id" : "CeXFs0HCr",
+		"name" : "TR 7 - Réponse à la question 2 par Eric Bonneau",
+		"description" : "<p>TR 7 - Réponse à la question sur les formes de solidarités et les ressources mises en commun par Eric Bonneau (Ecoreso) lors de la table ronde \"Échelles territoriales de la santé en commun\"</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/5g9ifbCnjjQCVaa",
+		"thematique" : [
+			"23territoiresquestion2",
+			"32approchesdelasolidarite",
+			"630ericbonneau",
+			"43vecteurcooperation",
+			"42vecteurecologie",
+			"55matriceinstitutions"
+		],
+		"timeline" : "tr7echellesterritorialesdelasanteencommun",
+		"_user" : null,
+		"_pos" : 1602438632831,
+		"_creationTime" : ISODate("2020-10-11T17:50:32.831Z")
+	},
+	{
+		"_id" : "PYLJ2o-em",
+		"name" : "TR 7 - Présentation de la question 3 par Elisabetta Buccolo",
+		"description" : "<p>TR 7 - Introduction de la question sur les liens entre les territoires et initiatives lors de la table ronde \"Échelles territoriales de la santé en commun\" par Elisabetta Buccolo</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/knLOVbOrJo4E50s",
+		"thematique" : [
+			"24territoiresquestion3"
+		],
+		"timeline" : "tr7echellesterritorialesdelasanteencommun",
+		"_user" : null,
+		"_pos" : 1602438767759,
+		"_creationTime" : ISODate("2020-10-11T17:52:47.759Z")
+	},
+	{
+		"_id" : "dU7W46GTL",
+		"name" : "TR 7 - Réponse d'Olivier Benoit à la question 3",
+		"description" : "<p>TR 7 - Réponse à la question sur les liens entre les territoires et initiatives par Olivier Benoit (AIDES) lors de la table ronde \"Échelles territoriales de la santé en commun\"</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/W249x7jHlBXpNro",
+		"thematique" : [
+			"24territoiresquestion3",
+			"33translocalisme",
+			"58matriceoutilsdegestion",
+			"631olivierbenoit",
+			"53matricesavoirs"
+		],
+		"timeline" : "tr7echellesterritorialesdelasanteencommun",
+		"_user" : null,
+		"_pos" : 1602439093771,
+		"_creationTime" : ISODate("2020-10-11T17:58:13.771Z")
+	},
+	{
+		"_id" : "u6yhxjkp2",
+		"name" : "TR 7 - réponse à la question 3 par Corinne Bébin",
+		"description" : "<p>TR 7 - Réponse à la question sur les liens entre les territoires et initiatives  par Corinne Bébin (Versailles Grand Âge) lors de la table ronde \"Échelles territoriales de la santé en commun\" - le territoire du lit</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/Ol8lEdyVrJZ7AhO",
+		"thematique" : [
+			"14livrechapitre2",
+			"24territoiresquestion3",
+			"51matricetemps",
+			"59-matrice-espaces",
+			"629corinnebebin",
+			"56matricealterites"
+		],
+		"timeline" : "tr7echellesterritorialesdelasanteencommun",
+		"_user" : null,
+		"_pos" : 1602439349848,
+		"_creationTime" : ISODate("2020-10-11T18:02:29.848Z")
+	},
+	{
+		"_id" : "4p1q_gmwE",
+		"name" : "TR 7 - Réponse d'Eric Bonneau à la question 3",
+		"description" : "<p>TR 7 - Réponse à la question sur les liens entre les territoires et initiatives par Eric Bonneau (Ecoreso) lors de la table ronde \"Échelles territoriales de la santé en commun\"</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/SPXqeKF5nhT4FzE",
+		"thematique" : [
+			"14livrechapitre2",
+			"15livrechapitre3",
+			"24territoiresquestion3",
+			"54matricevaleurs",
+			"42vecteurecologie",
+			"630ericbonneau"
+		],
+		"timeline" : "tr7echellesterritorialesdelasanteencommun",
+		"_user" : null,
+		"_pos" : 1602439701941,
+		"_creationTime" : ISODate("2020-10-11T18:08:21.941Z")
+	},
+	{
+		"_id" : "n9A0fdlYs",
+		"name" : "TR - Echanges et discussions",
+		"description" : "<p>TR 7 - Échanges et discussions lors de la table ronde \"Échelles territoriales de la santé en commun\" par Elisabetta Buccolo</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/d6u0GMgvHe89rar",
+		"thematique" : [
+			"629corinnebebin",
+			"630ericbonneau",
+			"631olivierbenoit",
+			"43vecteurcooperation",
+			"652jeanlouisbancel",
+			"56matricealterites",
+			"658-participants-non-intervenants",
+			"655edithheurgon",
+			"51matricetemps",
+			"52matricevaleur",
+			"53matricesavoirs",
+			"639melainecervera",
+			"625ericlesueur",
+			"657lequipedecerisy"
+		],
+		"timeline" : "tr7echellesterritorialesdelasanteencommun",
+		"_user" : null,
+		"_pos" : 1602444479314,
+		"_creationTime" : ISODate("2020-10-11T19:27:59.314Z")
+	},
+	{
+		"_id" : "SLaTDsb7r",
+		"name" : "TR 8 - Introduction par Hervé Defalvard",
+		"description" : "<p>TR 8 - Introduction de la table-ronde \"Habiter en commun les territoires\" par Hervé Defalvard</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/6hTfzwl3rP8IddH",
+		"thematique" : [
+			"21territoiresdecouverte",
+			"61hervedefalvard"
+		],
+		"timeline" : "tr8habiterencommunlesterritoires",
+		"_user" : null,
+		"_pos" : 1602491848951,
+		"_creationTime" : ISODate("2020-10-12T08:37:28.951Z")
+	},
+	{
+		"_id" : "mPVPdfoG8",
+		"name" : "TR 8 - Réponse à la question 1 par Camille Fontenelle",
+		"description" : "<p>TR8 - Réponse à la question sur la place du territoire par Camille Fontenelle (Enerterre) lors de la table-ronde \"Habiter en commun les territoires\".</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/nZKdUZqEgnDSdpI",
+		"thematique" : [
+			"21territoiresdecouverte",
+			"22territoiresquestion1",
+			"53matricesavoirs",
+			"632camillefontenelle",
+			"59-matrice-espaces",
+			"52matricevaleur"
+		],
+		"timeline" : "tr8habiterencommunlesterritoires",
+		"_user" : null,
+		"_pos" : 1602513788045,
+		"_creationTime" : ISODate("2020-10-12T14:43:08.045Z")
+	},
+	{
+		"_id" : "GCeWgjcfd",
+		"name" : "TR 8 - Réponse à la question 1 par Joseph Haeringer",
+		"description" : "<p>TR8 - Réponse à la question sur la place du territoire par Joseph Haeringer (Habitat et Humanisme) lors de la table-ronde \"Habiter en commun les territoires\".</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/rpfR9lhd04vu7bj",
+		"thematique" : [
+			"21territoiresdecouverte",
+			"22territoiresquestion1",
+			"51matricetemps",
+			"52matricevaleur",
+			"633josephhaeringer",
+			"59-matrice-espaces"
+		],
+		"timeline" : "tr8habiterencommunlesterritoires",
+		"_user" : null,
+		"_pos" : 1602513946258,
+		"_creationTime" : ISODate("2020-10-12T14:45:46.258Z")
+	},
+	{
+		"_id" : "kzFVi5Tjh",
+		"name" : "TR 8 - Question 2 introduction par Hervé Defalvard et réponse de Camille Fontenelle",
+		"description" : "<p>TR8 - Réponse à la question sur les formes de solidarités et les ressources mises en commun  par Camille Fontenelle (Enerterre) lors de la table-ronde \"Habiter en commun les territoires\".</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/YlrgjTHf6NCLLym",
+		"thematique" : [
+			"15livrechapitre3",
+			"23territoiresquestion2",
+			"32approchesdelasolidarite",
+			"632camillefontenelle",
+			"51matricetemps"
+		],
+		"timeline" : "tr8habiterencommunlesterritoires",
+		"_user" : null,
+		"_pos" : 1602514642460,
+		"_creationTime" : ISODate("2020-10-12T14:57:22.460Z")
+	},
+	{
+		"_id" : "FpwepOpO-",
+		"name" : "TR 8 - Réponse à la question 2 par Joseph Haeringer",
+		"description" : "<p>TR8 - Réponse à la question sur les formes de solidarités et les ressources mises en commun par Joseph Haeringer (Habitat et Humanisme)  lors de la table-ronde \"Habiter en commun les territoires\".</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/cN2rSslI2sUJW4J",
+		"thematique" : [
+			"23territoiresquestion2",
+			"633josephhaeringer",
+			"31approchesdescommuns"
+		],
+		"timeline" : "tr8habiterencommunlesterritoires",
+		"_user" : null,
+		"_pos" : 1602514837443,
+		"_creationTime" : ISODate("2020-10-12T15:00:37.443Z")
+	},
+	{
+		"_id" : "N8fcXBbog",
+		"name" : "TR 8 - Introduction de la question 3 par Hervé Deflavard et réponse de Camille Fontenelle",
+		"description" : "<p>TR8 - Réponse à la question sur les liens entre les territoires et initiatives par Camille Fontenelle (Enerterre) lors de la table-ronde \"Habiter en commun les territoires\".</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/rj0d8RBNWp30rop",
+		"thematique" : [
+			"24territoiresquestion3",
+			"44vecteurnumerique",
+			"33translocalisme",
+			"632camillefontenelle"
+		],
+		"timeline" : "tr8habiterencommunlesterritoires",
+		"_user" : null,
+		"_pos" : 1602515370854,
+		"_creationTime" : ISODate("2020-10-12T15:09:30.854Z")
+	},
+	{
+		"_id" : "75-0fQ8Bt",
+		"name" : "TR 8 - Réponse à la question 3 par Joseph Haeringer",
+		"description" : "<p>TR8 - Réponse à la question sur les liens entre les territoires et initiatives par Joseph Haeringer (Habitat et Humanisme) lors de la table-ronde \"Habiter en commun les territoires\".</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/OFBvFaQTE2AOLph",
+		"thematique" : [
+			"15livrechapitre3",
+			"24territoiresquestion3",
+			"33translocalisme",
+			"633josephhaeringer",
+			"57matricesensible"
+		],
+		"timeline" : "tr8habiterencommunlesterritoires",
+		"_user" : null,
+		"_pos" : 1602515840821,
+		"_creationTime" : ISODate("2020-10-12T15:17:20.821Z")
+	},
+	{
+		"_id" : "lkcV5TX0s",
+		"name" : "TR 8 - Echanges et discussions",
+		"description" : "<p>TR8 - Échanges et discussions lors de la table-ronde \"Habiter en commun les territoires\".</p>",
+		"type" : "son",
+		"url" : "https://cloud.scic-tetris.org/s/XhVw5Vt97TMFvzK",
+		"thematique" : [
+			"33translocalisme",
+			"61hervedefalvard",
+			"632camillefontenelle",
+			"633josephhaeringer",
+			"658-participants-non-intervenants",
+			"55matriceinstitutions",
+			"53matricesavoirs",
+			"51matricetemps",
+			"52matricevaleur"
+		],
+		"timeline" : "tr8habiterencommunlesterritoires",
+		"_user" : null,
+		"_pos" : 1602516114168,
+		"_creationTime" : ISODate("2020-10-12T15:21:54.168Z"),
+		"_updateTime" : ISODate("2020-10-12T15:35:30.487Z")
 	}
 ]
