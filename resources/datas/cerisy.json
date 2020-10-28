@@ -90,7 +90,7 @@
 	},
 	{
 		"_id" : "9ZD7nKxdP",
-		"name" : "Introduction à trois voix : discussions",
+		"name" : "Introduction à trois voix : Échanges et discussions",
 		"description" : "<p>Introduction à trois voix : discussions avec la salle</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/eg9qluL25fpM6Fk",
@@ -107,7 +107,7 @@
 		"_user" : null,
 		"_pos" : 1598256421387,
 		"_creationTime" : ISODate("2020-08-24T08:07:01.387Z"),
-		"_updateTime" : ISODate("2020-09-06T13:49:30.432Z")
+		"_updateTime" : ISODate("2020-10-26T21:59:18.330Z")
 	},
 	{
 		"_id" : "tTHi7D0ra",
@@ -296,7 +296,7 @@
 	},
 	{
 		"_id" : "99kn3RswT",
-		"name" : "TETRIS - vidéo de présentation",
+		"name" : "Vidéo de présentation TETRIS",
 		"description" : "<p>TETRIS - vidéo de présentation du tiers-lieu de la transition écologique à Grasse</p>",
 		"type" : "video",
 		"url" : "https://www.youtube.com/watch?v=0idz-IliRK8",
@@ -306,12 +306,13 @@
 		"timeline" : "tr1ressourcesdesterritoiresareveler",
 		"_user" : null,
 		"_pos" : 1598272925467,
-		"_creationTime" : ISODate("2020-08-24T12:42:05.467Z")
+		"_creationTime" : ISODate("2020-08-24T12:42:05.467Z"),
+		"_updateTime" : ISODate("2020-10-26T22:20:45.762Z")
 	},
 	{
 		"_id" : "WJQHR9JZw",
 		"name" : "Post-it - Relations (1)",
-		"description" : "<p>Post-it proposés pendant le colloque sur les types de relations repérés (1)</p>",
+		"description" : "<p>Post-it proposés pendant le colloque relatifs aux types de relations repérés (1)</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/XQuz5Q2prs13AZR",
 		"thematique" : [
@@ -321,12 +322,12 @@
 		"_user" : null,
 		"_pos" : 1598277456582,
 		"_creationTime" : ISODate("2020-08-24T13:57:36.582Z"),
-		"_updateTime" : ISODate("2020-10-23T10:29:45.720Z")
+		"_updateTime" : ISODate("2020-10-26T22:55:03.374Z")
 	},
 	{
 		"_id" : "dtCgZQLle",
 		"name" : "Post-it - Relations (2)",
-		"description" : "<p>Post-it proposés pendant le colloque sur les types de relations repérés (2)</p>",
+		"description" : "<p>Post-it proposés pendant le colloque relatifs aux types de relations repérés (2)</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/XOmpQfAphE0XOeg",
 		"thematique" : [
@@ -337,12 +338,12 @@
 		"_user" : null,
 		"_pos" : 1598277700728,
 		"_creationTime" : ISODate("2020-08-24T14:01:40.728Z"),
-		"_updateTime" : ISODate("2020-10-23T10:29:38.311Z")
+		"_updateTime" : ISODate("2020-10-26T22:54:53.072Z")
 	},
 	{
 		"_id" : "7XJi0tRT_",
 		"name" : "Post-it - Relations (3)",
-		"description" : "<p>Post-it proposés pendant le colloque sur les types de relations repérés (3)</p>",
+		"description" : "<p>Post-it proposés pendant le colloque relatifs aux types de relations repérés (3)</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/qUDDvqtel3bDLaK",
 		"thematique" : [
@@ -353,7 +354,7 @@
 		"_user" : null,
 		"_pos" : 1598277872487,
 		"_creationTime" : ISODate("2020-08-24T14:04:32.487Z"),
-		"_updateTime" : ISODate("2020-10-23T10:29:26.373Z")
+		"_updateTime" : ISODate("2020-10-26T22:54:41.574Z")
 	},
 	{
 		"_id" : "lWkYGWAYJ",
@@ -434,7 +435,7 @@
 	{
 		"_id" : "EclciByLR",
 		"name" : "Post-it - Valeur et valeurs (1)",
-		"description" : "<p>Post-it proposés pendant le colloque sur valeur et valeurs (1)</p>",
+		"description" : "<p>Post-it proposés pendant le colloque relatifs à valeur et valeurs (1)</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/DCtrK7oVhFS5lKM",
 		"thematique" : [
@@ -445,12 +446,12 @@
 		"_user" : null,
 		"_pos" : 1598278720372,
 		"_creationTime" : ISODate("2020-08-24T14:18:40.372Z"),
-		"_updateTime" : ISODate("2020-10-23T10:28:54.368Z")
+		"_updateTime" : ISODate("2020-10-26T22:53:38.297Z")
 	},
 	{
 		"_id" : "GwUqoFoNH",
 		"name" : "Post-it - Valeur et valeurs (2)",
-		"description" : "<p>Post-it proposés pendant le colloque sur valeur et valeurs (2)</p>",
+		"description" : "<p>Post-it proposés pendant le colloque relatifs à valeur et valeurs (2)</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/RzsiHGSWrpqCl7e",
 		"thematique" : [
@@ -461,7 +462,7 @@
 		"_user" : null,
 		"_pos" : 1598278829879,
 		"_creationTime" : ISODate("2020-08-24T14:20:29.879Z"),
-		"_updateTime" : ISODate("2020-10-23T10:28:45.952Z")
+		"_updateTime" : ISODate("2020-10-26T22:53:29.860Z")
 	},
 	{
 		"_id" : "KfcGEjXOH",
@@ -504,7 +505,7 @@
 	},
 	{
 		"_id" : "tSwd5NLgh",
-		"name" : "Post-it  - Valeur (retranscription)",
+		"name" : "Post-it  - La valeur (retranscription)",
 		"description" : "<p>Retranscription des post-it proposés pendant le colloque concernant la valeur et pistes de réflexion</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/CoHiNsCEAJI1XNB",
@@ -516,7 +517,7 @@
 		"_user" : null,
 		"_pos" : 1598286228391,
 		"_creationTime" : ISODate("2020-08-24T16:23:48.391Z"),
-		"_updateTime" : ISODate("2020-10-23T10:27:15.391Z")
+		"_updateTime" : ISODate("2020-10-26T22:53:02.381Z")
 	},
 	{
 		"_id" : "xc4Yu6eLr",
@@ -635,7 +636,7 @@
 	{
 		"_id" : "CgFDbXChG",
 		"name" : "Rapports d'étonnements - retranscription des feuilles manuscrites",
-		"description" : "<p>Retranscription des feuilles manuscrites remises par les participants et servant de base à leurs rapport d'étonnement</p>",
+		"description" : "<p>Retranscription des feuilles manuscrites remises par les participants et servant de base à leurs rapports d'étonnements</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/q8yT8SzfozC0Y2g",
 		"thematique" : [
@@ -651,7 +652,7 @@
 		"_user" : null,
 		"_pos" : 1598518063553,
 		"_creationTime" : ISODate("2020-08-27T08:47:43.553Z"),
-		"_updateTime" : ISODate("2020-10-23T09:25:53.832Z")
+		"_updateTime" : ISODate("2020-10-26T22:51:20.433Z")
 	},
 	{
 		"_id" : "3CObiqipC",
@@ -1126,7 +1127,7 @@
 	{
 		"_id" : "VwxIt3IHj",
 		"name" : "Table d'enjeux et de controverses - Mastodontes et communs",
-		"description" : "<p>Retranscription des échanges qui se sont déroulés en extérieur lors de la table d'enjeux et de controverses sur le thème \"Mastodontes et communs\". Ce thème du rôle des grandes entreprises, qualifiées de mastodontes, dans les communs et le translocalisme a émergé des échanges des premiers jours du colloque</p>",
+		"description" : "<p>Retranscription des échanges qui se sont déroulés en extérieur lors de la table d'enjeux et de controverses sur le thème \"Mastodontes et communs\" (pas d'enregistrement).</p><p>Ce thème du rôle des grandes entreprises, qualifiées de mastodontes, dans les communs et le translocalisme a émergé des échanges des premiers jours du colloque</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/uOAoqNT3BzyZYwf",
 		"thematique" : [
@@ -1139,12 +1140,12 @@
 		"_user" : null,
 		"_pos" : 1598538490324,
 		"_creationTime" : ISODate("2020-08-27T14:28:10.324Z"),
-		"_updateTime" : ISODate("2020-10-23T10:06:45.141Z")
+		"_updateTime" : ISODate("2020-10-26T22:46:54.914Z")
 	},
 	{
 		"_id" : "GVV5GB0Cg",
 		"name" : "Table d'enjeux et de controverses - Mastodontes et communs",
-		"description" : "<p>Retranscription des échanges lors de la table d'enjeux et de controverses n°1 sur le thème \"Mastodontes et communs\". </p><p>Ce thème du rôle des grandes entreprises, qualifiées de mastodontes, dans les communs et le translocalisme a émergé des échanges des premiers jours du colloque</p>",
+		"description" : "<p>Retranscription des échanges qui se sont déroulés en extérieur lors de la table d'enjeux et de controverses sur le thème \"Mastodontes et communs\" (pas d'enregistrement).</p><p>Ce thème du rôle des grandes entreprises, qualifiées de mastodontes, dans les communs et le translocalisme a émergé des échanges des premiers jours du colloque</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/uOAoqNT3BzyZYwf",
 		"thematique" : [
@@ -1157,12 +1158,12 @@
 		"_user" : null,
 		"_pos" : 1598538756019,
 		"_creationTime" : ISODate("2020-08-27T14:32:36.019Z"),
-		"_updateTime" : ISODate("2020-10-23T10:09:46.038Z")
+		"_updateTime" : ISODate("2020-10-26T22:47:46.377Z")
 	},
 	{
 		"_id" : "wq4aFu2k1",
 		"name" : "Table d'enjeux et de controverses - Mastodontes et communs",
-		"description" : "<p>Retranscription des échanges lors de la table d'enjeux et de controverses n°1 \"Mastodontes et communs\", qui s'est tenue en extérieur</p><p>Ce thème du rôle des grandes entreprises, qualifiées de mastodontes, dans les communs et le translocalisme a émergé des échanges des premiers jours du colloque</p><p><br></p>",
+		"description" : "<p>Retranscription des échanges qui se sont déroulés en extérieur lors de la table d'enjeux et de controverses sur le thème \"Mastodontes et communs\" (pas d'enregistrement).</p><p>Ce thème du rôle des grandes entreprises, qualifiées de mastodontes, dans les communs et le translocalisme a émergé des échanges des premiers jours du colloque</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/uOAoqNT3BzyZYwf",
 		"thematique" : [
@@ -1175,7 +1176,7 @@
 		"_user" : null,
 		"_pos" : 1598539033165,
 		"_creationTime" : ISODate("2020-08-27T14:37:13.165Z"),
-		"_updateTime" : ISODate("2020-10-23T10:10:12.959Z")
+		"_updateTime" : ISODate("2020-10-26T22:47:58.172Z")
 	},
 	{
 		"_id" : "vFwNLSep0",
@@ -1195,7 +1196,7 @@
 	{
 		"_id" : "P4NPOGqaw",
 		"name" : "Table d'enjeux et de controverses - Mastodontes et communs",
-		"description" : "<p>Retranscription des échanges lors de la table d'enjeux et de controverses n°1 sur le thème \"Mastodontes et communs\". </p><p>Ce thème du rôle des grandes entreprises, qualifiées de mastodontes, dans les communs et le translocalisme a émergé des échanges des premiers jours du colloque (pas d'enregistrement)</p><p><br></p>",
+		"description" : "<p>Retranscription des échanges qui se sont déroulés en extérieur lors de la table d'enjeux et de controverses sur le thème \"Mastodontes et communs\" (pas d'enregistrement).</p><p>Ce thème du rôle des grandes entreprises, qualifiées de mastodontes, dans les communs et le translocalisme a émergé des échanges des premiers jours du colloque</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/uOAoqNT3BzyZYwf",
 		"thematique" : [
@@ -1208,7 +1209,7 @@
 		"_user" : null,
 		"_pos" : 1598541914312,
 		"_creationTime" : ISODate("2020-08-27T15:25:14.312Z"),
-		"_updateTime" : ISODate("2020-10-23T10:10:41.239Z")
+		"_updateTime" : ISODate("2020-10-26T22:48:09.693Z")
 	},
 	{
 		"_id" : "0f3v1_vai",
@@ -1294,7 +1295,7 @@
 	{
 		"_id" : "OtFd893vw",
 		"name" : "Mode d'emploi des débats publics",
-		"description" : "<p>Description des principes et du format des séances de débat public. </p><p>Chacun de ces neuf débats publics, introduits par un binôme, ont permis aux échanges entre territoires solidaires en commun de rebondir et d’ouvrir de nouvelles perspectives</p>",
+		"description" : "<p>Description des principes et du format des séances de débat public.</p><p>Chacun de ces neuf débats publics, introduit par un binôme, a permis aux échanges entre territoires solidaires en commun de rebondir et d’ouvrir de nouvelles perspectives</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/f4M67R1S2MEqvsj",
 		"thematique" : [
@@ -1306,7 +1307,7 @@
 		"_user" : null,
 		"_pos" : 1598954340104,
 		"_creationTime" : ISODate("2020-09-01T09:59:00.104Z"),
-		"_updateTime" : ISODate("2020-10-23T09:22:16.168Z")
+		"_updateTime" : ISODate("2020-10-26T22:44:20.801Z")
 	},
 	{
 		"_id" : "VcZp3SBl-",
@@ -1359,7 +1360,7 @@
 	},
 	{
 		"_id" : "OPaqHIooA",
-		"name" : "*Présentation de la Table-ronde : Ressources des territoires à révéler et partager ",
+		"name" : "Présentation de la table-ronde n°1 - Ressources des territoires à révéler et partager ",
 		"description" : "<p>Présentation de la table-ronde n°1 \"Ressources des territoires à révéler et partager\"</p><p>Argumentaire, intervenants et présentations</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/yBkiyMSsQ5juk3I",
@@ -1375,11 +1376,11 @@
 		"_user" : null,
 		"_pos" : 1598960700108,
 		"_creationTime" : ISODate("2020-09-01T11:45:00.108Z"),
-		"_updateTime" : ISODate("2020-10-23T09:21:35.214Z")
+		"_updateTime" : ISODate("2020-10-26T22:40:36.533Z")
 	},
 	{
 		"_id" : "6XNlavt0z",
-		"name" : "*Présentation de la Table-ronde - Territoires solidaires et emploi ",
+		"name" : "Présentation de la table-ronde n°2 - Territoires solidaires et emploi ",
 		"description" : "<p>Présentation de la table-ronde n°2 \"Territoires solidaires et emploi\"</p><p>Argumentaire, intervenants et présentations</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/O7YU1210ZOVUWQt",
@@ -1395,11 +1396,11 @@
 		"_user" : null,
 		"_pos" : 1598961150417,
 		"_creationTime" : ISODate("2020-09-01T11:52:30.417Z"),
-		"_updateTime" : ISODate("2020-10-23T09:21:17.787Z")
+		"_updateTime" : ISODate("2020-10-26T22:40:12.243Z")
 	},
 	{
 		"_id" : "XWavNst2L",
-		"name" : "*Présentation de la Table-ronde - Energie durable et territoire",
+		"name" : "Présentation de la table-ronde n°3 - Énergie durable et territoire",
 		"description" : "<p>Présentation de la table-ronde n°3 \"Énergie durable et territoire\"</p><p>Argumentaire, intervenants et présentations</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/0lyivCeIA8rbfA9",
@@ -1414,7 +1415,7 @@
 		"_user" : null,
 		"_pos" : 1598961981960,
 		"_creationTime" : ISODate("2020-09-01T12:06:21.960Z"),
-		"_updateTime" : ISODate("2020-10-23T09:20:59.802Z")
+		"_updateTime" : ISODate("2020-10-26T22:40:57.393Z")
 	},
 	{
 		"_id" : "gdCzjZcYx",
@@ -1481,7 +1482,7 @@
 	},
 	{
 		"_id" : "d19wEQ_Sa",
-		"name" : "*Présentation de la Table-ronde n° 4 - Systèmes alimentaires solidaires territorialisés",
+		"name" : "Présentation de la table-ronde n° 4 - Systèmes alimentaires solidaires territorialisés",
 		"description" : "<p>Présentation de la table-ronde n° 4 \"Systèmes alimentaires solidaires territorialisés\"</p><p>Argumentaire, intervenants et présentations</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/imuWKtCLtzl0U3l",
@@ -1496,11 +1497,11 @@
 		"_user" : null,
 		"_pos" : 1598964989379,
 		"_creationTime" : ISODate("2020-09-01T12:56:29.379Z"),
-		"_updateTime" : ISODate("2020-10-23T09:20:29.051Z")
+		"_updateTime" : ISODate("2020-10-26T22:39:40.990Z")
 	},
 	{
 		"_id" : "pTTcO_Rpy",
-		"name" : "*Présentation de la Table-ronde n°5 - Culture et commun dans les territoires",
+		"name" : "Présentation de la table-ronde n°5 - Culture et commun dans les territoires",
 		"description" : "<p>Présentation de la table-ronde n°5 \"Culture et commun dans les territoires\"</p><p>Argumentaire, intervenants et présentations</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/ULgWLTXO0AU74sL",
@@ -1515,11 +1516,11 @@
 		"_user" : null,
 		"_pos" : 1598965464929,
 		"_creationTime" : ISODate("2020-09-01T13:04:24.929Z"),
-		"_updateTime" : ISODate("2020-10-23T09:20:13.957Z")
+		"_updateTime" : ISODate("2020-10-26T22:39:31.078Z")
 	},
 	{
 		"_id" : "hJX0udf3B",
-		"name" : "*Présentation de la Table-ronde n°6 - Grande entreprise et territoire",
+		"name" : "Présentation de la table-ronde n°6 - Grande entreprise et territoire",
 		"description" : "<p>Présentation de la table-ronde n°6 \"Grande entreprise et territoire\"</p><p>Argumentaire, intervenants et présentations</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/f3QKbVFZesi7R6O",
@@ -1533,11 +1534,11 @@
 		"_user" : null,
 		"_pos" : 1598965738935,
 		"_creationTime" : ISODate("2020-09-01T13:08:58.935Z"),
-		"_updateTime" : ISODate("2020-10-23T09:20:01.084Z")
+		"_updateTime" : ISODate("2020-10-26T22:39:20.457Z")
 	},
 	{
 		"_id" : "LnwbzjqU9",
-		"name" : "*Présentation de la Table-ronde n°7 - Échelles territoriales de la santé en commun",
+		"name" : "Présentation de la table-ronde n°7 - Échelles territoriales de la santé en commun",
 		"description" : "<p>Présentation de la table-ronde n°7 \"Échelles territoriales de la santé en commun\"</p><p>Argumentaire, intervenants et présentations</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/Y5J01PX1TmNYDaa",
@@ -1552,11 +1553,11 @@
 		"_user" : null,
 		"_pos" : 1598966151519,
 		"_creationTime" : ISODate("2020-09-01T13:15:51.519Z"),
-		"_updateTime" : ISODate("2020-10-23T09:19:48.922Z")
+		"_updateTime" : ISODate("2020-10-26T22:39:06.543Z")
 	},
 	{
 		"_id" : "zsZ8e-JTL",
-		"name" : "*Présentation de la Table-ronde N°8 - Habiter en commun les territoires",
+		"name" : "Présentation de la table-ronde n°8 - Habiter en commun les territoires",
 		"description" : "<p>Présentation de la table-ronde n°8 \"Habiter en commun les territoires\"</p><p>Argumentaire, intervenants et présentations</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/SnY47srO4PjQQvK",
@@ -1569,11 +1570,11 @@
 		"_user" : null,
 		"_pos" : 1598966561417,
 		"_creationTime" : ISODate("2020-09-01T13:22:41.417Z"),
-		"_updateTime" : ISODate("2020-10-23T09:19:34.831Z")
+		"_updateTime" : ISODate("2020-10-26T22:38:55.230Z")
 	},
 	{
 		"_id" : "FVaQlfJA-",
-		"name" : "*Présentation de la Table-ronde n°9 - Friches en commun et territoire",
+		"name" : "Présentation de la table-ronde n°9 - Friches en commun et territoire",
 		"description" : "<p>Présentation de la table-ronde n°9 \"Friches en commun et territoire\"</p><p>Argumentaire, intervenants et présentations</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/Grt3taNPfKuKwgG",
@@ -1587,11 +1588,11 @@
 		"_user" : null,
 		"_pos" : 1598966942356,
 		"_creationTime" : ISODate("2020-09-01T13:29:02.356Z"),
-		"_updateTime" : ISODate("2020-10-23T09:19:19.462Z")
+		"_updateTime" : ISODate("2020-10-26T22:38:43.133Z")
 	},
 	{
 		"_id" : "bwUQubFPC",
-		"name" : "*Présentation de la Table-ronde n°10  - Éducation populaire, construire un monde commun",
+		"name" : "Présentation de la table-ronde n°10  - Éducation populaire, construire un monde commun",
 		"description" : "<p>Présentation de la table-ronde n°10 \"Éducation populaire, construire un monde commun\"</p><p>Argumentaire, intervenants et présentations</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/vVBJHx0E8tJ4FXK",
@@ -1605,11 +1606,11 @@
 		"_user" : null,
 		"_pos" : 1598967288437,
 		"_creationTime" : ISODate("2020-09-01T13:34:48.437Z"),
-		"_updateTime" : ISODate("2020-10-23T09:19:04.237Z")
+		"_updateTime" : ISODate("2020-10-26T22:38:30.318Z")
 	},
 	{
 		"_id" : "5dZGt9FGb",
-		"name" : "*Présentation du Débat Public n° 1 – Formes de solidarités et communs ",
+		"name" : "Présentation du débat public n° 1 – Formes de solidarités et communs ",
 		"description" : "<p>Présentation du débat public n° 1 \"Formes de solidarités et communs\"</p><p>Argumentaire, intervenants et présentation</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/veI1WQUIsud42O0",
@@ -1624,11 +1625,11 @@
 		"_user" : null,
 		"_pos" : 1598971494341,
 		"_creationTime" : ISODate("2020-09-01T14:44:54.341Z"),
-		"_updateTime" : ISODate("2020-10-23T09:18:47.543Z")
+		"_updateTime" : ISODate("2020-10-26T22:38:16.960Z")
 	},
 	{
 		"_id" : "nZszm8Xhh",
-		"name" : "*Présentation du Débat Public n° 2 – Regards croisés Nord-Sud, une épistémologie commune ?",
+		"name" : "Présentation du débat public n° 2 – Regards croisés Nord-Sud, une épistémologie commune ?",
 		"description" : "<p>Présentation du débat public n° 2 \"Regards croisés Nord-Sud, une épistémologie commune ?\"</p><p>Argumentaire, intervenants et présentation</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/ZNak4h3FgNkYD2l",
@@ -1644,11 +1645,11 @@
 		"_user" : null,
 		"_pos" : 1598971781008,
 		"_creationTime" : ISODate("2020-09-01T14:49:41.008Z"),
-		"_updateTime" : ISODate("2020-10-23T09:18:32.184Z")
+		"_updateTime" : ISODate("2020-10-26T22:38:03.794Z")
 	},
 	{
 		"_id" : "vOa1Rc5ux",
-		"name" : "*Présentation du Débat Public n° 3 – Valeurs et communs pour les territoires",
+		"name" : "Présentation du débat public n° 3 – Valeurs et communs pour les territoires",
 		"description" : "<p>Présentation du débat public n° 3 \"Valeurs et communs pour les territoires\"</p><p>Argumentaire, intervenants et présentation</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/xir2ivvQgRleRLa",
@@ -1663,11 +1664,11 @@
 		"_user" : null,
 		"_pos" : 1598972051407,
 		"_creationTime" : ISODate("2020-09-01T14:54:11.407Z"),
-		"_updateTime" : ISODate("2020-10-23T09:18:17.121Z")
+		"_updateTime" : ISODate("2020-10-26T22:37:53.493Z")
 	},
 	{
 		"_id" : "NKzpgCDJZ",
-		"name" : "*Présentation du Débat Public n° 4 – Pouvoirs publics et communs",
+		"name" : "Présentation du débat public n° 4 – Pouvoirs publics et communs",
 		"description" : "<p>Présentation du Débat Public n° 4 \"Pouvoirs publics et communs\"</p><p>Argumentaire, intervenants et présentation</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/hSAWMaKgwrt69gu",
@@ -1682,11 +1683,11 @@
 		"_user" : null,
 		"_pos" : 1598972296820,
 		"_creationTime" : ISODate("2020-09-01T14:58:16.820Z"),
-		"_updateTime" : ISODate("2020-10-23T09:18:02.155Z")
+		"_updateTime" : ISODate("2020-10-26T22:37:40.859Z")
 	},
 	{
 		"_id" : "SBvWj-ISw",
-		"name" : "*Présentation du Débat Public n° 5 – Émancipation et commun",
+		"name" : "Présentation du débat public n° 5 – Émancipation et commun",
 		"description" : "<p>Présentation du Débat Public n° 5 \"Émancipation et commun\"</p><p>Argumentaire, intervenants et présentation</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/nwc4vCnwOPii3Vt",
@@ -1701,11 +1702,11 @@
 		"_user" : null,
 		"_pos" : 1598972931746,
 		"_creationTime" : ISODate("2020-09-01T15:08:51.746Z"),
-		"_updateTime" : ISODate("2020-10-23T09:17:52.126Z")
+		"_updateTime" : ISODate("2020-10-26T22:37:30.289Z")
 	},
 	{
 		"_id" : "EngCkdUYc",
-		"name" : "*Présentation du Débat Public n° 6 – Monnaie et commun",
+		"name" : "Présentation du débat public n° 6 – Monnaie et commun",
 		"description" : "<p>Présentation du débat public n° 6 \"Monnaie et commun\"</p><p>Argumentaire, intervenants et présentation</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/EKD2CTnxhghQEJ5",
@@ -1719,11 +1720,11 @@
 		"_user" : null,
 		"_pos" : 1598973155877,
 		"_creationTime" : ISODate("2020-09-01T15:12:35.877Z"),
-		"_updateTime" : ISODate("2020-10-23T09:17:41.314Z")
+		"_updateTime" : ISODate("2020-10-26T22:37:17.055Z")
 	},
 	{
 		"_id" : "t4XSfIjui",
-		"name" : "*Présentation du Débat Public n° 7 – Critères et outils de gestion et commun",
+		"name" : "Présentation du débat public n° 7 – Critères et outils de gestion et commun",
 		"description" : "<p>Présentation du débat public n° 7 \"Critères et outils de gestion et commun\"</p><p>Argumentaire, intervenants et présentation</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/6aJqJz6DrccuH6R",
@@ -1739,11 +1740,11 @@
 		"_user" : null,
 		"_pos" : 1598973607788,
 		"_creationTime" : ISODate("2020-09-01T15:20:07.788Z"),
-		"_updateTime" : ISODate("2020-10-23T09:17:25.201Z")
+		"_updateTime" : ISODate("2020-10-26T22:37:07.056Z")
 	},
 	{
 		"_id" : "28lBmMLf2",
-		"name" : "*Présentation du Débat Public n° 8 – Droit, commun et territoire ",
+		"name" : "Présentation du débat public n° 8 – Droit, commun et territoire ",
 		"description" : "<p>Présentation du débat public n° 8 \"Droit, commun et territoire\"</p><p>Argumentaire, intervenants et présentation</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/lz5y9sJHYj6HNy3",
@@ -1758,11 +1759,11 @@
 		"_user" : null,
 		"_pos" : 1598973926633,
 		"_creationTime" : ISODate("2020-09-01T15:25:26.633Z"),
-		"_updateTime" : ISODate("2020-10-23T09:17:06.663Z")
+		"_updateTime" : ISODate("2020-10-26T22:36:51.374Z")
 	},
 	{
 		"_id" : "lFLS5vros",
-		"name" : "*Présentation du Débat Public n° 9 – Coopératives et commun pour quelles solidarités ? ",
+		"name" : "Présentation du débat public n° 9 -  Coopératives et commun pour quelles solidarités ? ",
 		"description" : "<p>Présentation du débat public n° 9 \"Coopératives et commun pour quelles solidarités ?\"</p><p>Argumentaire, intervenants et présentation</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/7FslvYPXii0BYQz",
@@ -1778,7 +1779,7 @@
 		"_user" : null,
 		"_pos" : 1598974221252,
 		"_creationTime" : ISODate("2020-09-01T15:30:21.252Z"),
-		"_updateTime" : ISODate("2020-10-23T09:16:47.578Z")
+		"_updateTime" : ISODate("2020-10-26T22:36:37.939Z")
 	},
 	{
 		"_id" : "Ug6tIsfNO",
@@ -1815,8 +1816,8 @@
 	},
 	{
 		"_id" : "UNvM8zeA-",
-		"name" : "La salle à manger",
-		"description" : "<p>La salle à manger apparaît un lieu d'échanges et de partagés animés</p>",
+		"name" : "Photo - La salle à manger",
+		"description" : "<p>La salle à manger apparaît comme un lieu d'échanges et de partagés animés</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/NFsotMrscBAiEJM",
 		"thematique" : [
@@ -1826,11 +1827,11 @@
 		"_user" : null,
 		"_pos" : 1599396406718,
 		"_creationTime" : ISODate("2020-09-06T12:46:46.718Z"),
-		"_updateTime" : ISODate("2020-10-23T09:16:14.178Z")
+		"_updateTime" : ISODate("2020-10-26T22:34:51.623Z")
 	},
 	{
 		"_id" : "T4t7B2R08",
-		"name" : "Configurer la salle pour favoriser les échanges",
+		"name" : "Photo - Configurer la salle pour favoriser les échanges",
 		"description" : "<p>Ce décor en table-ronde tournant le dos à l’estrade dans la bibliothèque du château a été retenu pour les débats publics (ici, celui sur \"Coopératives et commun\" avec Jean-Louis Bancel et Noémie de Grenier)</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/QKX6kW3MvhMkXvo",
@@ -1841,7 +1842,7 @@
 		"_user" : null,
 		"_pos" : 1599396612830,
 		"_creationTime" : ISODate("2020-09-06T12:50:12.830Z"),
-		"_updateTime" : ISODate("2020-10-23T13:43:53.236Z")
+		"_updateTime" : ISODate("2020-10-26T21:06:00.017Z")
 	},
 	{
 		"_id" : "x8gQpPSuK",
@@ -1896,7 +1897,7 @@
 	},
 	{
 		"_id" : "vnab-YOoT",
-		"name" : "Séance de post-il pour les capteurs de liens",
+		"name" : "Photo - Séance de post-il pour les capteurs de liens",
 		"description" : "<p>L'équipe de capteurs de liens dans son travail créatif à partir des post-it, réunie dans l’étable transformée en quartier général&nbsp;&nbsp;&nbsp;</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/NKHvuIiFrq0dayc",
@@ -1909,12 +1910,12 @@
 		"_user" : null,
 		"_pos" : 1599398807306,
 		"_creationTime" : ISODate("2020-09-06T13:26:47.306Z"),
-		"_updateTime" : ISODate("2020-10-23T10:17:59.488Z")
+		"_updateTime" : ISODate("2020-10-26T21:05:33.902Z")
 	},
 	{
 		"_id" : "CLzuvYqj7",
 		"name" : "Texte sur la coopérative Carrefour au sud de Bucarest présenté au colloque du CIRIEC 2019.",
-		"description" : "<p>Texte d'Hervé Defalvard et de son collège Gheorghe Ciascai :\"Nous avions saisi l’opportunité que le colloque annuel du CIRIEC se tienne à Bucarest pour y présenter notre recherche sur la coopérative Carrefour créée au sud de Bucarest\"</p>",
+		"description" : "<p>Texte d'Hervé Defalvard et de son collège Gheorghe Ciascai</p><p>\"Nous avions saisi l’opportunité que le colloque annuel du CIRIEC se tienne à Bucarest pour y présenter notre recherche sur la coopérative Carrefour créée au sud de Bucarest\"</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/pvyR41WLKpi0Nha",
 		"thematique" : [
@@ -1926,7 +1927,7 @@
 		"_user" : null,
 		"_pos" : 1599399329489,
 		"_creationTime" : ISODate("2020-09-06T13:35:29.489Z"),
-		"_updateTime" : ISODate("2020-10-23T10:03:42.147Z")
+		"_updateTime" : ISODate("2020-10-26T22:34:24.382Z")
 	},
 	{
 		"_id" : "VbBjzsD_O",
@@ -1947,7 +1948,7 @@
 	},
 	{
 		"_id" : "jIB2ooxL6",
-		"name" : "La laiterie",
+		"name" : "Photo - La laiterie",
 		"description" : "<p>Au milieu des années 1980, la laiterie comme l’étable étaient occupées par les vaches. Depuis, le fermier métayer a pris sa retraite et la laiterie a été transformée en salle de conférence</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/uzYu11mPQHTsHW2",
@@ -1959,7 +1960,7 @@
 		"_user" : null,
 		"_pos" : 1599497204139,
 		"_creationTime" : ISODate("2020-09-07T16:46:44.139Z"),
-		"_updateTime" : ISODate("2020-10-23T10:03:26.110Z")
+		"_updateTime" : ISODate("2020-10-26T21:05:09.717Z")
 	},
 	{
 		"_id" : "Pno2oNZAY",
@@ -1995,8 +1996,8 @@
 	},
 	{
 		"_id" : "qF9d_5Tdy",
-		"name" : "Photo - Table d'enjeux et de controverse n°1",
-		"description" : "<p>Des échanges se sont déroulés en extérieur lors de la table d'enjeux et de controverses sur le thème \"Mastodontes et communs\".</p><p>Ce thème du rôle des grandes entreprises, qualifiées de mastodontes, dans les communs et le translocalisme a émergé des échanges des premiers jours du colloque</p>",
+		"name" : "Photo - Table d'enjeux et de controverses n°1",
+		"description" : "<p>Des échanges se sont déroulés en extérieur lors de la table d'enjeux et de controverses sur le thème \"Mastodontes et communs\".</p><p>Ce thème du rôle des grandes entreprises, qualifiées de mastodontes, dans les communs et le translocalisme a émergé des échanges des premiers jours du colloque.</p><p>En dépit du beau soleil qui régnait, les débats ont été plutôt orageux</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/LpTzG5RNYjvOb3s",
 		"thematique" : [
@@ -2006,12 +2007,12 @@
 		"_user" : null,
 		"_pos" : 1599497976196,
 		"_creationTime" : ISODate("2020-09-07T16:59:36.196Z"),
-		"_updateTime" : ISODate("2020-10-23T15:07:40.528Z")
+		"_updateTime" : ISODate("2020-10-26T22:48:44.559Z")
 	},
 	{
 		"_id" : "1GhCvCN-p",
 		"name" : "Photo - Table d'enjeux et de controverses n°1",
-		"description" : "<p>Prise de note en direct lors de la table d'enjeux et de controverses n°1 sur le thème \"Mastodontes et communs\".</p><p>Ce thème du rôle des grandes entreprises, qualifiées de mastodontes, dans les communs et le translocalisme a émergé des échanges des premiers jours du colloque</p>",
+		"description" : "<p>Prise de note en direct lors de la table d'enjeux et de controverses n°1 sur le thème \"Mastodontes et communs\".</p><p>Ce thème du rôle des grandes entreprises, qualifiées de mastodontes, dans les communs et le translocalisme a émergé des échanges des premiers jours du colloque</p><p>En dépit du beau soleil qui régnait, les débats ont été plutôt orageux</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/yotIZdxgvwZq8qa",
 		"thematique" : [
@@ -2021,12 +2022,12 @@
 		"_user" : null,
 		"_pos" : 1599498116405,
 		"_creationTime" : ISODate("2020-09-07T17:01:56.405Z"),
-		"_updateTime" : ISODate("2020-10-23T15:05:16.921Z")
+		"_updateTime" : ISODate("2020-10-26T22:48:34.812Z")
 	},
 	{
 		"_id" : "rysjpAoeV",
 		"name" : "Programme du séminaire TARNAC à Grasse en novembre 2019",
-		"description" : "<p>Programme du séminaire TARNAC à Grasse en novembre 2019.</p><p>Ce séminaire avait pour objectif de mettre en miroir notre positionnement de recherche en tant qu’elle est située non pas seulement sur le terrain, mais dans un lien politique avec les actrices et acteurs des communs puisqu’elle en partage les finalités. Pour cela, nous avions demandé à Jean-François Draperi et Gilles Allaire de réagir sur nos interventions. Ce fut un beau weekend de découverte de l’éco-lieu Sainte Marthe à Grasse et d’échanges intellectuels et amicaux</p>",
+		"description" : "<p>Programme du séminaire TARNAC à Grasse en novembre 2019.</p><p>Ce séminaire avait pour objectif de mettre en miroir notre positionnement de recherche en tant qu’elle est située non pas seulement sur le terrain, mais dans un lien politique avec les actrices et acteurs des communs puisqu’elle en partage les finalités. Pour cela, nous avions demandé à Jean-François Draperi et Gilles Allaire de réagir sur nos interventions. </p><p>Ce fut un beau week-end de découverte de l’éco-lieu Sainte-Marthe à Grasse et d’échanges intellectuels et amicaux</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/zQWUzfgcsReSFD2",
 		"thematique" : [
@@ -2036,12 +2037,12 @@
 		"_user" : null,
 		"_pos" : 1599498541118,
 		"_creationTime" : ISODate("2020-09-07T17:09:01.118Z"),
-		"_updateTime" : ISODate("2020-10-23T09:11:04.577Z")
+		"_updateTime" : ISODate("2020-10-26T22:33:44.466Z")
 	},
 	{
 		"_id" : "-kMDYUBdW",
 		"name" : "Le commun et les singuliers - texte pour le séminaire TARNAC de novembre 2019",
-		"description" : "<p>\"Le commun et les singuliers\", texte pour le séminaire TARNAC de novembre 2019.</p><p>Le texte que Marc Lourdaux a présenté lors du séminaire TARNAC à Grasse montre le chemin qu’un acteur de terrain peut tracer dans le monde de la recherche quand la recherche vient se mêler aux expériences de terrain afin d’y contribuer. Cet aller sur le terrain permet un retour dans la recherche via des parcours qui en dépassent les frontières</p>",
+		"description" : "<p>\"Le commun et les singuliers\", texte pour le séminaire TARNAC de novembre 2019.</p><p>Le texte que Marc Lourdaux a présenté lors du séminaire TARNAC à Grasse montre le chemin qu’un acteur de terrain peut tracer dans le monde de la recherche quand la recherche vient se mêler aux expériences de terrain afin d’y contribuer. </p><p>Cet aller sur le terrain permet un retour dans la recherche via des parcours qui en dépassent les frontières</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/sPVzol21pcY5qbg",
 		"thematique" : [
@@ -2053,7 +2054,7 @@
 		"_user" : null,
 		"_pos" : 1599498909384,
 		"_creationTime" : ISODate("2020-09-07T17:15:09.384Z"),
-		"_updateTime" : ISODate("2020-10-23T09:10:02.426Z")
+		"_updateTime" : ISODate("2020-10-26T22:32:44.929Z")
 	},
 	{
 		"_id" : "mzwiGTdBt",
@@ -2075,8 +2076,8 @@
 	},
 	{
 		"_id" : "HBB1qtl17",
-		"name" : "Photo soirée poèmes au grenier",
-		"description" : "<p>Nous avons conservé la soirée d’au-revoir comme un moment de synchronie sensible emmené.e.s par les poèmes du PPP sous la houlette de Jacques Jouet puis emporté.e.s par les paroles de \"la Translocale\" sous son orchestration par Edith Heurgon</p>",
+		"name" : "Photo - Soirée poèmes au grenier",
+		"description" : "<p>Nous avons conservé la soirée d’au-revoir comme un moment de synchronie sensible emmené.e.s par les poèmes du PPP sous la houlette de Jacques Jouet puis emporté.e.s par les paroles de \"la Translocale\", chanson écrite collectivement, orchestrée par Edith Heurgon</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/r4aMhN4rQEE9btb",
 		"thematique" : [
@@ -2090,12 +2091,12 @@
 		"_user" : null,
 		"_pos" : 1599549241402,
 		"_creationTime" : ISODate("2020-09-08T07:14:01.402Z"),
-		"_updateTime" : ISODate("2020-10-23T09:09:26.855Z")
+		"_updateTime" : ISODate("2020-10-26T22:31:37.998Z")
 	},
 	{
 		"_id" : "Io3F2tA8_",
-		"name" : "Photo soirée poème Jacques Jouet",
-		"description" : "<p>Nous avons conservé la soirée d’au-revoir comme un moment de synchronie sensible emmené.e.s par les poèmes du PPP sous la houlette de Jacques Jouet puis emporté.e.s par les paroles de ' la Translocale' sous son orchestration par Edith Heurgon.&nbsp;</p>",
+		"name" : "Photo  - Soirée poèmes -Jacques Jouet",
+		"description" : "<p>Nous avons conservé la soirée d’au-revoir comme un moment de synchronie sensible emmené.e.s par les poèmes du PPP sous la houlette de Jacques Jouet puis emporté.e.s par les paroles de \"la Translocale\", chanson écrite collectivement, orchestrée par Edith Heurgon</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/FngdEOCfJNaCfev",
 		"thematique" : [
@@ -2108,12 +2109,12 @@
 		"_user" : null,
 		"_pos" : 1599549370673,
 		"_creationTime" : ISODate("2020-09-08T07:16:10.673Z"),
-		"_updateTime" : ISODate("2020-10-23T09:08:42.718Z")
+		"_updateTime" : ISODate("2020-10-26T22:31:50.982Z")
 	},
 	{
 		"_id" : "KBczF5AMN",
-		"name" : "Photo au grenier - soirée poèmes",
-		"description" : "<p>Nous avons conservé la soirée d’au-revoir comme un moment de synchronie sensible emmené.e.s par les poèmes du PPP sous la houlette de Jacques Jouet puis emporté.e.s par les paroles de la translocale sous son orchestration par Edith Heurgon</p>",
+		"name" : "Photo - Soirée poèmes au grenier",
+		"description" : "<p>Nous avons conservé la soirée d’au-revoir comme un moment de synchronie sensible emmené.e.s par les poèmes du PPP sous la houlette de Jacques Jouet puis emporté.e.s par les paroles de \"la Translocale\", chanson écrite collectivement, orchestrée par Edith Heurgon</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/AZT6rYRR4b1A3VT",
 		"thematique" : [
@@ -2127,11 +2128,11 @@
 		"_user" : null,
 		"_pos" : 1599549635260,
 		"_creationTime" : ISODate("2020-09-08T07:20:35.260Z"),
-		"_updateTime" : ISODate("2020-10-23T09:08:24.044Z")
+		"_updateTime" : ISODate("2020-10-26T22:32:02.006Z")
 	},
 	{
 		"_id" : "P3j3ZZkN4",
-		"name" : "Photo soirées dans les caves du château",
+		"name" : "Photo - Soirée dans les caves du château",
 		"description" : "<p>La cave est l’un des hauts lieux de l’histoire de Cerisy. Depuis cinquante années, autour de verres partagés, on y joue au ping-pong, on y danse et on y refait le colloque et le monde</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/3424CPh6GsXZTgL",
@@ -2143,11 +2144,11 @@
 		"_user" : null,
 		"_pos" : 1599549913466,
 		"_creationTime" : ISODate("2020-09-08T07:25:13.466Z"),
-		"_updateTime" : ISODate("2020-10-23T09:07:59.737Z")
+		"_updateTime" : ISODate("2020-10-26T21:22:34.457Z")
 	},
 	{
 		"_id" : "_kFD_Xmgo",
-		"name" : "Photo des soirées dans les caves du château",
+		"name" : "Photo - Soirées dans les caves du château",
 		"description" : "<p>La cave est l’un des hauts lieux de l’histoire de Cerisy. Depuis cinquante années, autour de verres partagés, on y joue au ping-pong, on y danse et on y refait le colloque et le monde</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/IoP5qs0UCx2f5go",
@@ -2161,11 +2162,11 @@
 		"_user" : null,
 		"_pos" : 1599550136764,
 		"_creationTime" : ISODate("2020-09-08T07:28:56.764Z"),
-		"_updateTime" : ISODate("2020-10-23T09:08:08.548Z")
+		"_updateTime" : ISODate("2020-10-26T21:22:22.470Z")
 	},
 	{
 		"_id" : "L0AROajRD",
-		"name" : "Photo soirée sur le projet éditorial",
+		"name" : "Photo - Soirée de présentation du projet éditorial",
 		"description" : "<p>Soirée de présentation du projet éditorial dans la bibliothèque du château dont le livre et ce site compagnon sont l'aboutissement</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/OvLC8YaAvx01q5E",
@@ -2176,11 +2177,11 @@
 		"_user" : null,
 		"_pos" : 1599654424818,
 		"_creationTime" : ISODate("2020-09-09T12:27:04.818Z"),
-		"_updateTime" : ISODate("2020-10-23T09:07:46.880Z")
+		"_updateTime" : ISODate("2020-10-26T21:03:54.370Z")
 	},
 	{
 		"_id" : "asRav7oTQ",
-		"name" : "L'équipe des capteurs de liens",
+		"name" : "Photo - L'équipe des capteurs de liens",
 		"description" : "<p>L'équipe des capteurs de liens : Sylvie Barros et Delphine Boudet</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/XbkBNS2pVsE7srb",
@@ -2192,11 +2193,12 @@
 		"timeline" : "tr1ressourcesdesterritoiresareveler",
 		"_user" : null,
 		"_pos" : 1599654708143,
-		"_creationTime" : ISODate("2020-09-09T12:31:48.143Z")
+		"_creationTime" : ISODate("2020-09-09T12:31:48.143Z"),
+		"_updateTime" : ISODate("2020-10-26T21:03:10.934Z")
 	},
 	{
 		"_id" : "x_OQDTOAs",
-		"name" : "Swan à la table d'enregistrement",
+		"name" : "Photo - Swan Jolivet à la table d'enregistrement",
 		"description" : "<p>Durant tout le colloque deux personnes se sont relayées pour tout enregistrer et tenir les cahiers d'enregistrements qui nous permettent aujourd'hui de vous proposer les extraits sonores sur ce site. Merci à Swan et Sophie</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/lSQiDzlhM46IbB4",
@@ -2209,11 +2211,11 @@
 		"_user" : null,
 		"_pos" : 1599655289286,
 		"_creationTime" : ISODate("2020-09-09T12:41:29.286Z"),
-		"_updateTime" : ISODate("2020-10-23T09:10:10.672Z")
+		"_updateTime" : ISODate("2020-10-26T22:49:43.525Z")
 	},
 	{
 		"_id" : "47hNhaRzO",
-		"name" : "Bernard Garrigues",
+		"name" : "Photo - Bernard Garrigues",
 		"description" : "<p>Les interventions des chercheurs et militants des communs alimentent les débats. Ici, Bernard Garrigues</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/KVVJyJbDxZ7Rw6m",
@@ -2224,11 +2226,11 @@
 		"_user" : null,
 		"_pos" : 1599655530336,
 		"_creationTime" : ISODate("2020-09-09T12:45:30.336Z"),
-		"_updateTime" : ISODate("2020-10-23T09:10:50.946Z")
+		"_updateTime" : ISODate("2020-10-26T21:02:45.976Z")
 	},
 	{
 		"_id" : "eKpwrPzB0",
-		"name" : "Introduction à trois voix",
+		"name" : "Photo - Introduction à trois voix",
 		"description" : "<p>Première partie de l'introduction à trois voix</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/GWE7H3dtVuGPhHH",
@@ -2240,11 +2242,12 @@
 		"timeline" : "introduction",
 		"_user" : null,
 		"_pos" : 1599655967269,
-		"_creationTime" : ISODate("2020-09-09T12:52:47.269Z")
+		"_creationTime" : ISODate("2020-09-09T12:52:47.269Z"),
+		"_updateTime" : ISODate("2020-10-26T21:02:33.448Z")
 	},
 	{
 		"_id" : "lBTlFceY8",
-		"name" : "Introduction à trois voix - Hervé Defalvard",
+		"name" : "Photo - Introduction à trois voix - Hervé Defalvard",
 		"description" : "<p>Troisième partie de l'introduction des co-organisateurs</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/ELZUB942KGvXmiD",
@@ -2255,12 +2258,13 @@
 		"timeline" : "introduction",
 		"_user" : null,
 		"_pos" : 1599656123507,
-		"_creationTime" : ISODate("2020-09-09T12:55:23.507Z")
+		"_creationTime" : ISODate("2020-09-09T12:55:23.507Z"),
+		"_updateTime" : ISODate("2020-10-26T21:02:25.508Z")
 	},
 	{
 		"_id" : "xnhqIyz1Y",
-		"name" : "L'équipe du PoleS avant la table ronde N°2",
-		"description" : "<p>L'équipe du PoleS avec Claude Sicart au centre dans la cour devant le château.</p>",
+		"name" : "Photo - L'équipe du PoleS avant la table-ronde n°2",
+		"description" : "<p>L'équipe du PoleS avec Claude Sicart au centre dans la cour devant le château</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/MwZmEd3dPaOTyz8",
 		"thematique" : [
@@ -2270,11 +2274,12 @@
 		"timeline" : "tr2territoiressolidairesetemploi",
 		"_user" : null,
 		"_pos" : 1599656368514,
-		"_creationTime" : ISODate("2020-09-09T12:59:28.514Z")
+		"_creationTime" : ISODate("2020-09-09T12:59:28.514Z"),
+		"_updateTime" : ISODate("2020-10-26T21:29:16.993Z")
 	},
 	{
 		"_id" : "lmBctovv1",
-		"name" : "Discussions après la conférence plénière de Jean-Louis Laville",
+		"name" : "Photo - Discussions à l'issue de la conférence plénière de Jean-Louis Laville",
 		"description" : "<p>Discussion dans le hall d'entrée du château à la sortie de la première conférence plénière</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/7oPRRNxCnKjoINr",
@@ -2286,11 +2291,11 @@
 		"_user" : null,
 		"_pos" : 1599657554323,
 		"_creationTime" : ISODate("2020-09-09T13:19:14.323Z"),
-		"_updateTime" : ISODate("2020-10-23T12:36:44.626Z")
+		"_updateTime" : ISODate("2020-10-26T21:56:50.348Z")
 	},
 	{
 		"_id" : "lwjs7Fmed",
-		"name" : "DP1 - Échanges et discussions",
+		"name" : "Photo - Échanges et discussions au débat public n°1",
 		"description" : "<p>Échanges et discussions dans le hall du château après le débat public n°1 \"Formes de solidarité et commun\"</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/Xos0Jb8YjC8Z4Ql",
@@ -2302,12 +2307,12 @@
 		"_user" : null,
 		"_pos" : 1599657686038,
 		"_creationTime" : ISODate("2020-09-09T13:21:26.038Z"),
-		"_updateTime" : ISODate("2020-10-23T12:08:31.247Z")
+		"_updateTime" : ISODate("2020-10-26T21:07:13.864Z")
 	},
 	{
 		"_id" : "JbFViX5Lj",
-		"name" : "Photo pendant la TR4",
-		"description" : "<p>La salle de la bibliothèque attentive pendant l'exposé de Giuseppe sur la lutte pour les semences paysannes en Sicile</p>",
+		"name" : "Photo - Table-ronde n°4",
+		"description" : "<p>La salle de la bibliothèque attentive pendant l'exposé de Giuseppe Li Rosi sur la lutte pour les semences paysannes en Sicile</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/QNwbFen35CnNnZ7",
 		"thematique" : [
@@ -2317,11 +2322,12 @@
 		"timeline" : "tr4systemesalimentairessolidairesterritorialises",
 		"_user" : null,
 		"_pos" : 1599658068473,
-		"_creationTime" : ISODate("2020-09-09T13:27:48.473Z")
+		"_creationTime" : ISODate("2020-09-09T13:27:48.473Z"),
+		"_updateTime" : ISODate("2020-10-26T22:28:28.036Z")
 	},
 	{
 		"_id" : "l0c6YmE1K",
-		"name" : "Image de la Table ronde N°4",
+		"name" : "Photo -  Table-ronde n°4",
 		"description" : "<p>Les débats passionnés autour des systèmes alimentaires solidaires territorialisés</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/qdsmMmJp5Yli5YJ",
@@ -2334,12 +2340,12 @@
 		"_user" : null,
 		"_pos" : 1599658262908,
 		"_creationTime" : ISODate("2020-09-09T13:31:02.908Z"),
-		"_updateTime" : ISODate("2020-10-23T09:07:10.930Z")
+		"_updateTime" : ISODate("2020-10-26T20:59:43.521Z")
 	},
 	{
 		"_id" : "xInUIcYPa",
-		"name" : "Image de l'intervention de Marc Lourdaux lors de la table ronde n°4",
-		"description" : "<p>Image de l'intervention de Marc Lourdaux lors de la table-ronde n°4 \"Systèmes alimentaires solidaires territorialisés\"</p>",
+		"name" : "Photo -  L'intervention de Marc Lourdaux lors de la table-ronde n°4",
+		"description" : "<p>Intervention de Marc Lourdaux lors de la table-ronde n°4 \"Systèmes alimentaires solidaires territorialisés\"</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/zGKoK3lbsL3KsQB",
 		"thematique" : [
@@ -2350,11 +2356,11 @@
 		"_user" : null,
 		"_pos" : 1599658767922,
 		"_creationTime" : ISODate("2020-09-09T13:39:27.922Z"),
-		"_updateTime" : ISODate("2020-10-23T13:42:53.054Z")
+		"_updateTime" : ISODate("2020-10-26T21:29:38.503Z")
 	},
 	{
 		"_id" : "UvjwvR-EV",
-		"name" : "Image de l'intervention de Gheorghe Ciascai",
+		"name" : "Photo - L'intervention de Gheorghe Ciascai",
 		"description" : "<p>Intervention de Gheorghe Ciascai à propos de la coopérative Carrefour Bucarest lors de la table-ronde n°4 \"Grande entreprise et territoires\"</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/jBRaTq66ys0qhXC",
@@ -2366,11 +2372,11 @@
 		"_user" : null,
 		"_pos" : 1599658957109,
 		"_creationTime" : ISODate("2020-09-09T13:42:37.109Z"),
-		"_updateTime" : ISODate("2020-10-23T13:42:04.603Z")
+		"_updateTime" : ISODate("2020-10-26T20:57:56.350Z")
 	},
 	{
 		"_id" : "NvTKw1r-v",
-		"name" : "La table ronde N°4 en image",
+		"name" : "Photo - Table-ronde n°4",
 		"description" : "<p>La bonne humeur contagieuse de Giuseppe Li Rosi</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/bD8FhEd9UES6esd",
@@ -2382,11 +2388,12 @@
 		"timeline" : "tr4systemesalimentairessolidairesterritorialises",
 		"_user" : null,
 		"_pos" : 1599659284543,
-		"_creationTime" : ISODate("2020-09-09T13:48:04.543Z")
+		"_creationTime" : ISODate("2020-09-09T13:48:04.543Z"),
+		"_updateTime" : ISODate("2020-10-26T21:29:55.351Z")
 	},
 	{
 		"_id" : "z-2BRkC6M",
-		"name" : "La salle attentive pendant le deuxième débat public",
+		"name" : "Photo - La salle attentive pendant le débat public n°2",
 		"description" : "<p>La salle attentive pendant le deuxième débat public entre Stéphanie Leyronas et Pedro Hespanha</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/EiyPUqyW2569Nux",
@@ -2398,11 +2405,12 @@
 		"timeline" : "dp2regardscroisesnordsuduneepistemologiecommune",
 		"_user" : null,
 		"_pos" : 1599680050508,
-		"_creationTime" : ISODate("2020-09-09T19:34:10.508Z")
+		"_creationTime" : ISODate("2020-09-09T19:34:10.508Z"),
+		"_updateTime" : ISODate("2020-10-26T20:57:09.375Z")
 	},
 	{
 		"_id" : "kdYMpAQ9j",
-		"name" : "Image du débat public N°2 dans la bibliothèque",
+		"name" : "Photo - Débat public n°2 dans la bibliothèque",
 		"description" : "<p>Débat public n°2 dans la bibliothèque</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/TrYnhtAq7GgKdlT",
@@ -2415,11 +2423,11 @@
 		"_user" : null,
 		"_pos" : 1599680385898,
 		"_creationTime" : ISODate("2020-09-09T19:39:45.898Z"),
-		"_updateTime" : ISODate("2020-10-23T09:06:31.539Z")
+		"_updateTime" : ISODate("2020-10-26T21:09:33.261Z")
 	},
 	{
 		"_id" : "illqC8lTS",
-		"name" : "La bibliothèque lors du débat public n°2",
+		"name" : "Photo - La bibliothèque lors du débat public n°2",
 		"description" : "<p>La bibliothèque du château accueille le débat public sur les épistémologies</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/8dN19mBdtrTAGKW",
@@ -2433,11 +2441,12 @@
 		"timeline" : "dp2regardscroisesnordsuduneepistemologiecommune",
 		"_user" : null,
 		"_pos" : 1599680578052,
-		"_creationTime" : ISODate("2020-09-09T19:42:58.052Z")
+		"_creationTime" : ISODate("2020-09-09T19:42:58.052Z"),
+		"_updateTime" : ISODate("2020-10-26T21:08:39.905Z")
 	},
 	{
 		"_id" : "G_v37ECOw",
-		"name" : "Discussions à l'issue du débat public n° 2",
+		"name" : "Photo - Discussions à l'issue du débat public n° 2",
 		"description" : "<p>Stéphanie Leyronas a ouvert la voie à de nouveaux questionnements lors du débat public n°2.</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/fBMpIx1fIzjTQKS",
@@ -2451,12 +2460,13 @@
 		"timeline" : "dp2regardscroisesnordsuduneepistemologiecommune",
 		"_user" : null,
 		"_pos" : 1599680827127,
-		"_creationTime" : ISODate("2020-09-09T19:47:07.127Z")
+		"_creationTime" : ISODate("2020-09-09T19:47:07.127Z"),
+		"_updateTime" : ISODate("2020-10-26T20:56:10.204Z")
 	},
 	{
 		"_id" : "nO4iXiumB",
-		"name" : "Séance de post-it pour les capteurs de liens",
-		"description" : "<p>Séance de post-it pour les capteurs de liens :  Barbara Blin-Barrois en tirera l'inspiration pour l'extraordinaire glossaire du livre</p>",
+		"name" : "Photo - Séance de post-it pour les capteurs de liens",
+		"description" : "<p>Séance de post-it pour les capteurs de liens : Barbara Blin-Barrois en tirera l'inspiration pour l'extraordinaire glossaire du livre</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/EZ3B7x7PusaGuyv",
 		"thematique" : [
@@ -2466,11 +2476,11 @@
 		"_user" : null,
 		"_pos" : 1599681097795,
 		"_creationTime" : ISODate("2020-09-09T19:51:37.795Z"),
-		"_updateTime" : ISODate("2020-10-23T09:06:13.813Z")
+		"_updateTime" : ISODate("2020-10-26T20:55:59.791Z")
 	},
 	{
 		"_id" : "s_HrLFnwI",
-		"name" : "Séance de post-it pour les capteurs de liens",
+		"name" : "Photo - Séance de post-it pour les capteurs de liens",
 		"description" : "<p>Séance de post-it pour les capteurs de liens</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/WxXo9XPsmAFS1X4",
@@ -2481,11 +2491,12 @@
 		"timeline" : "lesautresmomentsinformels",
 		"_user" : null,
 		"_pos" : 1599681564114,
-		"_creationTime" : ISODate("2020-09-09T19:59:24.114Z")
+		"_creationTime" : ISODate("2020-09-09T19:59:24.114Z"),
+		"_updateTime" : ISODate("2020-10-26T20:55:52.444Z")
 	},
 	{
 		"_id" : "v15b08Jye",
-		"name" : "Capteur de liens en action",
+		"name" : "Photo - Capteur de liens en action",
 		"description" : "<p>Barbara Blin-Barrois lors d'une séance de travail des capteurs de liens</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/cYhzPQFEjGYl7ub",
@@ -2497,11 +2508,12 @@
 		"timeline" : "lesautresmomentsinformels",
 		"_user" : null,
 		"_pos" : 1599681786007,
-		"_creationTime" : ISODate("2020-09-09T20:03:06.007Z")
+		"_creationTime" : ISODate("2020-09-09T20:03:06.007Z"),
+		"_updateTime" : ISODate("2020-10-26T20:55:41.801Z")
 	},
 	{
 		"_id" : "CwvLN8x73",
-		"name" : "Séance de post-it pour Elisabetta Bucolo",
+		"name" : "Photo - Séance de post-it pour Elisabetta Bucolo",
 		"description" : "<p>Séance de post-it avec l'équipe des capteurs de liens pour Elisabetta Bucolo</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/z0L9pvadghQ79Xl",
@@ -2512,11 +2524,12 @@
 		"timeline" : "lesautresmomentsinformels",
 		"_user" : null,
 		"_pos" : 1599682019170,
-		"_creationTime" : ISODate("2020-09-09T20:06:59.170Z")
+		"_creationTime" : ISODate("2020-09-09T20:06:59.170Z"),
+		"_updateTime" : ISODate("2020-10-26T20:55:34.568Z")
 	},
 	{
 		"_id" : "kTziHIpaA",
-		"name" : "La rencontre entre Marc et Giuseppe",
+		"name" : "Photo - La rencontre entre Marc Lourdaux et Giuseppe Li Rosi",
 		"description" : "<p>La rencontre à Cerisy comme point de départ de l'idée de l'économie poétique</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/YXn6QvYPWNheMbM",
@@ -2529,11 +2542,12 @@
 		"timeline" : "lesautresmomentsinformels",
 		"_user" : null,
 		"_pos" : 1599682267759,
-		"_creationTime" : ISODate("2020-09-09T20:11:07.759Z")
+		"_creationTime" : ISODate("2020-09-09T20:11:07.759Z"),
+		"_updateTime" : ISODate("2020-10-26T20:55:26.400Z")
 	},
 	{
 		"_id" : "kwdgz8rU3",
-		"name" : "La conférence plénière de Lionel Maurel",
+		"name" : "Photo - La conférence plénière de Lionel Maurel",
 		"description" : "<p>La conférence plénière de Lionel Maurel fait réfléchir à l'atterrissage du numérique</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/DwUQX9auZbzWecz",
@@ -2546,11 +2560,11 @@
 		"_user" : null,
 		"_pos" : 1599682564263,
 		"_creationTime" : ISODate("2020-09-09T20:16:04.263Z"),
-		"_updateTime" : ISODate("2020-10-23T12:30:06.913Z")
+		"_updateTime" : ISODate("2020-10-26T20:54:55.900Z")
 	},
 	{
 		"_id" : "acCF7qfhM",
-		"name" : "Questions et réactions du public après la conférence plénière de Lionel Maurel",
+		"name" : "Photo - Questions et réactions du public après la conférence plénière de Lionel Maurel",
 		"description" : "<p>Les questions et réactions du public après la conférence plénière n°2 de Lionel Maurel</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/Ox8DjiClMgFGqGz",
@@ -2564,11 +2578,11 @@
 		"_user" : null,
 		"_pos" : 1599682779249,
 		"_creationTime" : ISODate("2020-09-09T20:19:39.249Z"),
-		"_updateTime" : ISODate("2020-10-23T14:35:50.281Z")
+		"_updateTime" : ISODate("2020-10-26T20:54:47.159Z")
 	},
 	{
 		"_id" : "JPYxWZ9no",
-		"name" : "Image de la table ronde n°6",
+		"name" : "Photo - Table-ronde n°6",
 		"description" : "<p>Les représentants des grandes entreprises à la table-ronde n°6 \"Grande entreprise et territoires\"</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/RDuY2iMlLIshZLt",
@@ -2583,11 +2597,11 @@
 		"_user" : null,
 		"_pos" : 1599730856110,
 		"_creationTime" : ISODate("2020-09-10T09:40:56.110Z"),
-		"_updateTime" : ISODate("2020-10-23T13:41:55.488Z")
+		"_updateTime" : ISODate("2020-10-26T20:54:25.081Z")
 	},
 	{
 		"_id" : "f4DcQjYoC",
-		"name" : "Image de la salle durant la table ronde n°6",
+		"name" : "Photo -  La salle durant la table-ronde n°6",
 		"description" : "<p>Un auditoire attentif aux propos des intervenants sur le thème des liens entre la grande entreprise et les territoires</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/cisOtbICgEoz65Q",
@@ -2601,11 +2615,12 @@
 		"timeline" : "tr6grandeentrepriseetterritoire",
 		"_user" : null,
 		"_pos" : 1599731036477,
-		"_creationTime" : ISODate("2020-09-10T09:43:56.477Z")
+		"_creationTime" : ISODate("2020-09-10T09:43:56.477Z"),
+		"_updateTime" : ISODate("2020-10-26T20:53:39.657Z")
 	},
 	{
 		"_id" : "CaR-RumAd",
-		"name" : "Image de la table ronde sur \"Grande entreprise et territoires\"",
+		"name" : "Photo - Table-ronde n°6",
 		"description" : "<p>La table-ronde n°6 explorant les liens entre \"Grande entreprise et territoires\"</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/4w7yOArh1o1bwAc",
@@ -2619,12 +2634,12 @@
 		"_user" : null,
 		"_pos" : 1599731257563,
 		"_creationTime" : ISODate("2020-09-10T09:47:37.563Z"),
-		"_updateTime" : ISODate("2020-10-23T13:42:22.010Z")
+		"_updateTime" : ISODate("2020-10-26T21:14:33.407Z")
 	},
 	{
 		"_id" : "9LQbxhUq-",
-		"name" : "Intervention d'Eric Lesueur",
-		"description" : "<p>Intervention d'Eric Lesueur</p>",
+		"name" : "Photo - Intervention d'Eric Lesueur lors de la table-ronde n°6",
+		"description" : "<p>Intervention d'Eric Lesueur&nbsp;lors de la table-ronde n°6</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/swC8h0m8PF3O2rZ",
 		"thematique" : [
@@ -2633,12 +2648,13 @@
 		"timeline" : "tr6grandeentrepriseetterritoire",
 		"_user" : null,
 		"_pos" : 1599731375248,
-		"_creationTime" : ISODate("2020-09-10T09:49:35.248Z")
+		"_creationTime" : ISODate("2020-09-10T09:49:35.248Z"),
+		"_updateTime" : ISODate("2020-10-26T21:15:03.685Z")
 	},
 	{
 		"_id" : "PQVrbLjaE",
-		"name" : "Intervention d'Eric Lesueur",
-		"description" : "<p>Intervention d'Eric Lesueur</p>",
+		"name" : "Photo - Intervention d'Eric Lesueur  lors de la table-ronde n°6",
+		"description" : "<p>Intervention d'Eric Lesueur &nbsp;lors de la table-ronde n°6</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/swC8h0m8PF3O2rZ",
 		"thematique" : [
@@ -2647,12 +2663,13 @@
 		"timeline" : "tr6grandeentrepriseetterritoire",
 		"_user" : null,
 		"_pos" : 1599731426468,
-		"_creationTime" : ISODate("2020-09-10T09:50:26.468Z")
+		"_creationTime" : ISODate("2020-09-10T09:50:26.468Z"),
+		"_updateTime" : ISODate("2020-10-26T21:15:19.421Z")
 	},
 	{
 		"_id" : "SFvpUTusT",
-		"name" : "Intervention de Fabien Jouron",
-		"description" : "<p>Intervention de Fabien Jouron</p>",
+		"name" : "Photo - Intervention de Fabien Jouron lors de la table-ronde n°6",
+		"description" : "<p>Intervention de Fabien Jouron lors de la table-ronde n°6</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/YricjmiSmYzWcWf",
 		"thematique" : [
@@ -2661,12 +2678,13 @@
 		"timeline" : "tr6grandeentrepriseetterritoire",
 		"_user" : null,
 		"_pos" : 1599731523786,
-		"_creationTime" : ISODate("2020-09-10T09:52:03.786Z")
+		"_creationTime" : ISODate("2020-09-10T09:52:03.786Z"),
+		"_updateTime" : ISODate("2020-10-26T21:15:37.207Z")
 	},
 	{
 		"_id" : "7n-Qd9fbO",
-		"name" : "Intervention de Sylvain Baudet",
-		"description" : "<p>Intervention de Sylvain Baudet</p>",
+		"name" : "Photo - Intervention de Sylvain Baudet lors de la table-ronde n°6",
+		"description" : "<p>Intervention de Sylvain Baudet&nbsp;lors de la table-ronde n°6</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/34ji1kVddWW4y6Z",
 		"thematique" : [
@@ -2675,11 +2693,12 @@
 		"timeline" : "tr6grandeentrepriseetterritoire",
 		"_user" : null,
 		"_pos" : 1599732115041,
-		"_creationTime" : ISODate("2020-09-10T10:01:55.041Z")
+		"_creationTime" : ISODate("2020-09-10T10:01:55.041Z"),
+		"_updateTime" : ISODate("2020-10-26T21:15:56.586Z")
 	},
 	{
 		"_id" : "xBFvlZHT0",
-		"name" : "Le tableau journalier annonçant la table ronde sur culture et communs",
+		"name" : "Photo - Le tableau journalier annonçant la table-ronde sur culture et communs",
 		"description" : "<p>Le tableau journalier annonçant la table-ronde \"Culture et communs\" en session parallèle avec celle explorant les liens entre \"Grande entreprise et territoires\"</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/2fofU0iaDV3eR8Z",
@@ -2693,12 +2712,12 @@
 		"_user" : null,
 		"_pos" : 1599734608496,
 		"_creationTime" : ISODate("2020-09-10T10:43:28.496Z"),
-		"_updateTime" : ISODate("2020-10-23T13:41:42.196Z")
+		"_updateTime" : ISODate("2020-10-26T21:30:20.892Z")
 	},
 	{
 		"_id" : "0mTaSQONV",
-		"name" : "Intervention d'Hervé Defalvard lors du troisième débat public",
-		"description" : "<p>Intervention d'Hervé Defalvard lors du débat public avec Nicolas Chochoy</p>",
+		"name" : "Photo - Intervention d'Hervé Defalvard lors du débat public n°3",
+		"description" : "<p>Intervention d'Hervé Defalvard lors du débat public n°3 avec Nicolas Chochoy</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/89bUa4nSNhAlama",
 		"thematique" : [
@@ -2711,11 +2730,11 @@
 		"_user" : null,
 		"_pos" : 1599742082685,
 		"_creationTime" : ISODate("2020-09-10T12:48:02.685Z"),
-		"_updateTime" : ISODate("2020-09-10T12:52:00.696Z")
+		"_updateTime" : ISODate("2020-10-26T21:16:34.278Z")
 	},
 	{
 		"_id" : "6DEFYJIqS",
-		"name" : "DP 3 - Intervention d'Hervé Defalvard",
+		"name" : "Photo -Intervention d'Hervé Defalvard lors du débat public n°3",
 		"description" : "<p>Hervé Defalvard, retraçant les ruptures entre le néolibéralisme et le libéralisme, nous a utilement rappelé, lors du débat public n°3 \"Valeurs et communs pour les territoires\", qu’il était possible de changer de représentation du monde</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/JAVTr0sma4tf1O5",
@@ -2728,11 +2747,11 @@
 		"_user" : null,
 		"_pos" : 1599742309656,
 		"_creationTime" : ISODate("2020-09-10T12:51:49.656Z"),
-		"_updateTime" : ISODate("2020-10-23T12:08:08.709Z")
+		"_updateTime" : ISODate("2020-10-26T21:13:13.277Z")
 	},
 	{
 		"_id" : "5ATFApoDn",
-		"name" : "DP3 - Les participants",
+		"name" : "Photo - Les participants lors du débat public n°3",
 		"description" : "<p>Les participants réunis dans la salle de la bibliothèque du château à l'occasion du débat public n°3 \"Valeurs et communs pour les territoires\"</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/l5dmnVJqim62rZO",
@@ -2745,12 +2764,12 @@
 		"_user" : null,
 		"_pos" : 1599742478957,
 		"_creationTime" : ISODate("2020-09-10T12:54:38.957Z"),
-		"_updateTime" : ISODate("2020-10-23T12:07:36.374Z")
+		"_updateTime" : ISODate("2020-10-26T21:13:36.802Z")
 	},
 	{
 		"_id" : "e6clRvopt",
-		"name" : "Intervention de Nicolas Chochoy",
-		"description" : "<p>Nicolas Chochoy lors du débat public \"Valeurs et communs pour les territoires\" nous propose de changer de regard sur la valeur</p>",
+		"name" : "Photo - Intervention de Nicolas Chochoy au débat public n°3",
+		"description" : "<p>Nicolas Chochoy lors du débat public n°3 \"Valeurs et communs pour les territoires\" nous propose de changer de regard sur la valeur</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/Mb9n7PfRlbA0wA0",
 		"thematique" : [
@@ -2762,11 +2781,11 @@
 		"_user" : null,
 		"_pos" : 1599742672464,
 		"_creationTime" : ISODate("2020-09-10T12:57:52.464Z"),
-		"_updateTime" : ISODate("2020-10-23T09:03:58.215Z")
+		"_updateTime" : ISODate("2020-10-26T21:17:15.332Z")
 	},
 	{
 		"_id" : "W4fo7KYzJ",
-		"name" : "DP 3 - Réponse aux questions de la salle",
+		"name" : "Photo - DP 3 - Réponse aux questions de la salle",
 		"description" : "<p>Réponse aux questions de la salle lors du débat public n°3 \"Valeurs et communs pour les territoires\"</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/YQCU8tTWbxMU85h",
@@ -2780,11 +2799,11 @@
 		"_user" : null,
 		"_pos" : 1599742880343,
 		"_creationTime" : ISODate("2020-09-10T13:01:20.343Z"),
-		"_updateTime" : ISODate("2020-10-23T12:07:26.271Z")
+		"_updateTime" : ISODate("2020-10-26T20:50:12.235Z")
 	},
 	{
 		"_id" : "fAiAl0N0p",
-		"name" : "La salle durant la Table ronde n°8",
+		"name" : "Photo - La salle durant la table-ronde n°8",
 		"description" : "<p>Le public dans la salle de la laiterie durant la table-ronde n°8 \"Habiter en commun les territoires\"</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/uzYu11mPQHTsHW2",
@@ -2800,11 +2819,11 @@
 		"_user" : null,
 		"_pos" : 1599743931611,
 		"_creationTime" : ISODate("2020-09-10T13:18:51.611Z"),
-		"_updateTime" : ISODate("2020-10-23T13:41:17.228Z")
+		"_updateTime" : ISODate("2020-10-26T21:30:57.143Z")
 	},
 	{
 		"_id" : "4mn9JHTqe",
-		"name" : "Intervention de Camille Fontenelle",
+		"name" : "Photo - Intervention de Camille Fontenelle",
 		"description" : "<p>Camille Fontenelle nous parle d'EnerTerre avant la visite de terrain de l'après midi</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/5rRlFdJZS5yMIRi",
@@ -2816,11 +2835,12 @@
 		"timeline" : "tr8habiterencommunlesterritoires",
 		"_user" : null,
 		"_pos" : 1599749552077,
-		"_creationTime" : ISODate("2020-09-10T14:52:32.077Z")
+		"_creationTime" : ISODate("2020-09-10T14:52:32.077Z"),
+		"_updateTime" : ISODate("2020-10-26T20:49:35.340Z")
 	},
 	{
 		"_id" : "jQPwcqhRZ",
-		"name" : "Questions dans la salle lors de la table ronde N°8",
+		"name" : "Photo - Questions dans la salle lors de la table-ronde n°8",
 		"description" : "<p>Questions dans la salle lors de la table-ronde n°8 \"Habiter en commun les territoires\"</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/DzQwX2etYDKxuSN",
@@ -2831,11 +2851,11 @@
 		"_user" : null,
 		"_pos" : 1599749647482,
 		"_creationTime" : ISODate("2020-09-10T14:54:07.482Z"),
-		"_updateTime" : ISODate("2020-10-23T13:41:07.320Z")
+		"_updateTime" : ISODate("2020-10-26T21:31:25.194Z")
 	},
 	{
 		"_id" : "-vuJUooWz",
-		"name" : "Les organisateurs remercient l'équipe des cuisines du château",
+		"name" : "Photo - Les organisateurs remercient l'équipe des cuisines du château",
 		"description" : "<p>Moment traditionnel pour chaque colloque de Cerisy : les organisateurs remercient l'équipe des cuisines du château pour l'excellence des repas préparés</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/COPWimrFwPyqp0w",
@@ -2847,11 +2867,11 @@
 		"_user" : null,
 		"_pos" : 1599750878549,
 		"_creationTime" : ISODate("2020-09-10T15:14:38.549Z"),
-		"_updateTime" : ISODate("2020-10-23T09:02:19.141Z")
+		"_updateTime" : ISODate("2020-10-26T20:48:57.985Z")
 	},
 	{
 		"_id" : "gx1JiTA1q",
-		"name" : "Image de la soirée avec Jacques Jouet ",
+		"name" : "Photo - Soirée avec Jacques Jouet ",
 		"description" : "<p>Jacques Jouet explique le Projet Poétique Planétaire</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/TlNjb6p4CnOp1U6",
@@ -2865,11 +2885,11 @@
 		"_user" : null,
 		"_pos" : 1599751746995,
 		"_creationTime" : ISODate("2020-09-10T15:29:06.995Z"),
-		"_updateTime" : ISODate("2020-10-23T09:02:10.307Z")
+		"_updateTime" : ISODate("2020-10-26T20:48:49.450Z")
 	},
 	{
 		"_id" : "9iCiaG7z4",
-		"name" : "Image de la table ronde n°3 ",
+		"name" : "Photo - Table-ronde n°3 ",
 		"description" : "<p>Intervention d'Arnaud Assié lors de la table-ronde n°3 \"Énergie durable et territoire\"</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/qBoaSMZBeo2ua7p",
@@ -2884,11 +2904,11 @@
 		"_user" : null,
 		"_pos" : 1599751908139,
 		"_creationTime" : ISODate("2020-09-10T15:31:48.139Z"),
-		"_updateTime" : ISODate("2020-10-23T10:02:20.034Z")
+		"_updateTime" : ISODate("2020-10-26T21:17:46.519Z")
 	},
 	{
 		"_id" : "Jxa93aCWZ",
-		"name" : "Détente après la table ronde n°3",
+		"name" : "Photo - Détente après la table-ronde n°3",
 		"description" : "<p>Arnaud Assié et Michel Carré après leurs échanges lors de la table-ronde n°3 \"Énergie durable et territoire\"</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/psTI3O0RCwDIGn0",
@@ -2900,11 +2920,11 @@
 		"_user" : null,
 		"_pos" : 1599752795610,
 		"_creationTime" : ISODate("2020-09-10T15:46:35.610Z"),
-		"_updateTime" : ISODate("2020-10-23T13:40:45.528Z")
+		"_updateTime" : ISODate("2020-10-26T21:31:43.859Z")
 	},
 	{
 		"_id" : "FYBBFvX1N",
-		"name" : "Capteurs de liens au travail",
+		"name" : "Photo - Capteurs de liens au travail",
 		"description" : "<p>Séance de travail pour les capteurs de liens</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/4oaFmY0oZIGDYNN",
@@ -2915,11 +2935,12 @@
 		"timeline" : "lelivre",
 		"_user" : null,
 		"_pos" : 1599752904895,
-		"_creationTime" : ISODate("2020-09-10T15:48:24.895Z")
+		"_creationTime" : ISODate("2020-09-10T15:48:24.895Z"),
+		"_updateTime" : ISODate("2020-10-26T20:47:58.350Z")
 	},
 	{
 		"_id" : "DfjXa_39g",
-		"name" : " Séance de post-it pour les capteurs de liens",
+		"name" : "Photo - Séance de post-it pour les capteurs de liens",
 		"description" : "<p>Séance de travail des capteurs de liens pour générer et classer les post-it qui serviront de base à la structuration du site compagnon</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/3uytnqftcEzSgyJ",
@@ -2931,11 +2952,11 @@
 		"_user" : null,
 		"_pos" : 1599753028340,
 		"_creationTime" : ISODate("2020-09-10T15:50:28.340Z"),
-		"_updateTime" : ISODate("2020-10-23T10:17:37.612Z")
+		"_updateTime" : ISODate("2020-10-26T20:47:44.497Z")
 	},
 	{
 		"_id" : "OxFdsuSXD",
-		"name" : "Séance de travail des capteurs de liens",
+		"name" : "Photo - Séance de travail des capteurs de liens",
 		"description" : "<p>Tous concentrés lors d'une séance de travail des capteurs de liens</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/nivsF1wa6ZI5fjK",
@@ -2947,11 +2968,12 @@
 		"timeline" : "lelivre",
 		"_user" : null,
 		"_pos" : 1599753144007,
-		"_creationTime" : ISODate("2020-09-10T15:52:24.007Z")
+		"_creationTime" : ISODate("2020-09-10T15:52:24.007Z"),
+		"_updateTime" : ISODate("2020-10-26T20:47:31.001Z")
 	},
 	{
 		"_id" : "s58BwbXJu",
-		"name" : "Le potager",
+		"name" : "Photo - Le potager",
 		"description" : "<p>Le potager du château</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/n7gMWub3dx8F3zM",
@@ -2963,11 +2985,11 @@
 		"_user" : null,
 		"_pos" : 1599753350029,
 		"_creationTime" : ISODate("2020-09-10T15:55:50.029Z"),
-		"_updateTime" : ISODate("2020-09-10T15:58:17.410Z")
+		"_updateTime" : ISODate("2020-10-26T20:47:24.666Z")
 	},
 	{
 		"_id" : "K5r6HBsXc",
-		"name" : "Le parc",
+		"name" : "Photo - Le parc",
 		"description" : "<p>Les arbres du parc</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/fGwRdU2kqsZMmPz",
@@ -2980,12 +3002,13 @@
 		"timeline" : "tr8habiterencommunlesterritoires",
 		"_user" : null,
 		"_pos" : 1599753485726,
-		"_creationTime" : ISODate("2020-09-10T15:58:05.726Z")
+		"_creationTime" : ISODate("2020-09-10T15:58:05.726Z"),
+		"_updateTime" : ISODate("2020-10-26T20:47:14.811Z")
 	},
 	{
 		"_id" : "CciokEbPB",
-		"name" : "Le verger",
-		"description" : "<p>Le verger et le potager </p>",
+		"name" : "Photo - Le verger",
+		"description" : "<p>Le verger et le potager</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/Ut60NkRZ2c4WNa8",
 		"thematique" : [
@@ -2995,12 +3018,13 @@
 		"timeline" : "tr1ressourcesdesterritoiresareveler",
 		"_user" : null,
 		"_pos" : 1599762020794,
-		"_creationTime" : ISODate("2020-09-10T18:20:20.794Z")
+		"_creationTime" : ISODate("2020-09-10T18:20:20.794Z"),
+		"_updateTime" : ISODate("2020-10-26T20:47:08.667Z")
 	},
 	{
 		"_id" : "AgN8DEiD5",
-		"name" : "Intervention de Denis Dupré",
-		"description" : "<p>Le récit d'une uchronie par Denis Dupré dans le cadre du débat public n°6</p>",
+		"name" : "Photo - Intervention de Denis Dupré",
+		"description" : "<p>Le récit d'une uchronie par Denis Dupré dans le cadre du débat public n°6 \"Monnaie et commun\"</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/YLQZUz1Dz1bqGFa",
 		"thematique" : [
@@ -3012,11 +3036,11 @@
 		"_user" : null,
 		"_pos" : 1599762254346,
 		"_creationTime" : ISODate("2020-09-10T18:24:14.346Z"),
-		"_updateTime" : ISODate("2020-10-23T09:01:30.311Z")
+		"_updateTime" : ISODate("2020-10-26T21:18:39.630Z")
 	},
 	{
 		"_id" : "IO0eqI6W5",
-		"name" : "Le débat public n°6 dans la bibliothèque",
+		"name" : "Photo - Le débat public n°6 dans la bibliothèque",
 		"description" : "<p>Le débat public n°6 \"Monnaie et commun\" dans la bibliothèque</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/Z2Ypw3fOazqc54v",
@@ -3032,12 +3056,12 @@
 		"_user" : null,
 		"_pos" : 1599765133096,
 		"_creationTime" : ISODate("2020-09-10T19:12:13.096Z"),
-		"_updateTime" : ISODate("2020-10-23T09:01:15.193Z")
+		"_updateTime" : ISODate("2020-10-26T20:46:49.604Z")
 	},
 	{
 		"_id" : "tLTXrcxnF",
-		"name" : "Intervention de Denis Dupré",
-		"description" : "<p> Denis Dupré nous narre une uchronie sur le rôle de la monnaie dans le cadre du futur effondrement de notre société thermo-industrielle</p>",
+		"name" : "Photo - Intervention de Denis Dupré",
+		"description" : "<p>Denis Dupré nous narre une uchronie sur le rôle de la monnaie dans le cadre du futur effondrement de notre société thermo-industrielle</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/qwT7FzuBfsJuE81",
 		"thematique" : [
@@ -3050,11 +3074,11 @@
 		"_user" : null,
 		"_pos" : 1599765468562,
 		"_creationTime" : ISODate("2020-09-10T19:17:48.562Z"),
-		"_updateTime" : ISODate("2020-10-23T09:00:56.411Z")
+		"_updateTime" : ISODate("2020-10-26T20:46:42.499Z")
 	},
 	{
 		"_id" : "Jyc7IIrRm",
-		"name" : "Intervention de Marie Fare",
+		"name" : "Photo - Intervention de Marie Fare",
 		"description" : "<p>Marie Fare revisite la monnaie à l'aune des communs</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/YAWMJmfay6yG4LN",
@@ -3067,7 +3091,8 @@
 		"timeline" : "dp6monnaieetcommun",
 		"_user" : null,
 		"_pos" : 1599765643893,
-		"_creationTime" : ISODate("2020-09-10T19:20:43.893Z")
+		"_creationTime" : ISODate("2020-09-10T19:20:43.893Z"),
+		"_updateTime" : ISODate("2020-10-26T20:46:35.087Z")
 	},
 	{
 		"_id" : "NdOmE2K2B",
@@ -3104,7 +3129,7 @@
 	{
 		"_id" : "xpDSbxbCr",
 		"name" : "Photo - Question de Jean-Louis Bancel",
-		"description" : "<p>La parole est à la salle lors du débat public \"Critères et outils de gestion et commun\"</p>",
+		"description" : "<p>La parole est à la salle. Intervention de Jean-Louis Bancel lors du débat public n°7 \"Critères et outils de gestion et commun\"</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/kSy3YDriv0va5Lj",
 		"thematique" : [
@@ -3116,7 +3141,7 @@
 		"_user" : null,
 		"_pos" : 1599766951513,
 		"_creationTime" : ISODate("2020-09-10T19:42:31.513Z"),
-		"_updateTime" : ISODate("2020-10-26T20:46:11.953Z")
+		"_updateTime" : ISODate("2020-10-26T22:26:30.138Z")
 	},
 	{
 		"_id" : "rjg1WcCF0",
@@ -3291,7 +3316,7 @@
 	},
 	{
 		"_id" : "QoM-xN4gt",
-		"name" : "Photo - Notes prises pendant la table d'enjeux et de controverses \"Pouvoirs publics et communs\"",
+		"name" : "Photo - Notes prises pendant la table d'enjeux et de controverses n°2",
 		"description" : "<p>Les notes prises pendant la table d'enjeux et de controverse \"Pouvoirs publics et communs\" : municipalisme, intérêt général...</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/RlvcUROjeZ8gGQe",
@@ -3303,7 +3328,7 @@
 		"_user" : null,
 		"_pos" : 1599844341512,
 		"_creationTime" : ISODate("2020-09-11T17:12:21.512Z"),
-		"_updateTime" : ISODate("2020-10-23T15:10:31.804Z")
+		"_updateTime" : ISODate("2020-10-26T21:21:47.145Z")
 	},
 	{
 		"_id" : "_NyAnM7je",
@@ -3458,7 +3483,7 @@
 	},
 	{
 		"_id" : "Lio4a5ezw",
-		"name" : "Photo - Ping-Pong",
+		"name" : "Photo - Ping-pong",
 		"description" : "<p>Jean-Christophe est imbattable... Il s'entraîne régulièrement à la table de ping-pong dans les caves du château</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/fLO0Pl0tiP7oW9I",
@@ -3469,7 +3494,7 @@
 		"_user" : null,
 		"_pos" : 1599849160342,
 		"_creationTime" : ISODate("2020-09-11T18:32:40.342Z"),
-		"_updateTime" : ISODate("2020-10-26T20:42:56.968Z")
+		"_updateTime" : ISODate("2020-10-26T21:20:52.294Z")
 	},
 	{
 		"_id" : "Hbt4pZzot",
@@ -3520,7 +3545,7 @@
 	{
 		"_id" : "xfEbBp_4k",
 		"name" : "Photo - Intervention de Viviane Hamon",
-		"description" : "<p>La découverte des Systèmes Participatifs de Garantie comme outil de gestion des communs avec Viviane Hamon</p>",
+		"description" : "<p>La découverte des Systèmes participatifs de Garantie comme outil de gestion des communs avec Viviane Hamon</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/t3zfKlweGZAMJtl",
 		"thematique" : [
@@ -3532,7 +3557,7 @@
 		"_user" : null,
 		"_pos" : 1599853172018,
 		"_creationTime" : ISODate("2020-09-11T19:39:32.018Z"),
-		"_updateTime" : ISODate("2020-10-26T20:42:32.913Z")
+		"_updateTime" : ISODate("2020-10-26T23:13:36.943Z")
 	},
 	{
 		"_id" : "10aWlozBK",
@@ -3794,7 +3819,7 @@
 	},
 	{
 		"_id" : "Q2UkZ7jFF",
-		"name" : "Photo - Table-ronde n°8 - Habiter en commun les territoires",
+		"name" : "Photo - Table-ronde n°8",
 		"description" : "<p>Table-ronde n°8 \"Habiter en commun les territoires\"</p>",
 		"type" : "image",
 		"url" : "https://cloud.scic-tetris.org/s/Rmb2sv8flvuqGMI",
@@ -3807,7 +3832,7 @@
 		"_user" : null,
 		"_pos" : 1600102086892,
 		"_creationTime" : ISODate("2020-09-14T16:48:06.892Z"),
-		"_updateTime" : ISODate("2020-10-26T20:40:05.400Z")
+		"_updateTime" : ISODate("2020-10-26T21:21:20.729Z")
 	},
 	{
 		"_id" : "jTPFgxPfV",
@@ -3847,8 +3872,8 @@
 	},
 	{
 		"_id" : "n4z1RzLnQ",
-		"name" : "Entretien avec Fatima Mostafaoui",
-		"description" : "<p>Entretien vidéo avec Fatima Mostafaoui sur l'expérience des habitants du quartier des Flamants à Marseille</p>",
+		"name" : "Vidéo - Entretien avec Fatima Mostafaoui",
+		"description" : "<p>Entretien filmé avec Fatima Mostafaoui sur l'expérience des habitants du quartier des Flamants à Marseille</p>",
 		"type" : "video",
 		"url" : "https://cloud.scic-tetris.org/s/9UK3eLz2DVa18Vq",
 		"thematique" : [
@@ -3864,12 +3889,12 @@
 		"_user" : null,
 		"_pos" : 1600249613692,
 		"_creationTime" : ISODate("2020-09-16T09:46:53.692Z"),
-		"_updateTime" : ISODate("2020-10-23T08:50:26.484Z")
+		"_updateTime" : ISODate("2020-10-26T22:21:29.422Z")
 	},
 	{
 		"_id" : "ITzxbLP1I",
-		"name" : "Entretien avec Fatima Mostafaoui et Claude Sicart",
-		"description" : "<p>Manifestation d'un lien translocal entre des acteurs des tables-rondes 1 et 2</p>",
+		"name" : "Vidéo - Entretien avec Fatima Mostafaoui et Claude Sicart",
+		"description" : "<p>Manifestation d'un lien translocal entre des acteurs des tables-rondes n°1 et 2</p>",
 		"type" : "video",
 		"url" : "https://cloud.scic-tetris.org/s/fkcZmCTBKpzU6Bx",
 		"thematique" : [
@@ -3885,12 +3910,12 @@
 		"_user" : null,
 		"_pos" : 1600249764639,
 		"_creationTime" : ISODate("2020-09-16T09:49:24.639Z"),
-		"_updateTime" : ISODate("2020-10-23T08:49:58.604Z")
+		"_updateTime" : ISODate("2020-10-26T22:20:08.800Z")
 	},
 	{
 		"_id" : "XM1pWgZZp",
-		"name" : "Entretien avec Giuseppe Li Rosi",
-		"description" : "<p>Entretien avec Giuseppe Li Rosi sur l'initiative collective autour des semences sur le territoire sicilien (patientez, la vidéo met un peu de temps à charger)</p>",
+		"name" : "Vidéà - Entretien avec Giuseppe Li Rosi",
+		"description" : "<p>Entretien filmé avec Giuseppe Li Rosi sur l'initiative collective autour des semences sur le territoire sicilien (patientez, la vidéo charge lentement)</p>",
 		"type" : "video",
 		"url" : "https://cloud.scic-tetris.org/s/WeDKYYsKYDFtJzI",
 		"thematique" : [
@@ -3905,12 +3930,13 @@
 		"timeline" : "tr4systemesalimentairessolidairesterritorialises",
 		"_user" : null,
 		"_pos" : 1600250243691,
-		"_creationTime" : ISODate("2020-09-16T09:57:23.691Z")
+		"_creationTime" : ISODate("2020-09-16T09:57:23.691Z"),
+		"_updateTime" : ISODate("2020-10-26T22:23:18.438Z")
 	},
 	{
 		"_id" : "EVb8DzwNy",
-		"name" : "Entretien avec Marc Lourdaux",
-		"description" : "<p>Entretien avec Marc Lourdaux sur l'initiative d'Echanges Paysans Hautes Alpes (patientez, la vidéo charge lentement !)</p>",
+		"name" : "Vidéo - Entretien avec Marc Lourdaux",
+		"description" : "<p>Entretien filmé avec Marc Lourdaux sur l'initiative d'Echanges Paysans Hautes Alpes (patientez, la vidéo charge lentement)</p>",
 		"type" : "video",
 		"url" : "https://cloud.scic-tetris.org/s/QDpGejvOJ9VzdZI",
 		"thematique" : [
@@ -3925,12 +3951,12 @@
 		"_user" : null,
 		"_pos" : 1600250580330,
 		"_creationTime" : ISODate("2020-09-16T10:03:00.330Z"),
-		"_updateTime" : ISODate("2020-10-23T08:49:31.120Z")
+		"_updateTime" : ISODate("2020-10-26T22:23:29.040Z")
 	},
 	{
 		"_id" : "zDjHEKO11",
-		"name" : "Entretien avec Olivier Benoit",
-		"description" : "<p>Entretien avec Olivier Benoit sur l'expérience de santé communautaire de l'association AIDES </p>",
+		"name" : "Vidéo - Entretien avec Olivier Benoit",
+		"description" : "<p>Entretien filmé avec Olivier Benoit sur l'expérience de santé communautaire de l'association AIDES</p>",
 		"type" : "video",
 		"url" : "https://cloud.scic-tetris.org/s/m4lURWCoTciMGQn",
 		"thematique" : [
@@ -3943,12 +3969,13 @@
 		"timeline" : "tr7echellesterritorialesdelasanteencommun",
 		"_user" : null,
 		"_pos" : 1600250742317,
-		"_creationTime" : ISODate("2020-09-16T10:05:42.317Z")
+		"_creationTime" : ISODate("2020-09-16T10:05:42.317Z"),
+		"_updateTime" : ISODate("2020-10-26T22:22:41.267Z")
 	},
 	{
 		"_id" : "n-cfSQ8tw",
-		"name" : "Entretien avec Corinne Bébin",
-		"description" : "<p>Entretien avec Corinne Bébin sur le territoire de Versailles Grand Âge</p>",
+		"name" : "Vidéo - Entretien avec Corinne Bébin",
+		"description" : "<p>Entretien filmé avec Corinne Bébin sur le territoire de Versailles Grand Âge</p>",
 		"type" : "video",
 		"url" : "https://cloud.scic-tetris.org/s/kyrV8Nr9TRoDIaT",
 		"thematique" : [
@@ -3963,12 +3990,12 @@
 		"_user" : null,
 		"_pos" : 1600260965355,
 		"_creationTime" : ISODate("2020-09-16T12:56:05.355Z"),
-		"_updateTime" : ISODate("2020-09-16T13:01:40.310Z")
+		"_updateTime" : ISODate("2020-10-26T22:22:49.567Z")
 	},
 	{
 		"_id" : "Tbwxw-zT6",
-		"name" : "Entretien avec Rachid Cherfaoui",
-		"description" : "<p>Entretien avec Rachid Cherfaoui sur l’approche du translocalisme dans l'expérience de la Maison d'Economie Solidaire</p>",
+		"name" : "Vidéo - Entretien avec Rachid Cherfaoui",
+		"description" : "<p>Entretien filmé avec Rachid Cherfaoui sur l’approche du translocalisme dans l'expérience de la Maison d'Economie Solidaire</p>",
 		"type" : "video",
 		"url" : "https://cloud.scic-tetris.org/s/O64KxXNQMZ2Lwhc",
 		"thematique" : [
@@ -3982,7 +4009,7 @@
 		"_user" : null,
 		"_pos" : 1600261235665,
 		"_creationTime" : ISODate("2020-09-16T13:00:35.665Z"),
-		"_updateTime" : ISODate("2020-09-16T13:03:23.811Z")
+		"_updateTime" : ISODate("2020-10-26T22:19:05.365Z")
 	},
 	{
 		"_id" : "0r3G-D2JC",
@@ -4561,7 +4588,7 @@
 	{
 		"_id" : "PfY0pDuMg",
 		"name" : "Écoute intégrale de la conférence plénière  de Jean-François Draperi",
-		"description" : "<p>Écoute intégrale de la conférence plénière n°3 de Jean-François Draperi \"Le temps des méso-républiques intercoopératives\" suivie des échanges et discussions avec la salle</p>",
+		"description" : "<p>Écoute intégrale de la conférence plénière n°3 de Jean-François Draperi (Cnam) \"Le temps des méso-républiques intercoopératives\" suivie des échanges et discussions avec la salle</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/q0dXEX1igMCiRL9",
 		"thematique" : [
@@ -4576,7 +4603,7 @@
 		"_user" : null,
 		"_pos" : 1601452987531,
 		"_creationTime" : ISODate("2020-09-30T08:03:07.531Z"),
-		"_updateTime" : ISODate("2020-10-23T12:38:25.986Z")
+		"_updateTime" : ISODate("2020-10-26T23:21:02.716Z")
 	},
 	{
 		"_id" : "dRXg1Inwz",
@@ -4979,7 +5006,7 @@
 	},
 	{
 		"_id" : "teI57VAeY",
-		"name" : "TR2 - réponse de Rachid Cherfaoui (Maison d’Économie Solidaire) à la question 1",
+		"name" : "TR2 - Réponse de Rachid Cherfaoui (Maison d’Économie Solidaire) à la question 1",
 		"description" : "<p>Réponse de Rachid Cherfaoui (Maison d’Économie Solidaire) à la question portant sur le territoire lors de la table-ronde n°2 \"Territoires solidaires et emploi\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/9vpDwfpn4ZRyLgK",
@@ -4992,7 +5019,7 @@
 		"_user" : null,
 		"_pos" : 1601557782394,
 		"_creationTime" : ISODate("2020-10-01T13:09:42.394Z"),
-		"_updateTime" : ISODate("2020-10-23T14:36:36.485Z")
+		"_updateTime" : ISODate("2020-10-26T22:14:31.268Z")
 	},
 	{
 		"_id" : "MimeZd2WM",
@@ -5009,7 +5036,7 @@
 		"_user" : null,
 		"_pos" : 1601558012150,
 		"_creationTime" : ISODate("2020-10-01T13:13:32.150Z"),
-		"_updateTime" : ISODate("2020-10-23T14:37:01.840Z")
+		"_updateTime" : ISODate("2020-10-26T21:35:37.853Z")
 	},
 	{
 		"_id" : "BjAKAVSSp",
@@ -5083,7 +5110,7 @@
 	{
 		"_id" : "j-Yyo8eDN",
 		"name" : "TR2 - Réponse de Daniel Le Guillou (Territoire Zéro Chômeur de Longue Durée) aux questions 2 et 3",
-		"description" : "<p>Réponse de Daniel Le Guillou (Territoire Zéro Chômeur de Longue Durée) à la question portant sur les formes de solidarités et les ressources mises en commun et à celle portant sur les liens entre territoires lors de la table-ronde n°2 \" Territoires solidaires et emploi\"</p>",
+		"description" : "<p>Réponse de Daniel Le Guillou (Territoire Zéro Chômeur de Longue Durée) à la question portant sur les formes de solidarités et les ressources mises en commun et à celle portant sur les liens entre territoires lors de la table-ronde n°2 \"Territoires solidaires et emploi\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/OVdZl5SL22bmlo7",
 		"thematique" : [
@@ -5097,7 +5124,7 @@
 		"_user" : null,
 		"_pos" : 1601570057282,
 		"_creationTime" : ISODate("2020-10-01T16:34:17.282Z"),
-		"_updateTime" : ISODate("2020-10-23T14:38:25.713Z")
+		"_updateTime" : ISODate("2020-10-26T21:35:29.404Z")
 	},
 	{
 		"_id" : "HpAirmWBA",
@@ -5122,8 +5149,8 @@
 	},
 	{
 		"_id" : "J8dU3hUxs",
-		"name" : "TR2 - question d'Hervé Defalvard",
-		"description" : "<p>TR2 - discussions et échanges - apport d'Hervé Defalvard sur les formes de solidarités</p>",
+		"name" : "TR2 - Question d'Hervé Defalvard",
+		"description" : "<p>Échanges et discussions lors de la table-ronde n°2 \"Territoires solidaires et emploi\" - apport d'Hervé Defalvard sur les formes de solidarités</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/5RlI5s1f5L7HJK0",
 		"thematique" : [
@@ -5133,12 +5160,13 @@
 		"timeline" : "tr2territoiressolidairesetemploi",
 		"_user" : null,
 		"_pos" : 1601572236378,
-		"_creationTime" : ISODate("2020-10-01T17:10:36.378Z")
+		"_creationTime" : ISODate("2020-10-01T17:10:36.378Z"),
+		"_updateTime" : ISODate("2020-10-26T22:14:04.296Z")
 	},
 	{
 		"_id" : "VkypsRE3C",
-		"name" : "TR2 - échanges et discussions dans la salle",
-		"description" : "<p>TR2 - échanges et discussions dans la salle</p>",
+		"name" : "TR2 - Échanges et discussions",
+		"description" : "<p>TR2 - Échanges et discussions dans la salle</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/i2bnLiXRYVD3LuD",
 		"thematique" : [
@@ -5148,11 +5176,12 @@
 		"timeline" : "tr2territoiressolidairesetemploi",
 		"_user" : null,
 		"_pos" : 1601572671436,
-		"_creationTime" : ISODate("2020-10-01T17:17:51.436Z")
+		"_creationTime" : ISODate("2020-10-01T17:17:51.436Z"),
+		"_updateTime" : ISODate("2020-10-26T21:57:05.303Z")
 	},
 	{
 		"_id" : "fd_xw7yVS",
-		"name" : "TR2 - réponse des intervenants aux questions",
+		"name" : "TR2 - Réponse des intervenants aux questions",
 		"description" : "<p>Réponse des intervenants aux questions lors de la table-ronde n°2 \"Territoires solidaires et emploi\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/U8kTRPJk6dZbdG5",
@@ -5165,7 +5194,7 @@
 		"_user" : null,
 		"_pos" : 1601573071297,
 		"_creationTime" : ISODate("2020-10-01T17:24:31.297Z"),
-		"_updateTime" : ISODate("2020-10-23T14:07:37.545Z")
+		"_updateTime" : ISODate("2020-10-26T21:36:42.414Z")
 	},
 	{
 		"_id" : "Vk9pBnvRb",
@@ -5206,7 +5235,7 @@
 	{
 		"_id" : "EVXCxFbaf",
 		"name" : "PL 1 - Intervention de Jean-Louis Laville",
-		"description" : "<p>PL 1 - Enregistrement de l'intervention de Jean-Louis Laville</p>",
+		"description" : "<p>PL 1 - Enregistrement de l'intervention de Jean-Louis Laville \"Démocratie et solidarité\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/N0kH9RMAfWYNM1B",
 		"thematique" : [
@@ -5220,12 +5249,13 @@
 		"timeline" : "pleniere1democratieetsolidarite",
 		"_user" : null,
 		"_pos" : 1601577302548,
-		"_creationTime" : ISODate("2020-10-01T18:35:02.548Z")
+		"_creationTime" : ISODate("2020-10-01T18:35:02.548Z"),
+		"_updateTime" : ISODate("2020-10-26T22:11:59.536Z")
 	},
 	{
 		"_id" : "nBJTCgR26",
-		"name" : "PL 1 - Discussions et échanges ",
-		"description" : "<p>Conférence Plénière n°1 - Echanges et discussions avec Jean-Louis Laville</p>",
+		"name" : "PL 1 - Échanges et discussions avec Jean-Louis Laville",
+		"description" : "<p>Échanges et discussions avec Jean-Louis Laville lors de la conférence plénière n°1 \"Démocratie et solidarité\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/nwvNiJ9itrexZ1g",
 		"thematique" : [
@@ -5237,12 +5267,13 @@
 		"timeline" : "pleniere1democratieetsolidarite",
 		"_user" : null,
 		"_pos" : 1601577839941,
-		"_creationTime" : ISODate("2020-10-01T18:43:59.941Z")
+		"_creationTime" : ISODate("2020-10-01T18:43:59.941Z"),
+		"_updateTime" : ISODate("2020-10-26T22:07:46.235Z")
 	},
 	{
 		"_id" : "4S68x0PGE",
-		"name" : "DP1 - Introduction par Hervé Defalvard",
-		"description" : "<p>Hervé Defalvard présente le principe des débats publics et introduit les propos de Philippe Eynaud pour le débat public n°1 \"Formes de solidarité et commun\"</p>",
+		"name" : "DP1 - Introduction par Hervé Defalvard (IAE-Paris 1)",
+		"description" : "<p>Hervé Defalvard présente le principe des débats publics et introduit les propos de Philippe Eynaud (IAE-Paris 1) pour le débat public n°1 \"Formes de solidarité et commun\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/pKcfIlch6uNL4Cu",
 		"thematique" : [
@@ -5252,12 +5283,12 @@
 		"_user" : null,
 		"_pos" : 1601747427489,
 		"_creationTime" : ISODate("2020-10-03T17:50:27.489Z"),
-		"_updateTime" : ISODate("2020-10-23T12:19:40.698Z")
+		"_updateTime" : ISODate("2020-10-26T21:39:38.607Z")
 	},
 	{
 		"_id" : "Rdb1CcOtz",
-		"name" : "DP1 - Intervention de Philippe Eynaud",
-		"description" : "<p>Intervention de Philippe Eynaud lors du débat public n°1 \"Formes de solidarités et commun\"</p>",
+		"name" : "DP1 - Intervention de Philippe Eynaud (IAE-Paris 1)",
+		"description" : "<p>Intervention de Philippe Eynaud (IAE-Paris 1) lors du débat public n°1 \"Formes de solidarités et commun\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/ZZw8BPh9O1y5O7S",
 		"thematique" : [
@@ -5271,7 +5302,7 @@
 		"_user" : null,
 		"_pos" : 1601747673271,
 		"_creationTime" : ISODate("2020-10-03T17:54:33.271Z"),
-		"_updateTime" : ISODate("2020-10-23T12:18:32.343Z")
+		"_updateTime" : ISODate("2020-10-26T21:39:05.989Z")
 	},
 	{
 		"_id" : "AMS3D6f10",
@@ -5290,8 +5321,8 @@
 	},
 	{
 		"_id" : "sHFyMOdFQ",
-		"name" : "DP1 - Intervention de Stéphane Veyer",
-		"description" : "<p>Intervention de Stéphane Veyer lors du débat public n°1 \"Formes de solidarité et communs\"</p>",
+		"name" : "DP1 - Intervention de Stéphane Veyer (Coop des communs)",
+		"description" : "<p>Intervention de Stéphane Veyer (Coop des communs) lors du débat public n°1 \"Formes de solidarité et communs\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/VnJXVYXrE8gcR1s",
 		"thematique" : [
@@ -5305,7 +5336,7 @@
 		"_user" : null,
 		"_pos" : 1601747914329,
 		"_creationTime" : ISODate("2020-10-03T17:58:34.329Z"),
-		"_updateTime" : ISODate("2020-10-23T12:18:21.509Z")
+		"_updateTime" : ISODate("2020-10-26T21:41:28.741Z")
 	},
 	{
 		"_id" : "gW2NpgguW",
@@ -5332,7 +5363,7 @@
 		"_user" : null,
 		"_pos" : 1601750107251,
 		"_creationTime" : ISODate("2020-10-03T18:35:07.251Z"),
-		"_updateTime" : ISODate("2020-10-23T12:07:03.326Z")
+		"_updateTime" : ISODate("2020-10-26T21:55:43.609Z")
 	},
 	{
 		"_id" : "frpc63O0O",
@@ -5352,8 +5383,8 @@
 	},
 	{
 		"_id" : "zRoKTAuZF",
-		"name" : "PL2 - Intervention de Lionel Maurel",
-		"description" : "<p>\"Faire atterrir les communs numériques\" - Intervention de Lionel Maurel</p>",
+		"name" : "PL2 - Intervention de Lionel Maurel (Cnrs)",
+		"description" : "<p>\"Faire atterrir les communs numériques\" - Intervention de Lionel Maurel (Cnrs)</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/UJYEiC89Z76ci3r",
 		"thematique" : [
@@ -5372,12 +5403,12 @@
 		"_user" : null,
 		"_pos" : 1601832952629,
 		"_creationTime" : ISODate("2020-10-04T17:35:52.629Z"),
-		"_updateTime" : ISODate("2020-10-23T08:34:27.891Z")
+		"_updateTime" : ISODate("2020-10-26T23:15:20.814Z")
 	},
 	{
 		"_id" : "EGZP4LV7k",
-		"name" : "PL2 - Discussions et échanges suite à l'intervention de Lionel Maurel",
-		"description" : "<p>PL2 - Discussions et échanges suite à l'intervention de Lionel Maurel</p>",
+		"name" : "PL2 - Échanges et discussions à l'issue de l'intervention de Lionel Maurel",
+		"description" : "<p>PL2 - Échanges et discussions à l'issue de l'intervention de Lionel Maurel lors de la conférence plénière n°2 \"Faire atterrir les communs numériques\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/XHGf76wxTCBlztU",
 		"thematique" : [
@@ -5397,12 +5428,13 @@
 		"timeline" : "pleniere2faireatterirlescommunsnumeriques",
 		"_user" : null,
 		"_pos" : 1601835280922,
-		"_creationTime" : ISODate("2020-10-04T18:14:40.922Z")
+		"_creationTime" : ISODate("2020-10-04T18:14:40.922Z"),
+		"_updateTime" : ISODate("2020-10-26T22:05:04.011Z")
 	},
 	{
 		"_id" : "0aGlS1dvY",
 		"name" : "TR 4 - Introduction par Elisabetta Bucolo",
-		"description" : "<p>Introduction par Elisabetta Bucolo à la table-ronde n°4 \"Systèmes alimentaires solidaires territorialisés\"</p>",
+		"description" : "<p>Introduction par Elisabetta Bucolo de la table-ronde n°4 \"Systèmes alimentaires solidaires territorialisés\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/tCIJGgrKz2YSw2p",
 		"thematique" : [
@@ -5413,7 +5445,7 @@
 		"_user" : null,
 		"_pos" : 1601880727987,
 		"_creationTime" : ISODate("2020-10-05T06:52:07.987Z"),
-		"_updateTime" : ISODate("2020-10-23T13:36:25.087Z")
+		"_updateTime" : ISODate("2020-10-26T21:42:48.972Z")
 	},
 	{
 		"_id" : "puGPMrv1j",
@@ -5637,8 +5669,8 @@
 	},
 	{
 		"_id" : "w29QLhaT-",
-		"name" : "TR 4 - Discussions et échanges",
-		"description" : "<p> Discussions et échanges lors de la table-ronde n °4 \"Systèmes alimentaires solidaires territorialisés\"</p>",
+		"name" : "TR 4 - Échanges et discussions",
+		"description" : "<p>Échanges et discussions lors de la table-ronde n °4 \"Systèmes alimentaires solidaires territorialisés\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/juAU0DCDHWWIQTw",
 		"thematique" : [
@@ -5655,7 +5687,7 @@
 		"_user" : null,
 		"_pos" : 1601922947185,
 		"_creationTime" : ISODate("2020-10-05T18:35:47.185Z"),
-		"_updateTime" : ISODate("2020-10-23T12:20:46.372Z")
+		"_updateTime" : ISODate("2020-10-26T21:58:37.931Z")
 	},
 	{
 		"_id" : "ysCvm-P8P",
@@ -5682,7 +5714,7 @@
 	{
 		"_id" : "a_IGIeRVm",
 		"name" : "DP 2 - Introduction par Geneviève Fontaine",
-		"description" : "<p>Introduction par Geneviève Fontaine du débat public n°2 \" Regards croisés Nord-Sud, une épistémologie commune ?\"</p>",
+		"description" : "<p>Introduction par Geneviève Fontaine du débat public n°2 \"Regards croisés Nord-Sud, une épistémologie commune ?\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/vUabJSmRJm2dYkN",
 		"thematique" : [
@@ -5693,12 +5725,12 @@
 		"_user" : null,
 		"_pos" : 1601926410114,
 		"_creationTime" : ISODate("2020-10-05T19:33:30.114Z"),
-		"_updateTime" : ISODate("2020-10-23T12:10:55.922Z")
+		"_updateTime" : ISODate("2020-10-26T21:46:40.649Z")
 	},
 	{
 		"_id" : "mKkPoC70B",
-		"name" : "DP 2 - Intervention de Stéphanie Leyronas",
-		"description" : "<p> Intervention de Stéphanie Leyronas lors du débat public n°2 \" Regards croisés Nord-Sud, une épistémologie commune ?\"</p>",
+		"name" : "DP 2 - Intervention de Stéphanie Leyronas (AFD)",
+		"description" : "<p>Intervention de Stéphanie Leyronas (AFD) lors du débat public n°2 \" Regards croisés Nord-Sud, une épistémologie commune ?\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/rwMZHOWxm8WTmCy",
 		"thematique" : [
@@ -5713,12 +5745,12 @@
 		"_user" : null,
 		"_pos" : 1601926624082,
 		"_creationTime" : ISODate("2020-10-05T19:37:04.082Z"),
-		"_updateTime" : ISODate("2020-10-23T12:09:17.930Z")
+		"_updateTime" : ISODate("2020-10-26T21:47:53.279Z")
 	},
 	{
 		"_id" : "0254_fbeO",
-		"name" : "DP 2 - Intervention de Pedro Hespanha",
-		"description" : "<p>Intervention de Pedro Hespanha lors du débat public n°2 \"Regards croisés Nord-Sud, une épistémologie commune ?\"</p>",
+		"name" : "DP 2 - Intervention de Pedro Hespanha (Univ. de Coimbra)",
+		"description" : "<p>Intervention de Pedro Hespanha (Univ. de Coimbra) lors du débat public n°2 \"Regards croisés Nord-Sud, une épistémologie commune ?\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/5qCImVbzDG7G4n9",
 		"thematique" : [
@@ -5733,7 +5765,7 @@
 		"_user" : null,
 		"_pos" : 1601926767993,
 		"_creationTime" : ISODate("2020-10-05T19:39:27.993Z"),
-		"_updateTime" : ISODate("2020-10-23T12:19:14.028Z")
+		"_updateTime" : ISODate("2020-10-26T21:48:58.774Z")
 	},
 	{
 		"_id" : "-yqn8hnpb",
@@ -5816,8 +5848,8 @@
 	},
 	{
 		"_id" : "jUOSH_GcD",
-		"name" : "PL 3 - Discussions et échanges ",
-		"description" : null,
+		"name" : "PL 3 - Échanges et discussions à l'issue de l'intervention de Jean-François Draperi",
+		"description" : "<p>Échanges et discussions à l'issue de l'intervention de Jean-François Draperi lors de la conférence plénière n°3 \"Le temps des méso-républiques inter-coopératives\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/krpa34OBNHqH0y0",
 		"thematique" : [
@@ -5832,7 +5864,8 @@
 		"timeline" : "pleniere3letempsdesmesorepubliquesintercooperatives",
 		"_user" : null,
 		"_pos" : 1601971736191,
-		"_creationTime" : ISODate("2020-10-06T08:08:56.191Z")
+		"_creationTime" : ISODate("2020-10-06T08:08:56.191Z"),
+		"_updateTime" : ISODate("2020-10-26T22:04:17.952Z")
 	},
 	{
 		"_id" : "Zv5qEemJq",
@@ -6092,8 +6125,8 @@
 	},
 	{
 		"_id" : "64Oz266nG",
-		"name" : "DP 3 - Intervention de Nicolas Chochoy",
-		"description" : "<p>Intervention de Nicolas Chochoy lors du débat public n°3 \"Valeurs et communs pour les territoires\"</p>",
+		"name" : "DP 3 - Intervention de Nicolas Chochoy (Institut Godin)",
+		"description" : "<p>Intervention de Nicolas Chochoy (Institut Godin) lors du débat public n°3 \"Valeurs et communs pour les territoires\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/lT0LkFkEyxL8GpR",
 		"thematique" : [
@@ -6108,7 +6141,7 @@
 		"_user" : null,
 		"_pos" : 1602053193438,
 		"_creationTime" : ISODate("2020-10-07T06:46:33.438Z"),
-		"_updateTime" : ISODate("2020-10-23T12:18:11.417Z")
+		"_updateTime" : ISODate("2020-10-26T23:12:19.613Z")
 	},
 	{
 		"_id" : "kPepZWf-R",
@@ -6131,7 +6164,7 @@
 	{
 		"_id" : "prxXLe-_Z",
 		"name" : "DP 3 - Échanges et discussions",
-		"description" : "<p> Échanges et discussions et lors du débat-public n°3 \"Valeurs et communs pour les territoires\"</p>",
+		"description" : "<p>Échanges et discussions lors du débat-public n°3 \"Valeurs et communs pour les territoires\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/2NO1BwH0sjAA5Pa",
 		"thematique" : [
@@ -6158,7 +6191,7 @@
 		"_user" : null,
 		"_pos" : 1602061396606,
 		"_creationTime" : ISODate("2020-10-07T09:03:16.606Z"),
-		"_updateTime" : ISODate("2020-10-23T12:11:27.667Z")
+		"_updateTime" : ISODate("2020-10-26T21:59:32.768Z")
 	},
 	{
 		"_id" : "gi1QJPYHN",
@@ -6177,8 +6210,8 @@
 	},
 	{
 		"_id" : "lsRKBdIlT",
-		"name" : "DP 4 - Intervention de François-Xavier Viallon",
-		"description" : "<p>Intervention de François-Xavier Viallon lors du débat public n°4 \"Pouvoirs publics et communs\" : le cas de la Suisse</p>",
+		"name" : "DP 4 - Intervention de François-Xavier Viallon (Univ. de Lausanne)",
+		"description" : "<p>Intervention de François-Xavier Viallon (Univ. de Lausanne) lors du débat public n°4 \"Pouvoirs publics et communs\" : le cas de la Suisse</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/cuBtEwhLbWeZ5RD",
 		"thematique" : [
@@ -6192,12 +6225,12 @@
 		"_user" : null,
 		"_pos" : 1602062802327,
 		"_creationTime" : ISODate("2020-10-07T09:26:42.327Z"),
-		"_updateTime" : ISODate("2020-10-23T12:17:35.053Z")
+		"_updateTime" : ISODate("2020-10-26T21:50:30.242Z")
 	},
 	{
 		"_id" : "dZwLERco5",
-		"name" : "DP 4 - Intervention de Silke Helfrich",
-		"description" : "<p>Intervention de Silke Helfrich lors du débat public n°4 \"Pouvoirs publics et communs\" : les patterns du commoning et l'ontologie relationnelle différenciée</p>",
+		"name" : "DP 4 - Intervention de Silke Helfrich (Commons Strategies Group)",
+		"description" : "<p>Intervention de Silke Helfrich (Commons Strategies Group) lors du débat public n°4 \"Pouvoirs publics et communs\" : les patterns du commoning et l'ontologie relationnelle différenciée</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/HUDySmSwif3ToKl",
 		"thematique" : [
@@ -6216,7 +6249,7 @@
 		"_user" : null,
 		"_pos" : 1602064327500,
 		"_creationTime" : ISODate("2020-10-07T09:52:07.500Z"),
-		"_updateTime" : ISODate("2020-10-23T12:17:16.379Z")
+		"_updateTime" : ISODate("2020-10-26T21:51:27.180Z")
 	},
 	{
 		"_id" : "sZFc5qtb0",
@@ -6431,7 +6464,7 @@
 	},
 	{
 		"_id" : "hGwqvUjlh",
-		"name" : "TR 6 - Discussions et échanges",
+		"name" : "TR 6 - Échanges et discussions",
 		"description" : "<p>Échanges et discussions lors de la table-ronde n°6 \"Grande entreprise et territoire\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/hcdVsO8ZqRnvSlN",
@@ -6452,7 +6485,7 @@
 		"_user" : null,
 		"_pos" : 1602417767189,
 		"_creationTime" : ISODate("2020-10-11T12:02:47.189Z"),
-		"_updateTime" : ISODate("2020-10-23T13:29:19.414Z")
+		"_updateTime" : ISODate("2020-10-26T21:58:12.408Z")
 	},
 	{
 		"_id" : "_0DViIF63",
@@ -6473,8 +6506,8 @@
 	},
 	{
 		"_id" : "fPclK3RT1",
-		"name" : "PL 4 - Intervention d'Isabelle Delannoy",
-		"description" : "<p>PL 4 - Intervention d'Isabelle Delannoy \"Economie symbiotique, écologie et commun\"</p>",
+		"name" : "PL 4 - Intervention d'Isabelle Delannoy (Do Green)",
+		"description" : "<p>Intervention d'Isabelle Delannoy (Do Green) lors de la conférence plénière n°4 \"Économie symbiotique, écologie et commun\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/pp7Pd4b7zFfcql1",
 		"thematique" : [
@@ -6489,12 +6522,13 @@
 		"timeline" : "pleniere4economiesymbiotiqueecologieetcommun",
 		"_user" : null,
 		"_pos" : 1602434326920,
-		"_creationTime" : ISODate("2020-10-11T16:38:46.920Z")
+		"_creationTime" : ISODate("2020-10-11T16:38:46.920Z"),
+		"_updateTime" : ISODate("2020-10-26T23:23:27.570Z")
 	},
 	{
 		"_id" : "uoFtqAfGJ",
-		"name" : "PL 4 - Discussions et échanges",
-		"description" : "<p>PL 4 - Discussions et échanges après l'intervention d'Isabelle Delannoy \"Économie symbiotique, écologie et commun\"</p>",
+		"name" : "PL 4 - Échanges et discussions à l'issue de l'intervention d'Isabelle Delannoy ",
+		"description" : "<p>PL 4 - Échanges et discussions à l'issue de l'intervention d'Isabelle Delannoy \"Économie symbiotique, écologie et commun\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/npcJFd7xZICRIe6",
 		"thematique" : [
@@ -6514,7 +6548,7 @@
 		"_user" : null,
 		"_pos" : 1602436666118,
 		"_creationTime" : ISODate("2020-10-11T17:17:46.118Z"),
-		"_updateTime" : ISODate("2020-10-23T07:12:29.510Z")
+		"_updateTime" : ISODate("2020-10-26T22:00:55.063Z")
 	},
 	{
 		"_id" : "XOA9p8f4R",
@@ -6740,7 +6774,7 @@
 	},
 	{
 		"_id" : "n9A0fdlYs",
-		"name" : "TR - Echanges et discussions",
+		"name" : "TR 7 - Échanges et discussions",
 		"description" : "<p>Échanges et discussions lors de la table-ronde n°7 \"Échelles territoriales de la santé en commun\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/d6u0GMgvHe89rar",
@@ -6764,7 +6798,7 @@
 		"_user" : null,
 		"_pos" : 1602444479314,
 		"_creationTime" : ISODate("2020-10-11T19:27:59.314Z"),
-		"_updateTime" : ISODate("2020-10-23T13:26:05.573Z")
+		"_updateTime" : ISODate("2020-10-26T21:57:49.245Z")
 	},
 	{
 		"_id" : "SLaTDsb7r",
@@ -6897,7 +6931,7 @@
 	},
 	{
 		"_id" : "lkcV5TX0s",
-		"name" : "TR 8 - Echanges et discussions",
+		"name" : "TR 8 - Échanges et discussions",
 		"description" : "<p>TR8 - Échanges et discussions lors de la table-ronde n°8 \"Habiter en commun les territoires\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/XhVw5Vt97TMFvzK",
@@ -6916,7 +6950,7 @@
 		"_user" : null,
 		"_pos" : 1602516114168,
 		"_creationTime" : ISODate("2020-10-12T15:21:54.168Z"),
-		"_updateTime" : ISODate("2020-10-23T13:23:47.238Z")
+		"_updateTime" : ISODate("2020-10-26T21:57:32.806Z")
 	},
 	{
 		"_id" : "aI53BSBfV",
@@ -6936,8 +6970,8 @@
 	},
 	{
 		"_id" : "n95iEc5eO",
-		"name" : "DP 5 - Intervention de Melaine Cervera",
-		"description" : "<p>Intervention de Melaine Cervera lors du débat public n°5 \"Émancipation et commun\"</p>",
+		"name" : "DP 5 - Intervention de Melaine Cervera (Univ. de Lorraine)",
+		"description" : "<p>Intervention de Melaine Cervera (Univ. de Lorraine) lors du débat public n°5 \"Émancipation et commun\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/4Un9myPZFta5U2L",
 		"thematique" : [
@@ -6953,12 +6987,12 @@
 		"_user" : null,
 		"_pos" : 1602531532288,
 		"_creationTime" : ISODate("2020-10-12T19:38:52.288Z"),
-		"_updateTime" : ISODate("2020-10-23T12:18:53.482Z")
+		"_updateTime" : ISODate("2020-10-26T23:10:53.601Z")
 	},
 	{
 		"_id" : "8kw30p0Tt",
-		"name" : "DP 5 - Intervention de Fanélie Carrey-Conte",
-		"description" : "<p> Intervention de Fanélie Carrey-Conte lors du débat public n°5 \"Émancipation et commun\"</p>",
+		"name" : "DP 5 - Intervention de Fanélie Carrey-Conte (Coop des communs)",
+		"description" : "<p>Intervention de Fanélie Carrey-Conte (Coop des communs) lors du débat public n°5 \"Émancipation et commun\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/sZNJszdVmMTzEs7",
 		"thematique" : [
@@ -6975,7 +7009,7 @@
 		"_user" : null,
 		"_pos" : 1602532469875,
 		"_creationTime" : ISODate("2020-10-12T19:54:29.875Z"),
-		"_updateTime" : ISODate("2020-10-23T12:15:41.565Z")
+		"_updateTime" : ISODate("2020-10-26T23:10:00.476Z")
 	},
 	{
 		"_id" : "raFDiJ4k_",
@@ -7027,8 +7061,8 @@
 	},
 	{
 		"_id" : "Bje65iZl-",
-		"name" : "DP 6 - Intervention de Denis Dupré",
-		"description" : "<p>Intervention de Denis Dupré lors du débat public n°6 \"Monnaie et commun\"</p>",
+		"name" : "DP 6 - Intervention de Denis Dupré (Univ. de Grenoble)",
+		"description" : "<p>Intervention de Denis Dupré (Univ. de Grenoble) lors du débat public n°6 \"Monnaie et commun\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/4y3WrLz2oumVjTC",
 		"thematique" : [
@@ -7046,12 +7080,12 @@
 		"_user" : null,
 		"_pos" : 1602665402234,
 		"_creationTime" : ISODate("2020-10-14T08:50:02.234Z"),
-		"_updateTime" : ISODate("2020-10-23T12:15:09.920Z")
+		"_updateTime" : ISODate("2020-10-26T23:09:03.512Z")
 	},
 	{
 		"_id" : "eAemCkr65",
-		"name" : "DP 6 - Intervention de Marie Fare",
-		"description" : "<p>Intervention de Marie Fare lors du débat public n°6 \"Monnaie et commun\"</p>",
+		"name" : "DP 6 - Intervention de Marie Fare (Univ. Lyon 2)",
+		"description" : "<p>Intervention de Marie Fare (Univ. Lyon 2) lors du débat public n°6 \"Monnaie et commun\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/NueEh1KXPWov8ji",
 		"thematique" : [
@@ -7068,7 +7102,7 @@
 		"_user" : null,
 		"_pos" : 1602665537553,
 		"_creationTime" : ISODate("2020-10-14T08:52:17.553Z"),
-		"_updateTime" : ISODate("2020-10-23T12:15:00.557Z")
+		"_updateTime" : ISODate("2020-10-26T23:08:26.065Z")
 	},
 	{
 		"_id" : "IvAwidVv3",
@@ -7119,8 +7153,8 @@
 	},
 	{
 		"_id" : "02sR_uf2v",
-		"name" : "DP 7 - Intervention de Denis Durand",
-		"description" : "<p> Intervention de Denis Durand lors du débat public n°7 \"Critères et outils de gestion et commun\"</p>",
+		"name" : "DP 7 - Intervention de Denis Durand ((Revue Économie et politique)",
+		"description" : "<p>Intervention de Denis Durand (Revue Économie et politique) lors du débat public n°7 \"Critères et outils de gestion et commun\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/E2gxLGLGHFxIeU9",
 		"thematique" : [
@@ -7133,12 +7167,12 @@
 		"_user" : null,
 		"_pos" : 1602684489979,
 		"_creationTime" : ISODate("2020-10-14T14:08:09.979Z"),
-		"_updateTime" : ISODate("2020-10-23T12:14:33.016Z")
+		"_updateTime" : ISODate("2020-10-26T23:07:29.627Z")
 	},
 	{
 		"_id" : "vbwI8fasP",
-		"name" : "DP 7 - Intervention de Nicole Alix",
-		"description" : "<p>Intervention de Nicole Alix lors du débat public n°7 \"Critères et outils de gestion et commun\"</p>",
+		"name" : "DP 7 - Intervention de Nicole Alix (Coop des communs)",
+		"description" : "<p>Intervention de Nicole Alix (Coop des communs) lors du débat public n°7 \"Critères et outils de gestion et commun\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/KKyhgCbBGoF3YAN",
 		"thematique" : [
@@ -7154,7 +7188,7 @@
 		"_user" : null,
 		"_pos" : 1602684642481,
 		"_creationTime" : ISODate("2020-10-14T14:10:42.481Z"),
-		"_updateTime" : ISODate("2020-10-23T12:14:21.681Z")
+		"_updateTime" : ISODate("2020-10-26T23:06:43.099Z")
 	},
 	{
 		"_id" : "KOn8QkopI",
@@ -7336,8 +7370,8 @@
 	},
 	{
 		"_id" : "oiSvo0a0p",
-		"name" : "TR 3 - Introduction de la question 3 par Hervé Defalvard",
-		"description" : "<p>Introduction de la question portant sur les liens entre les territoires et initiatives par Hervé Defalvard lors de la table-ronde n°3 \"Énergie durable et territoire\"</p>",
+		"name" : "TR 3 - Introduction par Hervé Defalvard de la question 3 ",
+		"description" : "<p>Introduction par Hervé Defalvard de la question portant sur les liens entre les territoires et initiatives lors de la table-ronde n°3 \"Énergie durable et territoire\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/8xtAPAqpEozQBgb",
 		"thematique" : [
@@ -7347,7 +7381,7 @@
 		"_user" : null,
 		"_pos" : 1602766897065,
 		"_creationTime" : ISODate("2020-10-15T13:01:37.065Z"),
-		"_updateTime" : ISODate("2020-10-23T14:15:00.214Z")
+		"_updateTime" : ISODate("2020-10-26T21:54:47.304Z")
 	},
 	{
 		"_id" : "3Nxc7QPHp",
@@ -7408,7 +7442,7 @@
 	},
 	{
 		"_id" : "5Ag9rRYnl",
-		"name" : "TR 3 - Echanges et discussions",
+		"name" : "TR 3 - Échanges et discussions",
 		"description" : "<p>Échanges et discussions lors de la table-ronde n°3 \"Énergie durable et territoire\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/j8jYK58Be0Vxg3k",
@@ -7425,7 +7459,7 @@
 		"_user" : null,
 		"_pos" : 1602789813339,
 		"_creationTime" : ISODate("2020-10-15T19:23:33.339Z"),
-		"_updateTime" : ISODate("2020-10-23T13:22:49.422Z")
+		"_updateTime" : ISODate("2020-10-26T21:57:20.191Z")
 	},
 	{
 		"_id" : "iOZCkfL1b",
@@ -7489,8 +7523,8 @@
 	},
 	{
 		"_id" : "h_tDhL11v",
-		"name" : "DP 8 - Intervention de Benjamin Coriat",
-		"description" : "<p> Intervention de Benjamin Coriat lors du débat public n°8 \"Droit, commun et territoire\"</p>",
+		"name" : "DP 8 - Intervention de Benjamin Coriat (Coop des communs)",
+		"description" : "<p>Intervention de Benjamin Coriat (Coop des communs) lors du débat public n°8 \"Droit, commun et territoire\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/Ct20uJh5v6khn2x",
 		"thematique" : [
@@ -7507,12 +7541,12 @@
 		"_user" : null,
 		"_pos" : 1603365142104,
 		"_creationTime" : ISODate("2020-10-22T11:12:22.104Z"),
-		"_updateTime" : ISODate("2020-10-23T12:13:54.196Z")
+		"_updateTime" : ISODate("2020-10-26T23:05:46.988Z")
 	},
 	{
 		"_id" : "bhZaIEgfz",
-		"name" : "DP 8 - Intervention de Viviane Hamon",
-		"description" : "<p>Intervention de Viviane Hamon lors du débat public n°8 \"Droit, commun et territoire\"</p>",
+		"name" : "DP 8 - Intervention de Viviane Hamon (Conseil)",
+		"description" : "<p>Intervention de Viviane Hamon (Conseil) lors du débat public n°8 \"Droit, commun et territoire\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/FyMn67bxVIf2NVW",
 		"thematique" : [
@@ -7528,7 +7562,7 @@
 		"_user" : null,
 		"_pos" : 1603365291613,
 		"_creationTime" : ISODate("2020-10-22T11:14:51.613Z"),
-		"_updateTime" : ISODate("2020-10-23T12:13:44.824Z")
+		"_updateTime" : ISODate("2020-10-26T23:05:20.040Z")
 	},
 	{
 		"_id" : "Tb60WpJjU",
@@ -7556,8 +7590,8 @@
 	},
 	{
 		"_id" : "nRXMs6qhK",
-		"name" : "DP 8 - Conclusion par Viviane Hamon et Benjamin Coriat",
-		"description" : "<p>Conclusion par Viviane Hamon et Benjamin Coriat du débat public n°8 \"Droit, commun et territoire\"</p>",
+		"name" : "DP 8 - Conclusion par Viviane Hamon (Conseil) et Benjamin Coriat (Coop des communs) ",
+		"description" : "<p>Conclusion par Viviane Hamon (Conseil) et Benjamin Coriat (Coop des communs) du débat public n°8 \"Droit, commun et territoire\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/nPmJAdKG8z7e5AA",
 		"thematique" : [
@@ -7572,7 +7606,7 @@
 		"_user" : null,
 		"_pos" : 1603372045110,
 		"_creationTime" : ISODate("2020-10-22T13:07:25.110Z"),
-		"_updateTime" : ISODate("2020-10-23T12:16:23Z")
+		"_updateTime" : ISODate("2020-10-26T23:04:57.621Z")
 	},
 	{
 		"_id" : "5yWEa4xFZ",
@@ -7592,8 +7626,8 @@
 	},
 	{
 		"_id" : "kYt9bnDNk",
-		"name" : "DP 9 - Intervention de Jean-Louis Bancel",
-		"description" : "<p>Intervention de Jean-Louis Bancel lors du débat public n°9 \"Coopératives et communs pour quelles solidarités ?\"</p>",
+		"name" : "DP 9 - Intervention de Jean-Louis Bancel (Crédit coopératif) ",
+		"description" : "<p>Intervention de Jean-Louis Bancel (Crédit coopératif) lors du débat public n°9 \"Coopératives et communs pour quelles solidarités ?\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/nukIgmYMkGtpI9P",
 		"thematique" : [
@@ -7607,12 +7641,12 @@
 		"_user" : null,
 		"_pos" : 1603372488163,
 		"_creationTime" : ISODate("2020-10-22T13:14:48.163Z"),
-		"_updateTime" : ISODate("2020-10-23T12:12:56.030Z")
+		"_updateTime" : ISODate("2020-10-26T23:03:13.817Z")
 	},
 	{
 		"_id" : "vhrdGcmxu",
-		"name" : "DP 9 - Intervention de Noémie de Grenier",
-		"description" : "<p>Intervention de Noémie de Grenier lors du débat public n°9 \"Coopératives et commun pour quelles solidarités ?\"</p>",
+		"name" : "DP 9 - Intervention de Noémie de Grenier (Coopaname)",
+		"description" : "<p>Intervention de Noémie de Grenier&nbsp;(Coopaname) lors du débat public n°9 \"Coopératives et commun pour quelles solidarités ?\"</p>",
 		"type" : "son",
 		"url" : "https://cloud.scic-tetris.org/s/79t0b9kUaLg0mjA",
 		"thematique" : [
@@ -7627,7 +7661,7 @@
 		"_user" : null,
 		"_pos" : 1603373073417,
 		"_creationTime" : ISODate("2020-10-22T13:24:33.417Z"),
-		"_updateTime" : ISODate("2020-10-23T12:16:31.845Z")
+		"_updateTime" : ISODate("2020-10-26T23:02:24.671Z")
 	},
 	{
 		"_id" : "NP516-wu2",
@@ -8516,7 +8550,7 @@
 	{
 		"_id" : "tFQ_N2ORq",
 		"name" : "TR 9 - Echanges et discussions ",
-		"description" : "<p>Échanges et discussions lors de la table ronde n°9 \"Friches en commun et territoires\"</p>",
+		"description" : "<p>Échanges et discussions lors de la table-ronde n°9 \"Friches en commun et territoires\"</p>",
 		"type" : "pdf",
 		"url" : "https://cloud.scic-tetris.org/s/9K8k8YBmNLfJ68L",
 		"thematique" : [
@@ -8534,7 +8568,7 @@
 		"_user" : null,
 		"_pos" : 1603704639663,
 		"_creationTime" : ISODate("2020-10-26T09:30:39.663Z"),
-		"_updateTime" : ISODate("2020-10-26T20:02:15.776Z")
+		"_updateTime" : ISODate("2020-10-26T22:00:11.894Z")
 	},
 	{
 		"_id" : "aD6jvsmgl",
