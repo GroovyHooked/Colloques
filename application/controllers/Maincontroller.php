@@ -315,7 +315,7 @@ class Maincontroller extends CI_Controller
 		// on récupère le paramètre "search" passé en paramètre
 		if (isset($_GET["search"]))
 		{
-			$keywords = htmlentities(htmlspecialchars(strip_tags(addslashes($_GET["search"])))) ;
+			$keywords = htmlentities(htmlspecialchars(strip_tags(addslashes(remove_accents($_GET["search"]))))) ;
 		}
 		// préparation des données
 		$this->datas["thematique"] = "Résultats de la recherche pour \"".$keywords."\"" ;
